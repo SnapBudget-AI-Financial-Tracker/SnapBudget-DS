@@ -38,3 +38,7 @@ Browser akan otomatis terbuka di `http://localhost:8501`
 | 🔥 PB2 · Profil & Status | Stacked bar, heatmap, radar chart |
 | 📈 Analisis Lanjutan | Tren harian, distribusi profil, klasifikasi teks |
 | 🗃️ Eksplorasi Dataset | Preview & statistik deskriptif tiap dataset |
+
+## Dashboard Streamlit Deploy
+https://snapbudgetdashboard-app.streamlit.app/
+
