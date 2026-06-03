@@ -1,0 +1,1728 @@
+text,text_clean,label_id,category,panjang_karakter,jumlah_kata,ada_angka,semua_kapital,jumlah_kata_kunci_cocok,kata_makanan,kata_minuman,kata_transportasi,kata_belanja,kata_tagihan,kata_hiburan,kata_kesehatan
+Nasi Campur Bali,nasi campur bali,0,makanan,16,3,0,0,1,1,0,0,0,0,0,0
+Bbk Bengil Nasi,bbk bengil nasi,0,makanan,15,3,0,0,1,1,0,0,0,0,0,0
+MilkShake Starwb,milkshake starwb,1,minuman,16,2,0,0,2,1,1,0,0,0,0,0
+Ice Lemon Tea,ice lemon tea,1,minuman,13,3,0,0,1,0,1,0,0,0,0,0
+Nasi Ayam Dewata,nasi ayam dewata,0,makanan,16,3,0,0,1,1,0,0,0,0,0,0
+Free Ice Tea,free ice tea,1,minuman,12,3,0,0,1,0,1,0,0,0,0,0
+Organic Green Sa,organic green sa,7,lain_lain,16,3,0,0,0,0,0,0,0,0,0,0
+Ice Tea,ice tea,1,minuman,7,2,0,0,1,0,1,0,0,0,0,0
+Ice Orange,ice orange,1,minuman,10,2,0,0,1,0,1,0,0,0,0,0
+Ayam Suir Bali,ayam suir bali,0,makanan,14,3,0,0,1,1,0,0,0,0,0,0
+Tahu Goreng,tahu goreng,0,makanan,11,2,0,0,1,1,0,0,0,0,0,0
+Tempe Goreng,tempe goreng,0,makanan,12,2,0,0,1,1,0,0,0,0,0,0
+Tahu Telor Asin,tahu telor asin,0,makanan,15,3,0,0,1,1,0,0,0,0,0,0
+Nasi Goreng Samb,nasi goreng samb,0,makanan,16,3,0,0,1,1,0,0,0,0,0,0
+Bbk Panggang Sam,bbk panggang sam,0,makanan,16,3,0,0,1,1,0,0,0,0,0,0
+Ayam Sambal Hija,ayam sambal hija,0,makanan,16,3,0,0,1,1,0,0,0,0,0,0
+Hot Tea,hot tea,1,minuman,7,2,0,0,1,0,1,0,0,0,0,0
+Ice Kopi,ice kopi,1,minuman,8,2,0,0,1,0,1,0,0,0,0,0
+Bebek Street,bebek street,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+Ice Tea Tawar,ice tea tawar,1,minuman,13,3,0,0,1,0,1,0,0,0,0,0
+SPGTHY BOLOGNASE,spgthy bolognase,7,lain_lain,16,2,0,1,0,0,0,0,0,0,0,0
+PEPPER AUS,pepper aus,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+WAGYU RIBEYE,wagyu ribeye,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+ICED LEMON TEA,iced lemon tea,1,minuman,14,3,0,1,1,0,1,0,0,0,0,0
+FUSION TEA LYCHE,fusion tea lyche,1,minuman,16,3,0,1,1,0,1,0,0,0,0,0
+NUTTELA BROWNIES,nuttela brownies,1,minuman,16,2,0,1,1,0,1,0,0,0,0,0
+HAKAU UDANG,hakau udang,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+SIAO MAI BABI,siao mai babi,0,makanan,13,3,0,1,1,1,0,0,0,0,0,0
+CEKER AYAM,ceker ayam,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+BAKPAO BKR C CRISPY,bakpao bkr c crispy,7,lain_lain,19,4,0,1,0,0,0,0,0,0,0,0
+TAHU GORENG CRISPY,tahu goreng crispy,0,makanan,18,3,0,1,1,1,0,0,0,0,0,0
+Bintang Bremer,bintang bremer,7,lain_lain,14,2,0,0,0,0,0,0,0,0,0,0
+Chicken H-H,chicken h h,0,makanan,11,3,0,0,1,1,0,0,0,0,0,0
+Ades,ades,1,minuman,4,1,0,0,1,0,1,0,0,0,0,0
+BASO BIHUN,baso bihun,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+Lasagna,lasagna,0,makanan,7,1,0,0,1,1,0,0,0,0,0,0
+Spaghetti ChickPesto,spaghetti chickpesto,1,minuman,20,2,0,0,2,0,1,0,0,0,1,0
+BangBang Chick Wings,bangbang chick wings,7,lain_lain,20,3,0,0,0,0,0,0,0,0,0,0
+Iced Cappuccino,iced cappuccino,1,minuman,15,2,0,0,1,0,1,0,0,0,0,0
+Gypsy Gelato Ice Tea,gypsy gelato ice tea,1,minuman,20,4,0,0,1,0,1,0,0,0,0,0
+BASO TAHU,baso tahu,0,makanan,9,2,0,1,1,1,0,0,0,0,0,0
+ES JERUK,es jeruk,1,minuman,8,2,0,1,1,0,1,0,0,0,0,0
+PKT AYAM,pkt ayam,0,makanan,8,2,0,1,1,1,0,0,0,0,0,0
+Kimchi P,kimchi p,7,lain_lain,8,2,0,0,0,0,0,0,0,0,0,0
+Fre ice grentea,fre ice grentea,1,minuman,15,3,0,0,2,0,1,0,0,1,0,0
+THAI ICED TEA,thai iced tea,1,minuman,13,3,0,1,1,0,1,0,0,0,0,0
+Viet Milk Coffee,viet milk coffee,1,minuman,16,3,0,0,2,1,1,0,0,0,0,0
+Ayam Bakar,ayam bakar,0,makanan,10,2,0,0,1,1,0,0,0,0,0,0
+Nasi Putih,nasi putih,0,makanan,10,2,0,0,1,1,0,0,0,0,0,0
+Nila Bakar/Goreng,nila bakar goreng,0,makanan,17,3,0,0,1,1,0,0,0,0,0,0
+Sop Gurame,sop gurame,0,makanan,10,2,0,0,1,1,0,0,0,0,0,0
+Teh Poci,teh poci,1,minuman,8,2,0,0,1,0,1,0,0,0,0,0
+NASI + AYAM KATSU TER...,nasi ayam katsu ter,0,makanan,19,4,0,1,1,1,0,0,0,0,0,0
+TEH PANAS,teh panas,1,minuman,9,2,0,1,1,0,1,0,0,0,0,0
+ES TEH MANIS,es teh manis,1,minuman,12,3,0,1,1,0,1,0,0,0,0,0
+CH CORDON BLEU NASI,ch cordon bleu nasi,0,makanan,19,4,0,1,1,1,0,0,0,0,0,0
+BLACK PEPPER MEATBALL,black pepper meatball,0,makanan,21,3,0,1,1,1,0,0,0,0,0,0
+GREEN TEA WITH CRUMBLE,green tea with crumble,1,minuman,22,4,0,1,1,0,1,0,0,0,0,0
+EARL GREY MILK TEA,earl grey milk tea,1,minuman,18,4,0,1,2,1,1,0,0,0,0,0
+ORIGINAL BREWED TEA,original brewed tea,1,minuman,19,3,0,1,1,0,1,0,0,0,0,0
+4005-Maple glazed,4005 maple glazed,7,lain_lain,17,3,1,0,0,0,0,0,0,0,0,0
+6001-Plastic Bag Small,6001 plastic bag small,3,belanja,22,4,1,0,1,0,0,0,1,0,0,0
+QUARTO FORMANGGI PASTA,quarto formanggi pasta,0,makanan,22,3,0,1,1,1,0,0,0,0,0,0
+- TICKET CP,ticket cp,2,transportasi,9,2,0,1,2,0,0,1,0,0,1,0
+RB. COKLAT BAR,rb coklat bar,1,minuman,13,3,0,1,1,0,1,0,0,0,0,0
+RB. CREPES TUNA,rb crepes tuna,1,minuman,14,3,0,1,2,1,1,0,0,0,0,0
+RB. SISIR PANDAN,rb sisir pandan,7,lain_lain,15,3,0,1,0,0,0,0,0,0,0,0
+KING DEAL FISH,king deal fish,0,makanan,14,3,0,1,1,1,0,0,0,0,0,0
+UDANG RE,udang re,0,makanan,8,2,0,1,1,1,0,0,0,0,0,0
+AYM GR JUN NJAN,aym gr jun njan,7,lain_lain,15,4,0,1,0,0,0,0,0,0,0,0
+SAPO TH SEAFOOD,sapo th seafood,7,lain_lain,15,3,0,1,0,0,0,0,0,0,0,0
+POCAI 3,pocai 3,7,lain_lain,7,2,1,1,0,0,0,0,0,0,0,0
+GURAME FILLET M ASAM MANIS,gurame fillet m asam manis,7,lain_lain,26,5,0,1,0,0,0,0,0,0,0,0
+BIHUN GORENG JJ,bihun goreng jj,0,makanan,15,3,0,1,1,1,0,0,0,0,0,0
+ICED TEA,iced tea,1,minuman,8,2,0,1,1,0,1,0,0,0,0,0
+NASI PUTIH,nasi putih,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+BUBUR UNGU,bubur ungu,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+SENDOK BEBEK,sendok bebek,3,belanja,12,2,0,1,1,0,0,0,1,0,0,0
+WAJIK,wajik,7,lain_lain,5,1,0,1,0,0,0,0,0,0,0,0
+CENTIK MANIS,centik manis,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+PLASTIK SEDANG,plastik sedang,3,belanja,14,2,0,1,1,0,0,0,1,0,0,0
+1001-Choco Bun,1001 choco bun,0,makanan,14,3,1,0,1,1,0,0,0,0,0,0
+2001-Hokkaido Milk Toast,2001 hokkaido milk toast,1,minuman,24,4,1,0,2,1,1,0,0,0,0,0
+6002-Plastic Bag Medium,6002 plastic bag medium,3,belanja,23,4,1,0,1,0,0,0,1,0,0,0
+Ice t grentea,ice t grentea,1,minuman,13,3,0,0,2,0,1,0,0,1,0,0
+S-Lemon Macchiato,s lemon macchiato,1,minuman,17,3,0,0,1,0,1,0,0,0,0,0
+1032-Double Cheddar,1032 double cheddar,7,lain_lain,19,3,1,0,0,0,0,0,0,0,0,0
+CRISPY CHOCO,crispy choco,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+Pepenero Pastel,pepenero pastel,7,lain_lain,15,2,0,0,0,0,0,0,0,0,0,0
+MEGA,mega,7,lain_lain,4,1,0,1,0,0,0,0,0,0,0,0
+A.MINERAL BOTOL,a mineral botol,1,minuman,15,3,0,1,4,1,1,1,1,0,0,0
+AMBUSH DBL CHS BURG,ambush dbl chs burg,2,transportasi,19,4,0,1,1,0,0,1,0,0,0,0
+AMBUSH CHS BURGER,ambush chs burger,0,makanan,17,3,0,1,2,1,0,1,0,0,0,0
+TAKE AWAY CHARGE,take away charge,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+VANDOOLEN,vandoolen,7,lain_lain,9,1,0,1,0,0,0,0,0,0,0,0
+PLASTIK 25,plastik 25,3,belanja,10,2,1,1,1,0,0,0,1,0,0,0
+"Chicken HCC, 1Pcs",chicken hcc 1pcs,0,makanan,16,3,1,0,1,1,0,0,0,0,0,0
+Colonel Burger,colonel burger,0,makanan,14,2,0,0,1,1,0,0,0,0,0,0
+Ketoprak,ketoprak,0,makanan,8,1,0,0,1,1,0,0,0,0,0,0
+AREM - AREM,arem arem,7,lain_lain,9,2,0,1,0,0,0,0,0,0,0,0
+LEMPER,lemper,7,lain_lain,6,1,0,1,0,0,0,0,0,0,0,0
+PLASTIK KECIL,plastik kecil,3,belanja,13,2,0,1,1,0,0,0,1,0,0,0
+OMA NASI KUNING CAKALANG MANI,oma nasi kuning cakalang mani,0,makanan,29,5,0,1,1,1,0,0,0,0,0,0
+Cuka Apel Moringa,cuka apel moringa,7,lain_lain,17,3,0,0,0,0,0,0,0,0,0,0
+GONG GIBAB,gong gibab,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+BO SSAM,bo ssam,7,lain_lain,7,2,0,1,0,0,0,0,0,0,0,0
+HAEMUL DENJANG JJIGAE,haemul denjang jjigae,7,lain_lain,21,3,0,1,0,0,0,0,0,0,0,0
+MULNAENGMYO N,mulnaengmyo n,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+MINI CHOCO,mini choco,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+DumDum Thai Iced Green Tea,dumdum thai iced green tea,1,minuman,26,5,0,0,1,0,1,0,0,0,0,0
+H COUPLE SEA,h couple sea,7,lain_lain,12,3,0,1,0,0,0,0,0,0,0,0
+BURGER CHIC DECKER,burger chic decker,0,makanan,18,3,0,1,1,1,0,0,0,0,0,0
+Home Made Lemonade,home made lemonade,1,minuman,18,3,0,0,1,0,1,0,0,0,0,0
+KOREAN CURRY M,korean curry m,7,lain_lain,14,3,0,1,0,0,0,0,0,0,0,0
+ALMOND CHOCO CREAMCHEESE,almond choco creamcheese,1,minuman,24,3,0,1,1,0,1,0,0,0,0,0
+Nutella Cheese,nutella cheese,1,minuman,14,2,0,0,1,0,1,0,0,0,0,0
+Toblerone BanCheese,toblerone bancheese,1,minuman,19,2,0,0,1,0,1,0,0,0,0,0
+CHOCO PUFF,choco puff,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+CREAMY BEEF CLS FTC,creamy beef cls ftc,0,makanan,19,4,0,1,1,1,0,0,0,0,0,0
+NEW ORIENTAL CHK RICE,new oriental chk rice,1,minuman,21,4,0,1,2,1,1,0,0,0,0,0
+LIPTON PITCHER,lipton pitcher,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+SC/P SUPER SUPREME,sc p super supreme,7,lain_lain,18,4,0,1,0,0,0,0,0,0,0,0
+CB/P BLACK PEPP BEEF,cb p black pepp beef,0,makanan,20,5,0,1,1,1,0,0,0,0,0,0
+1,1,7,lain_lain,1,1,1,0,0,0,0,0,0,0,0,0
+Large *Plastik Kcl,large plastik kcl,3,belanja,17,3,0,0,1,0,0,0,1,0,0,0
+BASO TAHU BIHUN,baso tahu bihun,0,makanan,15,3,0,1,1,1,0,0,0,0,0,0
+ICED TT,iced tt,1,minuman,7,2,0,1,1,0,1,0,0,0,0,0
+Jamur Crispy,jamur crispy,3,belanja,12,2,0,0,1,0,0,0,1,0,0,0
+Sambel Kecap,sambel kecap,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+Es Teh,es teh,1,minuman,6,2,0,0,1,0,1,0,0,0,0,0
+Sweet Plum Potato,sweet plum potato,7,lain_lain,17,3,0,0,0,0,0,0,0,0,0,0
+CHO MOUSSE,cho mousse,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+GRAPE JELLY,grape jelly,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+Kopi Susu Sudirman,kopi susu sudirman,1,minuman,18,3,0,0,1,0,1,0,0,0,0,0
+Chocolate Twist,chocolate twist,1,minuman,15,2,0,0,1,0,1,0,0,0,0,0
+RTD Kunyit,rtd kunyit,7,lain_lain,10,2,0,0,0,0,0,0,0,0,0,0
+Tepung Jagung,tepung jagung,7,lain_lain,13,2,0,0,0,0,0,0,0,0,0,0
+SHOPPING BAG ROTI'O' 370/M,shopping bag roti o 370 m,0,makanan,25,6,1,1,2,1,0,0,1,0,0,0
+KFC Winger HC,kfc winger hc,7,lain_lain,13,3,0,0,0,0,0,0,0,0,0,0
+Rice,rice,1,minuman,4,1,0,0,2,1,1,0,0,0,0,0
+THAI ICED TEA (L),thai iced tea l,1,minuman,15,4,0,1,1,0,1,0,0,0,0,0
+PL. MUFFIN BLUEBERRY,pl muffin blueberry,7,lain_lain,19,3,0,1,0,0,0,0,0,0,0,0
+RB. ABON AYAM,rb abon ayam,0,makanan,12,3,0,1,1,1,0,0,0,0,0,0
+RB. COKLAT COFFEE,rb coklat coffee,1,minuman,16,3,0,1,1,0,1,0,0,0,0,0
+RB. RED BEAN,rb red bean,7,lain_lain,11,3,0,1,0,0,0,0,0,0,0,0
+ROTI KEJU COKLAT,roti keju coklat,1,minuman,16,3,0,1,2,1,1,0,0,0,0,0
+ROTI MAHKOTA/RING,roti mahkota ring,0,makanan,17,3,0,1,1,1,0,0,0,0,0,0
+ROTI KACANG MERAH,roti kacang merah,0,makanan,17,3,0,1,1,1,0,0,0,0,0,0
+ROTI COKLAT,roti coklat,1,minuman,11,2,0,1,2,1,1,0,0,0,0,0
+CHICKEN KATSU,chicken katsu,0,makanan,13,2,0,1,1,1,0,0,0,0,0,0
+TORI NASU HASAMI AGE,tori nasu hasami age,0,makanan,20,4,0,1,1,1,0,0,0,0,0,0
+Mineral Water (S),mineral water s,1,minuman,15,3,0,0,3,1,1,0,0,1,0,0
+Pocky Chocolate,pocky chocolate,1,minuman,15,2,0,0,1,0,1,0,0,0,0,0
+Nerds Strw Grape,nerds strw grape,7,lain_lain,16,3,0,0,0,0,0,0,0,0,0,0
+Nerds Trop Punch,nerds trop punch,7,lain_lain,16,3,0,0,0,0,0,0,0,0,0,0
+Nerds Watermelon,nerds watermelon,1,minuman,16,2,0,0,2,0,1,0,0,1,0,0
+TRIPPLE CHEESE,tripple cheese,1,minuman,14,2,0,1,1,0,1,0,0,0,0,0
+RALPH BREAKS THE INTERNET : WR,ralph breaks the internet wr,4,tagihan,28,5,0,1,1,0,0,0,0,1,0,0
+PIS COK KEJU,pis cok keju,7,lain_lain,12,3,0,1,0,0,0,0,0,0,0,0
+COKLAT KEJU,coklat keju,1,minuman,11,2,0,1,1,0,1,0,0,0,0,0
+BANANA KISMIS,banana kismis,0,makanan,13,2,0,1,1,1,0,0,0,0,0,0
+BOTOL(MOMOGI BOTOL KACA ASI),botol momogi botol kaca asi,2,transportasi,27,5,0,1,2,0,0,1,1,0,0,0
+SPECTRA BREAST DISPOSABLE PADS (IRIS) / BP-0001 (BREASTPADS),spectra breast disposable pads iris bp 0001 breastpads,7,lain_lain,54,8,1,1,0,0,0,0,0,0,0,0
+MUSTELA BABY OIL 100ML,mustela baby oil 100ml,7,lain_lain,22,4,1,1,0,0,0,0,0,0,0,0
+SATE PADANG,sate padang,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+GULAI CUMI,gulai cumi,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+DENDENG BALADO,dendeng balado,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+KERUPUK KULIT,kerupuk kulit,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+RENDANG DAGING,rendang daging,0,makanan,14,2,0,1,1,1,0,0,0,0,0,0
+GULAI HATI,gulai hati,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+MUJAIR BAKAR,mujair bakar,1,minuman,12,2,0,1,3,1,1,0,0,1,0,0
+GULAI OTAK,gulai otak,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+AYAM BAKAR,ayam bakar,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+SAMBAL TRI BELAH,sambal tri belah,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+LALAP SEGAR,lalap segar,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+AYAM PENYET,ayam penyet,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+AYAM GORENG,ayam goreng,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+AYAM POP,ayam pop,0,makanan,8,2,0,1,1,1,0,0,0,0,0,0
+GULAI TUNJANG,gulai tunjang,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+TEH,teh,1,minuman,3,1,0,1,1,0,1,0,0,0,0,0
+TERONG BELANDA,terong belanda,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+TEH TELUR,teh telur,1,minuman,9,2,0,1,1,0,1,0,0,0,0,0
+PUDING,puding,7,lain_lain,6,1,0,1,0,0,0,0,0,0,0,0
+ISI CAMPUR,isi campur,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+AQUA BOTOL,aqua botol,1,minuman,10,2,0,1,3,0,1,1,1,0,0,0
+Popcorn Salt Bucket,popcorn salt bucket,7,lain_lain,19,3,0,0,0,0,0,0,0,0,0,0
+Berry Many-Low (P),berry many low p,7,lain_lain,16,4,0,0,0,0,0,0,0,0,0,0
+500 days of summer (P),500 days of summer p,7,lain_lain,20,5,1,0,0,0,0,0,0,0,0,0
+sun kissed (P),sun kissed p,7,lain_lain,12,3,0,0,0,0,0,0,0,0,0,0
+PLASTIC BAG,plastic bag,3,belanja,11,2,0,1,1,0,0,0,1,0,0,0
+SAUSAGE DONUT,sausage donut,0,makanan,13,2,0,1,1,1,0,0,0,0,0,0
+CHOCO DONUT PRETZEL,choco donut pretzel,0,makanan,19,3,0,1,1,1,0,0,0,0,0,0
+CAPTAIN HOOK,captain hook,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+PIRATES TREASURE,pirates treasure,1,minuman,16,2,0,1,1,0,1,0,0,0,0,0
+GREEN TEA LATTE (L),green tea latte l,1,minuman,17,4,0,1,1,0,1,0,0,0,0,0
+2011-Whole wheat Katamari,2011 whole wheat katamari,7,lain_lain,25,4,1,0,0,0,0,0,0,0,0,0
+CHEESE JOHN,cheese john,1,minuman,11,2,0,1,1,0,1,0,0,0,0,0
+APPLE CREAMCHEESE PASTRY,apple creamcheese pastry,1,minuman,24,3,0,1,1,0,1,0,0,0,0,0
+PAKET DOSIRAK 3,paket dosirak 3,7,lain_lain,15,3,1,1,0,0,0,0,0,0,0,0
+PAKET CHICKEN 3,paket chicken 3,0,makanan,15,3,1,1,1,1,0,0,0,0,0,0
+JAPCHE,japche,7,lain_lain,6,1,0,1,0,0,0,0,0,0,0,0
+KOREAN LEMONADE,korean lemonade,1,minuman,15,2,0,1,1,0,1,0,0,0,0,0
+KOREAN COLD TEA,korean cold tea,1,minuman,15,3,0,1,1,0,1,0,0,0,0,0
+PAKET BULGOGI 3,paket bulgogi 3,7,lain_lain,15,3,1,1,0,0,0,0,0,0,0,0
+BANANA MLK+MATCHA PU,banana mlk matcha pu,1,minuman,20,4,0,1,1,0,1,0,0,0,0,0
+KRN FRIED CHICKN HNY,krn fried chickn hny,0,makanan,20,4,0,1,1,1,0,0,0,0,0,0
+TAKOYAKI 12PCS,takoyaki 12pcs,7,lain_lain,14,2,1,1,0,0,0,0,0,0,0,0
+KP BRANDING L,kp branding l,7,lain_lain,13,3,0,1,0,0,0,0,0,0,0,0
+M/POKO STD XXL5,m poko std xxl5,7,lain_lain,15,4,1,1,0,0,0,0,0,0,0,0
+FOOT 6,foot 6,7,lain_lain,6,2,1,1,0,0,0,0,0,0,0,0
+CIPAIN PATCH 4S,cipain patch 4s,7,lain_lain,15,3,1,1,0,0,0,0,0,0,0,0
+ALMOND CREAM CHEESE,almond cream cheese,1,minuman,19,3,0,1,1,0,1,0,0,0,0,0
+Silky Green Tea,silky green tea,1,minuman,15,3,0,0,1,0,1,0,0,0,0,0
+Silky Hazelnut,silky hazelnut,7,lain_lain,14,2,0,0,0,0,0,0,0,0,0,0
+REDBEAN BREAD,redbean bread,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+YOGURT STRAWBERRY,yogurt strawberry,7,lain_lain,17,2,0,1,0,0,0,0,0,0,0,0
+ICED White,iced white,1,minuman,10,2,0,0,1,0,1,0,0,0,0,0
+Mexican Baked Rice,mexican baked rice,1,minuman,18,3,0,0,2,1,1,0,0,0,0,0
+Large 1,large 1,7,lain_lain,7,2,1,0,0,0,0,0,0,0,0,0
+Pastry Keju,pastry keju,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+Round Wagyu (1gr),round wagyu 1gr,7,lain_lain,15,3,1,0,0,0,0,0,0,0,0,0
+Wagyu Rice Box,wagyu rice box,1,minuman,14,3,0,0,2,1,1,0,0,0,0,0
+BUNCIS MUDA TE,buncis muda te,0,makanan,14,3,0,1,1,1,0,0,0,0,0,0
+DEPT02,dept02,7,lain_lain,6,1,1,1,0,0,0,0,0,0,0,0
+KUE PILUS ASIN,kue pilus asin,7,lain_lain,14,3,0,1,0,0,0,0,0,0,0,0
+KACANG MEDAN,kacang medan,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+Mineral Water,mineral water,1,minuman,13,2,0,0,3,1,1,0,0,1,0,0
+ALMOND CHOCO CREAM CHEESE,almond choco cream cheese,1,minuman,25,4,0,1,1,0,1,0,0,0,0,0
+CHOCO CUSTARD PASTRY,choco custard pastry,7,lain_lain,20,3,0,1,0,0,0,0,0,0,0,0
+CARAMEL PASTRY,caramel pastry,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+ORIGINAL,original,7,lain_lain,8,1,0,1,0,0,0,0,0,0,0,0
+APPLE CINN,apple cinn,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+NUMER CANDLE NO.1,numer candle no 1,7,lain_lain,17,4,1,1,0,0,0,0,0,0,0,0
+NUMER CANDLE NO.2,numer candle no 2,7,lain_lain,17,4,1,1,0,0,0,0,0,0,0,0
+GANACHE MOUSSE PIECE,ganache mousse piece,0,makanan,20,3,0,1,1,1,0,0,0,0,0,0
+4002-Chocolate Orange Peel,4002 chocolate orange peel,1,minuman,26,4,1,0,1,0,1,0,0,0,0,0
+ORIGINAL NO SALT,original no salt,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+WALL'S FEAST CKLT.65,wall s feast cklt 65,7,lain_lain,20,5,1,1,0,0,0,0,0,0,0,0
+CMPN TROPICANA.CHO75,cmpn tropicana cho75,7,lain_lain,20,3,1,1,0,0,0,0,0,0,0,0
+MAGNUM WHT ALMND 80,magnum wht almnd 80,7,lain_lain,19,4,1,1,0,0,0,0,0,0,0,0
+S-Ovaltine Macchiat,s ovaltine macchiat,7,lain_lain,19,3,0,0,0,0,0,0,0,0,0,0
+S-Hazelnut Milk Tea,s hazelnut milk tea,1,minuman,19,4,0,0,2,1,1,0,0,0,0,0
+SAM DA SOO MINERAL WATER,sam da soo mineral water,1,minuman,24,5,0,1,3,1,1,0,0,1,0,0
+ES CHOCO GREEN TEA,es choco green tea,1,minuman,18,4,0,1,1,0,1,0,0,0,0,0
+IKAN GURAME MED SOP IKAN,ikan gurame med sop ikan,0,makanan,24,5,0,1,1,1,0,0,0,0,0,0
+CUMI GR JUNJAN =*MEDIUM*=,cumi gr junjan medium,0,makanan,21,4,0,1,1,1,0,0,0,0,0,0
+CUMI GR TEPUNG =*MEDIUM*=,cumi gr tepung medium,0,makanan,21,4,0,1,1,1,0,0,0,0,0,0
+AGSIO TH PC JMR =*MEDIUM*=,agsio th pc jmr medium,7,lain_lain,22,5,0,1,0,0,0,0,0,0,0,0
+POCAI BWG PUTIH =*MEDIUM*=,pocai bwg putih medium,7,lain_lain,22,4,0,1,0,0,0,0,0,0,0,0
+LUMPIA UDG PREM =*MEDIUM*=,lumpia udg prem medium,7,lain_lain,22,4,0,1,0,0,0,0,0,0,0,0
+HOT TEA,hot tea,1,minuman,7,2,0,1,1,0,1,0,0,0,0,0
+AQUA,aqua,1,minuman,4,1,0,1,1,0,1,0,0,0,0,0
+KOPI SUSU,kopi susu,1,minuman,9,2,0,1,1,0,1,0,0,0,0,0
+NASI GORENG,nasi goreng,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+BAKPIA KACANG H,bakpia kacang h,7,lain_lain,15,3,0,1,0,0,0,0,0,0,0,0
+Gado-Gado,gado gado,0,makanan,9,2,0,0,1,1,0,0,0,0,0,0
+Roast Beef Crepes,roast beef crepes,1,minuman,17,3,0,0,2,1,1,0,0,0,0,0
+Cheezemania,cheezemania,7,lain_lain,11,1,0,0,0,0,0,0,0,0,0,0
+Mamamia,mamamia,0,makanan,7,1,0,0,1,1,0,0,0,0,0,0
+M-Ice Cream Milk Te,m ice cream milk te,1,minuman,19,5,0,0,2,1,1,0,0,0,0,0
+1069-ROTI KEJU COKLAT,1069 roti keju coklat,1,minuman,21,4,1,1,2,1,1,0,0,0,0,0
+1037-ROTI MAHKOTA/RING,1037 roti mahkota ring,0,makanan,22,4,1,1,1,1,0,0,0,0,0,0
+1022-ROTI KACANG MERAH,1022 roti kacang merah,0,makanan,22,4,1,1,1,1,0,0,0,0,0,0
+1001-ROTI COKLAT,1001 roti coklat,1,minuman,16,3,1,1,2,1,1,0,0,0,0,0
+OCHA,ocha,7,lain_lain,4,1,0,1,0,0,0,0,0,0,0,0
+CHIC NAMBAN BENTO,chic namban bento,7,lain_lain,17,3,0,1,0,0,0,0,0,0,0,0
+Fish Ball,fish ball,0,makanan,9,2,0,0,1,1,0,0,0,0,0,0
+Fried Siomay,fried siomay,0,makanan,12,2,0,0,1,1,0,0,0,0,0,0
+ICED CM,iced cm,1,minuman,7,2,0,1,1,0,1,0,0,0,0,0
+Puyo 6 (Package),puyo 6 package,7,lain_lain,14,3,1,0,0,0,0,0,0,0,0,0
+Kupon 9,kupon 9,7,lain_lain,7,2,1,0,0,0,0,0,0,0,0,0
+Kupon 1,kupon 1,7,lain_lain,7,2,1,0,0,0,0,0,0,0,0,0
+LARGE ICED LEMON TEA,large iced lemon tea,1,minuman,20,4,0,1,1,0,1,0,0,0,0,0
+RTD Relaxing Drink,rtd relaxing drink,1,minuman,18,3,0,0,1,0,1,0,0,0,0,0
+RTD Rosella Aloevera,rtd rosella aloevera,7,lain_lain,20,3,0,0,0,0,0,0,0,0,0,0
+RTD Madu Aloevera,rtd madu aloevera,7,lain_lain,17,3,0,0,0,0,0,0,0,0,0,0
+RTD Lemongrass Aloe,rtd lemongrass aloe,1,minuman,19,3,0,0,1,0,1,0,0,0,0,0
+Pdg Madness,pdg madness,1,minuman,11,2,0,0,1,0,1,0,0,0,0,0
+BCT,bct,7,lain_lain,3,1,0,1,0,0,0,0,0,0,0,0
+CINNAMON SUGAR,cinnamon sugar,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+SAM DA S00 MINERAL WATER,sam da s00 mineral water,1,minuman,24,5,1,1,3,1,1,0,0,1,0,0
+TWIST DONUT,twist donut,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+Common Law,common law,7,lain_lain,10,2,0,0,0,0,0,0,0,0,0,0
+Tigger Roll,tigger roll,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+Ketoprak SPC,ketoprak spc,0,makanan,12,2,0,0,1,1,0,0,0,0,0,0
+UDG GR TLUR ASIN,udg gr tlur asin,7,lain_lain,16,4,0,1,0,0,0,0,0,0,0,0
+CUMI GR JUNJAN,cumi gr junjan,0,makanan,14,3,0,1,1,1,0,0,0,0,0,0
+OYONG 3 TELOR,oyong 3 telor,7,lain_lain,13,3,1,1,0,0,0,0,0,0,0,0
+GURAME FILLET M,gurame fillet m,7,lain_lain,15,3,0,1,0,0,0,0,0,0,0,0
+CHINESE TE,chinese te,1,minuman,10,2,0,1,1,0,1,0,0,0,0,0
+CRYSANTNUM,crysantnum,7,lain_lain,10,1,0,1,0,0,0,0,0,0,0,0
+Round Wagyu ( 1gr ),round wagyu 1gr,7,lain_lain,15,3,1,0,0,0,0,0,0,0,0,0
+TT,tt,7,lain_lain,2,1,0,1,0,0,0,0,0,0,0,0
+CHEEZY DOG BITES,cheezy dog bites,1,minuman,16,3,0,1,1,0,1,0,0,0,0,0
+Cheese Tart,cheese tart,1,minuman,11,2,0,0,1,0,1,0,0,0,0,0
+EGG TART,egg tart,7,lain_lain,8,2,0,1,0,0,0,0,0,0,0,0
+ZAI.Milk Choco Egg Avenger60gr,zai milk choco egg avenger60gr,1,minuman,30,5,1,0,2,1,1,0,0,0,0,0
+ZAI.Milk Choco Egg Frozen 60gr,zai milk choco egg frozen 60gr,1,minuman,30,6,1,0,2,1,1,0,0,0,0,0
+TWIST STRAWBERRY DONUT,twist strawberry donut,0,makanan,22,3,0,1,1,1,0,0,0,0,0,0
+TLJ CROQUETTE,tlj croquette,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+POTATO PEPPER BAGEL,potato pepper bagel,3,belanja,19,3,0,1,1,0,0,0,1,0,0,0
+IKAN GABUS FRESH,ikan gabus fresh,1,minuman,16,3,0,1,3,1,1,1,0,0,0,0
+IKAN BUMBU KUNING,ikan bumbu kuning,0,makanan,17,3,0,1,1,1,0,0,0,0,0,0
+OCTOPUS SATAY,octopus satay,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+FA-Cookies Mix 200 gr,fa cookies mix 200 gr,1,minuman,21,5,1,0,2,1,1,0,0,0,0,0
+FA-Polycello Bag 200 gr,fa polycello bag 200 gr,3,belanja,23,5,1,0,1,0,0,0,1,0,0,0
+BACON SHIMEJI SPAGHE,bacon shimeji spaghe,5,hiburan,20,3,0,1,1,0,0,0,0,0,1,0
+CHICKEN KATSUDON,chicken katsudon,0,makanan,16,2,0,1,1,1,0,0,0,0,0,0
+WELL TORI KARAAGE MU,well tori karaage mu,7,lain_lain,20,4,0,1,0,0,0,0,0,0,0,0
+WELL CHICKEN KATSU C,well chicken katsu c,0,makanan,20,4,0,1,1,1,0,0,0,0,0,0
+CLASSIC TOMATO,classic tomato,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+RENDANG OMURICE,rendang omurice,1,minuman,15,2,0,1,2,1,1,0,0,0,0,0
+#F11 CREAM HAMBURG 0,f11 cream hamburg 0,7,lain_lain,19,4,1,1,0,0,0,0,0,0,0,0
+Sesame Toast,sesame toast,1,minuman,12,2,0,0,2,1,1,0,0,0,0,0
+Seafood Tempura BBQ,seafood tempura bbq,7,lain_lain,19,3,0,0,0,0,0,0,0,0,0,0
+Sweet Plum Potato*,sweet plum potato,7,lain_lain,17,3,0,0,0,0,0,0,0,0,0,0
+HOME CHARGER+KABEL 138 IP5 TS C,home charger kabel 138 ip5 ts c,3,belanja,31,7,1,1,1,0,0,0,1,0,0,0
+Pillow Choco,pillow choco,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+Pillow Cheese,pillow cheese,1,minuman,13,2,0,0,1,0,1,0,0,0,0,0
+Pillow Kombi,pillow kombi,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+Iced Mochaccino,iced mochaccino,1,minuman,15,2,0,0,1,0,1,0,0,0,0,0
+Rice Organik,rice organik,1,minuman,12,2,0,0,2,1,1,0,0,0,0,0
+1pc Chicken OR,1pc chicken or,0,makanan,14,3,1,0,1,1,0,0,0,0,0,0
+YANG YUM GUI,yang yum gui,7,lain_lain,12,3,0,1,0,0,0,0,0,0,0,0
+SOONDUBU CHIGE,soondubu chige,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+JAP CHAE,jap chae,7,lain_lain,8,2,0,1,0,0,0,0,0,0,0,0
+MAKOLI,makoli,7,lain_lain,6,1,0,1,0,0,0,0,0,0,0,0
+GOCHUJANG,gochujang,7,lain_lain,9,1,0,1,0,0,0,0,0,0,0,0
+BIBIMBAB,bibimbab,7,lain_lain,8,1,0,1,0,0,0,0,0,0,0,0
+CHOCO ALMOND,choco almond,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+#PKTPOLSBTSPON2S,pktpolsbtspon2s,7,lain_lain,15,1,1,1,0,0,0,0,0,0,0,0
+BENECOL LYCHEE 2S,benecol lychee 2s,7,lain_lain,17,3,1,1,0,0,0,0,0,0,0,0
+REGAL MARIE 125 GR,regal marie 125 gr,7,lain_lain,18,4,1,1,0,0,0,0,0,0,0,0
+7 UP CAN 330 ML,7 up can 330 ml,7,lain_lain,15,5,1,1,0,0,0,0,0,0,0,0
+SAKATONIK LVR 10S,sakatonik lvr 10s,7,lain_lain,17,3,1,1,0,0,0,0,0,0,0,0
+DUA BELIBIS SBL135,dua belibis sbl135,7,lain_lain,18,3,1,1,0,0,0,0,0,0,0,0
+DAUN SEREH,daun sereh,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+WACOM BAMBOO PEN,wacom bamboo pen,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+GIGA,giga,7,lain_lain,4,1,0,1,0,0,0,0,0,0,0,0
+4-Chunks,4 chunks,7,lain_lain,8,2,1,0,0,0,0,0,0,0,0,0
+BBQ Chicken,bbq chicken,0,makanan,11,2,0,0,1,1,0,0,0,0,0,0
+BOLU KUKUS PX,bolu kukus px,7,lain_lain,13,3,0,1,0,0,0,0,0,0,0,0
+S-Matcha Macchiato,s matcha macchiato,1,minuman,18,3,0,0,1,0,1,0,0,0,0,0
+KFC DAY,kfc day,7,lain_lain,7,2,0,1,0,0,0,0,0,0,0,0
+CHARGE TA,charge ta,7,lain_lain,9,2,0,1,0,0,0,0,0,0,0,0
+DEPT04,dept04,7,lain_lain,6,1,1,1,0,0,0,0,0,0,0,0
+DEPT01,dept01,7,lain_lain,6,1,1,1,0,0,0,0,0,0,0,0
+PAKET CHICKEN 4,paket chicken 4,0,makanan,15,3,1,1,1,1,0,0,0,0,0,0
+PR ORIGINAL 150gr,pr original 150gr,7,lain_lain,17,3,1,0,0,0,0,0,0,0,0,0
+Butter croissant,butter croissant,7,lain_lain,16,2,0,0,0,0,0,0,0,0,0,0
+Almond Croissant,almond croissant,7,lain_lain,16,2,0,0,0,0,0,0,0,0,0,0
+Mini Chocolate Donut,mini chocolate donut,1,minuman,20,3,0,0,2,1,1,0,0,0,0,0
+Arem Arem,arem arem,7,lain_lain,9,2,0,0,0,0,0,0,0,0,0,0
+A Chicken,a chicken,0,makanan,9,2,0,0,1,1,0,0,0,0,0,0
+RISOL ROGUT,risol rogut,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+MIKA KCL,mika kcl,0,makanan,8,2,0,1,1,1,0,0,0,0,0,0
+Choco Cheese,choco cheese,1,minuman,12,2,0,0,1,0,1,0,0,0,0,0
+CARAMELALMOND,caramelalmond,7,lain_lain,13,1,0,1,0,0,0,0,0,0,0,0
+Coffee Rocksalt [R],coffee rocksalt r,1,minuman,17,3,0,0,1,0,1,0,0,0,0,0
+ICED NUTELLA LATTE [R],iced nutella latte r,1,minuman,20,4,0,1,1,0,1,0,0,0,0,0
+ICED MOCHA LATTE [R],iced mocha latte r,1,minuman,18,4,0,1,1,0,1,0,0,0,0,0
+XXL Crspy Chicken,xxl crspy chicken,0,makanan,17,3,0,0,1,1,0,0,0,0,0,0
+MANUKA HONEY,manuka honey,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+Ice Kokofie,ice kokofie,1,minuman,11,2,0,0,1,0,1,0,0,0,0,0
+HAZELNUT ALM,hazelnut alm,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+CAPPUCINO CI,cappucino ci,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+TIRAMISU CIN,tiramisu cin,0,makanan,12,2,0,1,1,1,0,0,0,0,0,0
+Spaghetti Bini Muda (Bol ognese) - DINE IN,spaghetti bini muda bol ognese dine in,1,minuman,38,7,0,0,2,0,1,0,0,0,1,0
+French Fries - DINE IN,french fries dine in,1,minuman,20,4,0,0,1,0,1,0,0,0,0,0
+Mineral Water - DINE IN,mineral water dine in,1,minuman,21,4,0,0,3,1,1,0,0,1,0,0
+KUPAT TAHU,kupat tahu,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+MIE KOCOK,mie kocok,0,makanan,9,2,0,1,1,1,0,0,0,0,0,0
+GARISH PC,garish pc,7,lain_lain,9,2,0,1,0,0,0,0,0,0,0,0
+PLASTIK BAG;: 000 PC,plastik bag 000 pc,3,belanja,18,4,1,1,1,0,0,0,1,0,0,0
+109.NG NANAS,109 ng nanas,7,lain_lain,12,3,1,1,0,0,0,0,0,0,0,0
+DE13.PSANG IJO MDM,de13 psang ijo mdm,7,lain_lain,18,4,1,1,0,0,0,0,0,0,0,0
+CT12.BLK JELY KPI IC,ct12 blk jely kpi ic,7,lain_lain,20,5,1,1,0,0,0,0,0,0,0,0
+CHOCO CHIP,choco chip,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+CHOCO BANANA,choco banana,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+CHOCBAN CUP,chocban cup,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+RED VELVET,red velvet,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+SAUSAGE AND SALAMI,sausage and salami,0,makanan,18,3,0,1,1,1,0,0,0,0,0,0
+GREEN MONSIEUR,green monsieur,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+ROASTED MT ( R ),roasted mt r,7,lain_lain,12,3,0,1,0,0,0,0,0,0,0,0
+Peanut & Cheese,peanut cheese,1,minuman,13,2,0,0,1,0,1,0,0,0,0,0
+PAIN AU CHOCOLATE,pain au chocolate,1,minuman,17,3,0,1,1,0,1,0,0,0,0,0
+APPLE PIE,apple pie,0,makanan,9,2,0,1,1,1,0,0,0,0,0,0
+[RICHE] WHITE SKIMM,riche white skimm,7,lain_lain,17,3,0,1,0,0,0,0,0,0,0,0
+ALMOND CROSSIANT,almond crossiant,7,lain_lain,16,2,0,1,0,0,0,0,0,0,0,0
+Double Choco Crispy,double choco crispy,7,lain_lain,19,3,0,0,0,0,0,0,0,0,0,0
+Smoke Beef + Aqua,smoke beef aqua,1,minuman,15,3,0,0,2,1,1,0,0,0,0,0
+PREMIUM TOAST PAN BREAD,premium toast pan bread,0,makanan,23,4,0,1,1,1,0,0,0,0,0,0
+GOCHUJANG SAMGYEOPSAL,gochujang samgyeopsal,7,lain_lain,21,2,0,1,0,0,0,0,0,0,0,0
+LAY'S NORI SEAWD 55G,lay s nori seawd 55g,7,lain_lain,20,5,1,1,0,0,0,0,0,0,0,0
+QTELA KRP/TMPE ORI55,qtela krp tmpe ori55,7,lain_lain,20,4,1,1,0,0,0,0,0,0,0,0
+SOSRO TEH BOTOL 350,sosro teh botol 350,1,minuman,19,4,1,1,3,0,1,1,1,0,0,0
+PUCUK/H TEH L/SGR350,pucuk h teh l sgr350,1,minuman,20,5,1,1,1,0,1,0,0,0,0,0
+AQUA AIR MINERAL 600,aqua air mineral 600,1,minuman,20,4,1,1,3,1,1,0,0,1,0,0
+PEDULI DISABILITAS,peduli disabilitas,3,belanja,18,2,0,1,1,0,0,0,1,0,0,0
+Kupon 7,kupon 7,7,lain_lain,7,2,1,0,0,0,0,0,0,0,0,0
+MINERAL WATER,mineral water,1,minuman,13,2,0,1,3,1,1,0,0,1,0,0
+BAK MANDI (BAK MANDI TAIWAN BESAR),bak mandi bak mandi taiwan besar,1,minuman,32,6,0,1,1,0,1,0,0,0,0,0
+TATAKAN MANDI (JARING MANDI JALA) -,tatakan mandi jaring mandi jala,7,lain_lain,31,5,0,1,0,0,0,0,0,0,0,0
+BAJU ATASAN(PETITE MIMI ROMPER 3D FOREST / RM0003),baju atasan petite mimi romper 3d forest rm0003,1,minuman,47,8,1,1,3,1,1,0,1,0,0,0
+ACCESORIES(SUN BABES PENUTUP MATA),accesories sun babes penutup mata,1,minuman,33,5,0,1,1,0,1,0,0,0,0,0
+KAPAS (KAPAS MEDISOFT COTTON BALL 120),kapas kapas medisoft cotton ball 120,7,lain_lain,36,6,1,1,0,0,0,0,0,0,0,0
+JOIE KUBBIE(BABY BOX),joie kubbie baby box,7,lain_lain,20,4,0,1,0,0,0,0,0,0,0,0
+BUDS CALMING TUMMY RUB CREAM 30ML(TOILETRIES),buds calming tummy rub cream 30ml toiletries,1,minuman,44,7,1,1,2,1,1,0,0,0,0,0
+BUDS PRECIOUS NEWBORN CREAM 75ML(TOILETRIES),buds precious newborn cream 75ml toiletries,1,minuman,43,6,1,1,1,0,1,0,0,0,0,0
+BUDS PRECIOUS NEWBORN HEAD TO TOE CLEANSER 250ML(TOILETRIES),buds precious newborn head to toe cleanser 250ml toiletries,1,minuman,59,9,1,1,1,0,1,0,0,0,0,0
+CRISPY APPLE RAISIN PASTR,crispy apple raisin pastr,7,lain_lain,25,4,0,1,0,0,0,0,0,0,0,0
+PEPPERONI,pepperoni,7,lain_lain,9,1,0,1,0,0,0,0,0,0,0,0
+CK.MANTAP A,ck mantap a,7,lain_lain,11,3,0,1,0,0,0,0,0,0,0,0
+CHEESE B,cheese b,1,minuman,8,2,0,1,1,0,1,0,0,0,0,0
+TAKE AWAY,take away,7,lain_lain,9,2,0,1,0,0,0,0,0,0,0,0
+TARO,taro,7,lain_lain,4,1,0,1,0,0,0,0,0,0,0,0
+1216 DPR BATB SD ENCHANTED ROS,1216 dpr batb sd enchanted ros,7,lain_lain,30,6,1,1,0,0,0,0,0,0,0,0
+"1216 GGM 12"" TTN HERO YONDU",1216 ggm 12 ttn hero yondu,7,lain_lain,26,6,1,1,0,0,0,0,0,0,0,0
+"0217 GGM 12"" TITAN HERO GAMORA",0217 ggm 12 titan hero gamora,7,lain_lain,29,6,1,1,0,0,0,0,0,0,0,0
+BASO KUAH,baso kuah,0,makanan,9,2,0,1,1,1,0,0,0,0,0,0
+CHICKEN KATSU CURRY UDON,chicken katsu curry udon,0,makanan,24,4,0,1,1,1,0,0,0,0,0,0
+AYAM,ayam,0,makanan,4,1,0,1,1,1,0,0,0,0,0,0
+DONAT AYAM,donat ayam,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+ROTI SISIR,roti sisir,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+BANANA SPLIT,banana split,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+DONATCOKLAT,donatcoklat,1,minuman,11,1,0,1,1,0,1,0,0,0,0,0
+TIGER ROLL PTG,tiger roll ptg,7,lain_lain,14,3,0,1,0,0,0,0,0,0,0,0
+MARMER CAKE PTG,marmer cake ptg,0,makanan,15,3,0,1,1,1,0,0,0,0,0,0
+BOLU HAWAI PTNG,bolu hawai ptng,7,lain_lain,15,3,0,1,0,0,0,0,0,0,0,0
+BANANA CAKE PTG,banana cake ptg,0,makanan,15,3,0,1,1,1,0,0,0,0,0,0
+MANDARIN CAKE PTG,mandarin cake ptg,0,makanan,17,3,0,1,1,1,0,0,0,0,0,0
+LAPIS SURABAYA PTG,lapis surabaya ptg,7,lain_lain,18,3,0,1,0,0,0,0,0,0,0,0
+CAKE PITA,cake pita,0,makanan,9,2,0,1,1,1,0,0,0,0,0,0
+PLASTIK TENTENG KECIL,plastik tenteng kecil,3,belanja,21,3,0,1,1,0,0,0,1,0,0,0
+Lemon Tea (L).,lemon tea l,1,minuman,11,3,0,0,1,0,1,0,0,0,0,0
+Popcorn Salt (S).,popcorn salt s,7,lain_lain,14,3,0,0,0,0,0,0,0,0,0,0
+TROPICAL PUNCH,tropical punch,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+SOUP 50%,soup 50,0,makanan,7,2,1,1,1,1,0,0,0,0,0,0
+SALAD BAR 50%,salad bar 50,0,makanan,12,3,1,1,1,1,0,0,0,0,0,0
+TWIST ORANGE CHOCO DONUT,twist orange choco donut,0,makanan,24,4,0,1,1,1,0,0,0,0,0,0
+CHOCOLATE TWIST,chocolate twist,1,minuman,15,2,0,1,1,0,1,0,0,0,0,0
+REAL CHOCOLATE ROLL,real chocolate roll,1,minuman,19,3,0,1,1,0,1,0,0,0,0,0
+CHOCOLATE SOBORO,chocolate soboro,1,minuman,16,2,0,1,1,0,1,0,0,0,0,0
+5001-Corn Flakes Cookies,5001 corn flakes cookies,1,minuman,24,4,1,0,2,1,1,0,0,0,0,0
+4003-Blueberry Fuji,4003 blueberry fuji,7,lain_lain,19,3,1,0,0,0,0,0,0,0,0,0
+Coke (L),coke l,7,lain_lain,6,2,0,0,0,0,0,0,0,0,0,0
+Extra Jelly Lychee,extra jelly lychee,7,lain_lain,18,3,0,0,0,0,0,0,0,0,0,0
+Popcorn Salt (M),popcorn salt m,7,lain_lain,14,3,0,0,0,0,0,0,0,0,0,0
+THAI ICED COFFEE,thai iced coffee,1,minuman,16,3,0,1,1,0,1,0,0,0,0,0
+THAI ICED GREEN TEA,thai iced green tea,1,minuman,19,4,0,1,1,0,1,0,0,0,0,0
+RAMES AYAM,rames ayam,1,minuman,10,2,0,1,2,1,1,0,0,0,0,0
+Dendeng PDS,dendeng pds,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+CAPPUCINO CARAMEL,cappucino caramel,7,lain_lain,17,2,0,1,0,0,0,0,0,0,0,0
+Grilled Dorry Fish,grilled dorry fish,0,makanan,18,3,0,0,1,1,0,0,0,0,0,0
+Set Menu Family,set menu family,0,makanan,15,3,0,0,1,1,0,0,0,0,0,0
+Teppan Seafood Udon,teppan seafood udon,0,makanan,19,3,0,0,1,1,0,0,0,0,0,0
+EDAMAME,edamame,7,lain_lain,7,1,0,1,0,0,0,0,0,0,0,0
+df shllt by not250,df shllt by not250,7,lain_lain,18,4,1,0,0,0,0,0,0,0,0,0
+CF BUNCIS ORG,cf buncis org,0,makanan,13,3,0,1,1,1,0,0,0,0,0,0
+CABE KERITING CURA,cabe keriting cura,7,lain_lain,18,3,0,1,0,0,0,0,0,0,0,0
+TOMAT CURAH,tomat curah,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+JERUK NIPIS,jeruk nipis,1,minuman,11,2,0,1,1,0,1,0,0,0,0,0
+CUMI BANGKA,cumi bangka,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+KING DEAL CHEESE BURGER R,king deal cheese burger r,1,minuman,25,5,0,1,2,1,1,0,0,0,0,0
+1 PC BIC,1 pc bic,7,lain_lain,8,3,1,1,0,0,0,0,0,0,0,0
+POTATO SAUSAGE BREAD,potato sausage bread,7,lain_lain,20,3,0,1,0,0,0,0,0,0,0,0
+OREO GREEN TEA SPREAD,oreo green tea spread,1,minuman,21,4,0,1,1,0,1,0,0,0,0,0
+WHITE CHOCO BANANA SPREAD,white choco banana spread,7,lain_lain,25,4,0,1,0,0,0,0,0,0,0,0
+APUCINO MEDIUM,apucino medium,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+CIRENG PANDAWA,cireng pandawa,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+BASO TAHU KWETIAU,baso tahu kwetiau,0,makanan,17,3,0,1,1,1,0,0,0,0,0,0
+PKT TELOR/PERKEDEL,pkt telor perkedel,7,lain_lain,18,3,0,1,0,0,0,0,0,0,0,0
+DENDENG,dendeng,7,lain_lain,7,1,0,1,0,0,0,0,0,0,0,0
+SBL GR TERI,sbl gr teri,7,lain_lain,11,3,0,1,0,0,0,0,0,0,0,0
+NESTLE 330 ML,nestle 330 ml,1,minuman,13,3,1,1,1,0,1,0,0,0,0,0
+2005-CHEESE JOHN,2005 cheese john,1,minuman,16,3,1,1,1,0,1,0,0,0,0,0
+SBL GR UDANG SPC,sbl gr udang spc,0,makanan,16,4,0,1,1,1,0,0,0,0,0,0
+SAMGYOPSAL,samgyopsal,7,lain_lain,10,1,0,1,0,0,0,0,0,0,0,0
+OGYOPSAL,ogyopsal,7,lain_lain,8,1,0,1,0,0,0,0,0,0,0,0
+YUKHWE,yukhwe,7,lain_lain,6,1,0,1,0,0,0,0,0,0,0,0
+RICE,rice,1,minuman,4,1,0,1,2,1,1,0,0,0,0,0
+JABCHAE BEEF,jabchae beef,0,makanan,12,2,0,1,1,1,0,0,0,0,0,0
+OCHA DINGIN,ocha dingin,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+SUNDUBU,sundubu,7,lain_lain,7,1,0,1,0,0,0,0,0,0,0,0
+NASI KUNING,nasi kuning,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+CENTIKPLANCI,centikplanci,7,lain_lain,12,1,0,1,0,0,0,0,0,0,0,0
+MIKA KECIL,mika kecil,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+SENDOK MAKAN,sendok makan,3,belanja,12,2,0,1,1,0,0,0,1,0,0,0
+GARPU,garpu,3,belanja,5,1,0,1,1,0,0,0,1,0,0,0
+HOT OCHA,hot ocha,1,minuman,8,2,0,1,1,0,1,0,0,0,0,0
+JYO HARAMI 30%,jyo harami 30,0,makanan,13,3,1,1,1,1,0,0,0,0,0,0
+WAKI SALAD,waki salad,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+MARBLED SIRLOIN STEAK 200gr,marbled sirloin steak 200gr,1,minuman,27,4,1,0,2,1,1,0,0,0,0,0
+FRANKFRUT SAUSAGE ROLL,frankfrut sausage roll,7,lain_lain,22,3,0,1,0,0,0,0,0,0,0,0
+NS MINI STICK,ns mini stick,0,makanan,13,3,0,1,1,1,0,0,0,0,0,0
+GERRY SM CHEESE110,gerry sm cheese110,1,minuman,18,3,1,1,1,0,1,0,0,0,0,0
+DECOLGEN TABLET 4S,decolgen tablet 4s,7,lain_lain,18,3,1,1,0,0,0,0,0,0,0,0
+FIXALL HK 26521,fixall hk 26521,7,lain_lain,15,3,1,1,0,0,0,0,0,0,0,0
+YELLOW,yellow,7,lain_lain,6,1,0,1,0,0,0,0,0,0,0,0
+VANBALL,vanball,7,lain_lain,7,1,0,1,0,0,0,0,0,0,0,0
+BANANA DONUT,banana donut,0,makanan,12,2,0,1,1,1,0,0,0,0,0,0
+DARK CHOCOLATE MUFFIN,dark chocolate muffin,1,minuman,21,3,0,1,1,0,1,0,0,0,0,0
+[MD] MINI CASTELLA CHOCOL,md mini castella chocol,0,makanan,23,4,0,1,1,1,0,0,0,0,0,0
+PREMIUM MILK PAN BREAD,premium milk pan bread,1,minuman,22,4,0,1,2,1,1,0,0,0,0,0
+KAYA BUN,kaya bun,0,makanan,8,2,0,1,1,1,0,0,0,0,0,0
+SAUSAGE BREAD,sausage bread,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+TLJ HOTDOG,tlj hotdog,1,minuman,10,2,0,1,1,0,1,0,0,0,0,0
+"RB, Abon Sam",rb abon sam,7,lain_lain,11,3,0,0,0,0,0,0,0,0,0,0
+Salad Deluxe,salad deluxe,0,makanan,12,2,0,0,1,1,0,0,0,0,0,0
+Perkedel,perkedel,7,lain_lain,8,1,0,0,0,0,0,0,0,0,0,0
+"Chicken HCC, 1PCS",chicken hcc 1pcs,0,makanan,16,3,1,0,1,1,0,0,0,0,0,0
+STIX CINNAMON,stix cinnamon,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+BULGOGI JEONGSIK,bulgogi jeongsik,7,lain_lain,16,2,0,1,0,0,0,0,0,0,0,0
+EL KEUN HWANGTAE,el keun hwangtae,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+SUNDUBU(TUKBEGI) GYERAN CIM,sundubu tukbegi gyeran cim,7,lain_lain,26,4,0,1,0,0,0,0,0,0,0,0
+BLACK PRAWN PASTA,black prawn pasta,0,makanan,17,3,0,1,1,1,0,0,0,0,0,0
+CARBONARA,carbonara,7,lain_lain,9,1,0,1,0,0,0,0,0,0,0,0
+ES KOPI SUSU,es kopi susu,1,minuman,12,3,0,1,1,0,1,0,0,0,0,0
+THAI GREEN TEA ICE,thai green tea ice,1,minuman,18,4,0,1,1,0,1,0,0,0,0,0
+SpcPrice Caudburry,spcprice caudburry,1,minuman,18,2,0,0,2,1,1,0,0,0,0,0
+),,7,lain_lain,0,0,0,0,0,0,0,0,0,0,0,0
+>,,7,lain_lain,0,0,0,0,0,0,0,0,0,0,0,0
+FL-Xmas 30 Off,fl xmas 30 off,7,lain_lain,14,4,1,0,0,0,0,0,0,0,0,0
+Ayam goreng+Sayur asem,ayam goreng sayur asem,0,makanan,22,4,0,0,1,1,0,0,0,0,0,0
+Nasi Uduk Ayam,nasi uduk ayam,0,makanan,14,3,0,0,1,1,0,0,0,0,0,0
+Nasi Rawon,nasi rawon,0,makanan,10,2,0,0,1,1,0,0,0,0,0,0
+Teh Tawar Dingin,teh tawar dingin,1,minuman,16,3,0,0,1,0,1,0,0,0,0,0
+Sayur Asem,sayur asem,0,makanan,10,2,0,0,1,1,0,0,0,0,0,0
+NEW BEEF SPAGHETTI,new beef spaghetti,0,makanan,18,3,0,1,2,1,0,0,0,0,1,0
+P/P AMERICAN FAV,p p american fav,7,lain_lain,16,4,0,1,0,0,0,0,0,0,0,0
+PAKET HAPPY HOUR,paket happy hour,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+RTD Jahe,rtd jahe,7,lain_lain,8,2,0,0,0,0,0,0,0,0,0,0
+BITTERBALLEN,bitterballen,7,lain_lain,12,1,0,1,0,0,0,0,0,0,0,0
+MOZZARELA STICK,mozzarela stick,7,lain_lain,15,2,0,1,0,0,0,0,0,0,0,0
+NOUGAT ICE CREAM,nougat ice cream,1,minuman,16,3,0,1,1,0,1,0,0,0,0,0
+SAUCYS BROOD,saucys brood,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+AMANDEL BROOD,amandel brood,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+BOKKEPOOTJES,bokkepootjes,1,minuman,12,1,0,1,1,0,1,0,0,0,0,0
+Mie Jumbo Pst/bakso,mie jumbo pst bakso,0,makanan,19,4,0,0,1,1,0,0,0,0,0,0
+Bakmie Pst/ Bakso,bakmie pst bakso,0,makanan,16,3,0,0,1,1,0,0,0,0,0,0
+Liang Teh,liang teh,1,minuman,9,2,0,0,1,0,1,0,0,0,0,0
+Es /hagat Jeruk,es hagat jeruk,1,minuman,14,3,0,0,1,0,1,0,0,0,0,0
+Krupuk Babi Bungkus,krupuk babi bungkus,0,makanan,19,3,0,0,1,1,0,0,0,0,0,0
+PEACH PASTRY,peach pastry,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+ROYAL CHEESE TART,royal cheese tart,1,minuman,17,3,0,1,1,0,1,0,0,0,0,0
+JASMINE,jasmine,0,makanan,7,1,0,1,1,1,0,0,0,0,0,0
+P. RIBS SP (R),p ribs sp r,7,lain_lain,11,4,0,1,0,0,0,0,0,0,0,0
+PORK TENDER (L),pork tender l,7,lain_lain,13,3,0,1,0,0,0,0,0,0,0,0
+TAIL STOMACH (S),tail stomach s,7,lain_lain,14,3,0,1,0,0,0,0,0,0,0,0
+P. INTESTINE (R),p intestine r,1,minuman,13,3,0,1,1,0,1,0,0,0,0,0
+CAKWE (L),cakwe l,7,lain_lain,7,2,0,1,0,0,0,0,0,0,0,0
+WHITE RICE,white rice,1,minuman,10,2,0,1,2,1,1,0,0,0,0,0
+PLAIN CONGEE,plain congee,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+Fanta Stwbry (L),fanta stwbry l,1,minuman,14,3,0,0,1,0,1,0,0,0,0,0
+UDANG REBUS (M),udang rebus m,0,makanan,13,3,0,1,2,1,0,1,0,0,0,0
+ANGSIO TH PC JMR,angsio th pc jmr,7,lain_lain,16,4,0,1,0,0,0,0,0,0,0,0
+AYAM GR KERING,ayam gr kering,0,makanan,14,3,0,1,1,1,0,0,0,0,0,0
+NASI GORENG NJUN,nasi goreng njun,0,makanan,16,3,0,1,1,1,0,0,0,0,0,0
+SUP BURUNG DARA,sup burung dara,7,lain_lain,15,3,0,1,0,0,0,0,0,0,0,0
+CHINESE TEA KWAN'IM,chinese tea kwan im,1,minuman,19,4,0,1,1,0,1,0,0,0,0,0
+TUNA & CHEDDAR,tuna cheddar,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+ONION RINGS,onion rings,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+AQUA BTL,aqua btl,1,minuman,8,2,0,1,1,0,1,0,0,0,0,0
+1GA+2CK+RW+RB12,1ga 2ck rw rb12,7,lain_lain,15,4,1,1,0,0,0,0,0,0,0,0
+Astor Stick Cokelat 40gr,astor stick cokelat 40gr,7,lain_lain,24,4,1,0,0,0,0,0,0,0,0,0
+green tea,green tea,1,minuman,9,2,0,0,1,0,1,0,0,0,0,0
+NASI UDUK SATE BUNTEL,nasi uduk sate buntel,0,makanan,21,4,0,1,1,1,0,0,0,0,0,0
+NASI BALI (EMPAL),nasi bali empal,0,makanan,15,3,0,1,1,1,0,0,0,0,0,0
+Benedict Burrito,benedict burrito,7,lain_lain,16,2,0,0,0,0,0,0,0,0,0,0
+Lychee Ice Tea,lychee ice tea,1,minuman,14,3,0,0,1,0,1,0,0,0,0,0
+Soup Of The Day,soup of the day,0,makanan,15,4,0,0,1,1,0,0,0,0,0,0
+Strawberry jc,strawberry jc,7,lain_lain,13,2,0,0,0,0,0,0,0,0,0,0
+Viet Latte,viet latte,1,minuman,10,2,0,0,1,0,1,0,0,0,0,0
+SOGOGI JAPCHAE,sogogi japchae,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+GYERAN MARI,gyeran mari,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+JEK SEOK TEOK POKI (S),jek seok teok poki s,7,lain_lain,20,5,0,1,0,0,0,0,0,0,0,0
+* MINERAL WATER,mineral water,1,minuman,13,2,0,1,3,1,1,0,0,1,0,0
+EL KEUN HWANGTAE SUNDUBU (TUKBEGI),el keun hwangtae sundubu tukbegi,7,lain_lain,32,5,0,1,0,0,0,0,0,0,0,0
+DAK GANG JEONG,dak gang jeong,7,lain_lain,14,3,0,1,0,0,0,0,0,0,0,0
+YANG NYEOM SAM GYEOP SAL,yang nyeom sam gyeop sal,7,lain_lain,24,5,0,1,0,0,0,0,0,0,0,0
+PREMIUM YANGNYEOM GALBISAL,premium yangnyeom galbisal,0,makanan,26,3,0,1,1,1,0,0,0,0,0,0
+JEKSEOK YANG NYEOM GUI,jekseok yang nyeom gui,7,lain_lain,22,4,0,1,0,0,0,0,0,0,0,0
+S-Fresh Lemon Lime,s fresh lemon lime,1,minuman,18,4,0,0,1,0,1,0,0,0,0,0
+SOP AYM BNG,sop aym bng,0,makanan,11,3,0,1,1,1,0,0,0,0,0,0
+TEH TARIK P,teh tarik p,1,minuman,11,3,0,1,1,0,1,0,0,0,0,0
+RB. COKLAT BUN,rb coklat bun,1,minuman,13,3,0,1,2,1,1,0,0,0,0,0
+RB. CREPES CHICKEN,rb crepes chicken,1,minuman,17,3,0,1,2,1,1,0,0,0,0,0
+NESTLE 600 M1,nestle 600 m1,1,minuman,13,3,1,1,1,0,1,0,0,0,0,0
+SINGLE Cone,single cone,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+ELEPHANT READ BEAN,elephant read bean,7,lain_lain,18,3,0,1,0,0,0,0,0,0,0,0
+chapsal twister donnut,chapsal twister donnut,7,lain_lain,22,3,0,0,0,0,0,0,0,0,0,0
+DOUBLE CHICK BREAST,double chick breast,7,lain_lain,19,3,0,1,0,0,0,0,0,0,0,0
+IPED MANDARIN,iped mandarin,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+Hokkaido,hokkaido,7,lain_lain,8,1,0,0,0,0,0,0,0,0,0,0
+TOAST BREAD,toast bread,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+- Gyro Platter Large,gyro platter large,1,minuman,18,3,0,0,1,0,1,0,0,0,0,0
+TEH BTL ES,teh btl es,1,minuman,10,3,0,1,1,0,1,0,0,0,0,0
+TEH TELOR,teh telor,1,minuman,9,2,0,1,1,0,1,0,0,0,0,0
+CORDON BLEU,cordon bleu,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+TRIPPLE CHEESF,tripple cheesf,1,minuman,14,2,0,1,1,0,1,0,0,0,0,0
+Mineral Water (S).,mineral water s,1,minuman,15,3,0,0,3,1,1,0,0,1,0,0
+Nasi Liwet,nasi liwet,0,makanan,10,2,0,0,1,1,0,0,0,0,0,0
+Ayam Garang Asem,ayam garang asem,0,makanan,16,3,0,0,1,1,0,0,0,0,0,0
+Ayam. Kremes,ayam kremes,1,minuman,11,2,0,0,2,1,1,0,0,0,0,0
+Nila Penyet + Nasi,nila penyet nasi,0,makanan,16,3,0,0,1,1,0,0,0,0,0,0
+Nasi Goreng Gila,nasi goreng gila,0,makanan,16,3,0,0,1,1,0,0,0,0,0,0
+Nasi Goreng Rawon,nasi goreng rawon,0,makanan,17,3,0,0,1,1,0,0,0,0,0,0
+Mendoan,mendoan,7,lain_lain,7,1,0,0,0,0,0,0,0,0,0,0
+Teh Tawar Panas,teh tawar panas,1,minuman,15,3,0,0,1,0,1,0,0,0,0,0
+Dumpling,dumpling,7,lain_lain,8,1,0,0,0,0,0,0,0,0,0,0
+Jamur Kuping,jamur kuping,3,belanja,12,2,0,0,1,0,0,0,1,0,0,0
+Caisim Kecil,caisim kecil,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+Lapchiong,lapchiong,7,lain_lain,9,1,0,0,0,0,0,0,0,0,0,0
+Otak-otak Singapore,otak otak singapore,7,lain_lain,19,3,0,0,0,0,0,0,0,0,0,0
+Bihun (MLY),bihun mly,7,lain_lain,9,2,0,0,0,0,0,0,0,0,0,0
+CHOCOLATE SUNDAE,chocolate sundae,1,minuman,16,2,0,1,1,0,1,0,0,0,0,0
+REGULAR FRIES,regular fries,1,minuman,13,2,0,1,1,0,1,0,0,0,0,0
+TakeAway Charge,takeaway charge,7,lain_lain,15,2,0,0,0,0,0,0,0,0,0,0
+KUE CUBIT OVO/ SKIPPY,kue cubit ovo skippy,7,lain_lain,20,4,0,1,0,0,0,0,0,0,0,0
+ES BUAH,es buah,1,minuman,7,2,0,1,1,0,1,0,0,0,0,0
+DODOT KAKEK,dodot kakek,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+DODOT CUCU COKLAT,dodot cucu coklat,1,minuman,17,3,0,1,1,0,1,0,0,0,0,0
+CHOCOLATE MILK SHAKE,chocolate milk shake,1,minuman,20,3,0,1,2,1,1,0,0,0,0,0
+T. TARIK GREENTEA DINGIN,t tarik greentea dingin,1,minuman,23,4,0,1,1,0,1,0,0,0,0,0
+ICED CAPPUCINO JELLY,iced cappucino jelly,1,minuman,20,3,0,1,1,0,1,0,0,0,0,0
+TEH PAHIT PANAS,teh pahit panas,1,minuman,15,3,0,1,1,0,1,0,0,0,0,0
+[RICHE] BLACK SAKURA,riche black sakura,7,lain_lain,18,3,0,1,0,0,0,0,0,0,0,0
+Soto Daging,soto daging,0,makanan,11,2,0,0,1,1,0,0,0,0,0,0
+Teh Tawar Hangat,teh tawar hangat,1,minuman,16,3,0,0,1,0,1,0,0,0,0,0
+PAKET SUPER MANTAP 2A RAACHA,paket super mantap 2a raacha,7,lain_lain,28,5,1,1,0,0,0,0,0,0,0,0
+1009-Roti Kelapa,1009 roti kelapa,0,makanan,16,3,1,0,1,1,0,0,0,0,0,0
+1245-Plastik Tentengan Kecil,1245 plastik tentengan kecil,3,belanja,28,4,1,0,1,0,0,0,1,0,0,0
+Dom Cha Vire Sls,dom cha vire sls,7,lain_lain,16,4,0,0,0,0,0,0,0,0,0,0
+P J Cotes du,p j cotes du,1,minuman,12,4,0,0,1,0,1,0,0,0,0,0
+AQUA 600ML,aqua 600ml,1,minuman,10,2,1,1,1,0,1,0,0,0,0,0
+BIHUN GORENG SPECIAL,bihun goreng special,0,makanan,20,3,0,1,1,1,0,0,0,0,0,0
+BIHUN MASAK KUAH,bihun masak kuah,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+ES ALPUKAT,es alpukat,1,minuman,10,2,0,1,1,0,1,0,0,0,0,0
+ES THE TAWAR,es the tawar,1,minuman,12,3,0,1,1,0,1,0,0,0,0,0
+IFUMIE,ifumie,0,makanan,6,1,0,1,1,1,0,0,0,0,0,0
+JUICE ALPUKAT,juice alpukat,1,minuman,13,2,0,1,1,0,1,0,0,0,0,0
+JUICE STRAWBERRY,juice strawberry,1,minuman,16,2,0,1,1,0,1,0,0,0,0,0
+KWETIAW SIRAM SAPI,kwetiaw siram sapi,0,makanan,18,3,0,1,1,1,0,0,0,0,0,0
+KWETIAW SIRAM SEA,kwetiaw siram sea,7,lain_lain,17,3,0,1,0,0,0,0,0,0,0,0
+KWETIAW GORENG SAPI,kwetiaw goreng sapi,0,makanan,19,3,0,1,1,1,0,0,0,0,0,0
+KWETIAW GORENG SEA,kwetiaw goreng sea,0,makanan,18,3,0,1,1,1,0,0,0,0,0,0
+MIE GORENG SPECIAL,mie goreng special,0,makanan,18,3,0,1,1,1,0,0,0,0,0,0
+MPEKMPEK K SELAM,mpekmpek k selam,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+MPEKMPEK LENJER,mpekmpek lenjer,7,lain_lain,15,2,0,1,0,0,0,0,0,0,0,0
+NASI GORENG SPECIAL,nasi goreng special,0,makanan,19,3,0,1,1,1,0,0,0,0,0,0
+TEH MANIS PANAS,teh manis panas,1,minuman,15,3,0,1,1,0,1,0,0,0,0,0
+TEH TAWAR,teh tawar,1,minuman,9,2,0,1,1,0,1,0,0,0,0,0
+YAMIN BASO SAPI,yamin baso sapi,0,makanan,15,3,0,1,1,1,0,0,0,0,0,0
+YAMIN PANGSIT REBUS,yamin pangsit rebus,0,makanan,19,3,0,1,2,1,0,1,0,0,0,0
+SPECIALTY COMBO,specialty combo,7,lain_lain,15,2,0,1,0,0,0,0,0,0,0,0
+BOTTLED WATER,bottled water,1,minuman,13,2,0,1,2,0,1,0,0,1,0,0
+STIX ECLAIRS,stix eclairs,1,minuman,12,2,0,1,2,0,1,0,0,1,0,0
+PAKET DOSIRAK 1,paket dosirak 1,7,lain_lain,15,3,1,1,0,0,0,0,0,0,0,0
+Choco Peanut,choco peanut,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+Mineral water (s),mineral water s,1,minuman,15,3,0,0,3,1,1,0,0,1,0,0
+Blend GT (M),blend gt m,7,lain_lain,10,3,0,0,0,0,0,0,0,0,0,0
+Extra Ice Cream,extra ice cream,1,minuman,15,3,0,0,1,0,1,0,0,0,0,0
+French Fries + FF,french fries ff,1,minuman,15,3,0,0,1,0,1,0,0,0,0,0
+Banana Cho + NuTea,banana cho nutea,1,minuman,16,3,0,0,1,0,1,0,0,0,0,0
+3002-Kyoto Choco Mochi,3002 kyoto choco mochi,7,lain_lain,22,4,1,0,0,0,0,0,0,0,0,0
+1019-Choco Banana,1019 choco banana,7,lain_lain,17,3,1,0,0,0,0,0,0,0,0,0
+CUSTARD SOBORO,custard soboro,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+Peach Tea,peach tea,1,minuman,9,2,0,0,1,0,1,0,0,0,0,0
+Lemon Tea,lemon tea,1,minuman,9,2,0,0,1,0,1,0,0,0,0,0
+Chicken Kazan Curry,chicken kazan curry,0,makanan,19,3,0,0,1,1,0,0,0,0,0,0
+Chicken Karamiso Special,chicken karamiso special,0,makanan,24,3,0,0,1,1,0,0,0,0,0,0
+Chicken Shio Special,chicken shio special,0,makanan,20,3,0,0,1,1,0,0,0,0,0,0
+Beef Set A,beef set a,0,makanan,10,3,0,0,1,1,0,0,0,0,0,0
+CHOCO TIME,choco time,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+LONTONG CAP GO MEH,lontong cap go meh,0,makanan,18,4,0,1,1,1,0,0,0,0,0,0
+NASI LIWET (SATE BUNTEL AYAM),nasi liwet sate buntel ayam,0,makanan,27,5,0,1,1,1,0,0,0,0,0,0
+TEH JAWA,teh jawa,1,minuman,8,2,0,1,1,0,1,0,0,0,0,0
+BAGUETTE,baguette,3,belanja,8,1,0,1,1,0,0,0,1,0,0,0
+Angus Striploin,angus striploin,7,lain_lain,15,2,0,0,0,0,0,0,0,0,0,0
+Chicken Steak,chicken steak,1,minuman,13,2,0,0,2,1,1,0,0,0,0,0
+CK Redvelvet,ck redvelvet,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+Creamed Spinach,creamed spinach,7,lain_lain,15,2,0,0,0,0,0,0,0,0,0,0
+F Squeeze Orange,f squeeze orange,7,lain_lain,16,3,0,0,0,0,0,0,0,0,0,0
+House Blend,house blend,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+Ice Tea Peach,ice tea peach,1,minuman,13,3,0,0,1,0,1,0,0,0,0,0
+Ice Tea Rasp,ice tea rasp,1,minuman,12,3,0,0,1,0,1,0,0,0,0,0
+Jasmine Tea,jasmine tea,1,minuman,11,2,0,0,2,1,1,0,0,0,0,0
+Roasted Chicken,roasted chicken,0,makanan,15,2,0,0,1,1,0,0,0,0,0,0
+Salmon,salmon,7,lain_lain,6,1,0,0,0,0,0,0,0,0,0,0
+Salmon Seaweed Bowl,salmon seaweed bowl,7,lain_lain,19,3,0,0,0,0,0,0,0,0,0,0
+Sorbet,sorbet,7,lain_lain,6,1,0,0,0,0,0,0,0,0,0,0
+3180-Soes Marmer,3180 soes marmer,1,minuman,16,3,1,0,1,0,1,0,0,0,0,0
+1006-Roti Molen,1006 roti molen,0,makanan,15,3,1,0,1,1,0,0,0,0,0,0
+1244-Plastik Tentengan Sedang,1244 plastik tentengan sedang,3,belanja,29,4,1,0,1,0,0,0,1,0,0,0
+CHEESE TIME,cheese time,1,minuman,11,2,0,1,1,0,1,0,0,0,0,0
+medium tub,medium tub,7,lain_lain,10,2,0,0,0,0,0,0,0,0,0,0
+AOP Seafood,aop seafood,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+Omurice Katsu Curry,omurice katsu curry,1,minuman,19,3,0,0,2,1,1,0,0,0,0,0
+Earl Gray Tea,earl gray tea,1,minuman,13,3,0,0,1,0,1,0,0,0,0,0
+SPICY WOSAM R,spicy wosam r,7,lain_lain,13,3,0,1,0,0,0,0,0,0,0,0
+1 MIE UP BSR C,1 mie up bsr c,0,makanan,14,5,1,1,1,1,0,0,0,0,0,0
+Fanta Strwbry (L),fanta strwbry l,1,minuman,15,3,0,0,1,0,1,0,0,0,0,0
+XXI Java Tea Spc,xxi java tea spc,1,minuman,16,4,0,0,1,0,1,0,0,0,0,0
+Caramel Medium,caramel medium,7,lain_lain,14,2,0,0,0,0,0,0,0,0,0,0
+Butter Milk Popcorn,butter milk popcorn,1,minuman,19,3,0,0,2,1,1,0,0,0,0,0
+Tahu Ikan Oma Giok,tahu ikan oma giok,0,makanan,18,4,0,0,1,1,0,0,0,0,0,0
+ORIGINAL 6 PCS,original 6 pcs,7,lain_lain,14,3,1,1,0,0,0,0,0,0,0,0
+KWT GR MGMSP,kwt gr mgmsp,7,lain_lain,12,3,0,1,0,0,0,0,0,0,0,0
+TEH HANGAT,teh hangat,1,minuman,10,2,0,1,1,0,1,0,0,0,0,0
+CF NASI PUTIH,cf nasi putih,0,makanan,13,3,0,1,1,1,0,0,0,0,0,0
+CF BBQ CHKN WING,cf bbq chkn wing,7,lain_lain,16,4,0,1,0,0,0,0,0,0,0,0
+FILLET DORI,fillet dori,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+KERUPUK KERING,kerupuk kering,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+Kwetiaw Ayam Jamur,kwetiaw ayam jamur,0,makanan,18,3,0,0,2,1,0,0,1,0,0,0
+1/2 OTAK-OTAK,1 2 otak otak,7,lain_lain,13,4,1,1,0,0,0,0,0,0,0,0
+Es Cincau,es cincau,1,minuman,9,2,0,0,1,0,1,0,0,0,0,0
+CRANBERRY WALNUT (S),cranberry walnut s,7,lain_lain,18,3,0,1,0,0,0,0,0,0,0,0
+BLACK CHEESE HOTDOG,black cheese hotdog,1,minuman,19,3,0,1,1,0,1,0,0,0,0,0
+Lemon Tea (L),lemon tea l,1,minuman,11,3,0,0,1,0,1,0,0,0,0,0
+Iced Sleepy Coffee,iced sleepy coffee,1,minuman,18,3,0,0,1,0,1,0,0,0,0,0
+Pisang Goreng,pisang goreng,0,makanan,13,2,0,0,1,1,0,0,0,0,0,0
+THAI TEA,thai tea,1,minuman,8,2,0,1,1,0,1,0,0,0,0,0
+PKT LELEH AYM GEPRK,pkt leleh aym geprk,7,lain_lain,19,4,0,1,0,0,0,0,0,0,0,0
+PKT MIE LELEH,pkt mie leleh,0,makanan,13,3,0,1,1,1,0,0,0,0,0,0
+ES TEH TAWAR,es teh tawar,1,minuman,12,3,0,1,1,0,1,0,0,0,0,0
+Lychee Tea,lychee tea,1,minuman,10,2,0,0,1,0,1,0,0,0,0,0
+FROZEN CAPUCINO,frozen capucino,7,lain_lain,15,2,0,1,0,0,0,0,0,0,0,0
+NS BISTIK AYM TP,ns bistik aym tp,7,lain_lain,16,4,0,1,0,0,0,0,0,0,0,0
+NS+AYAM GR RICA,ns ayam gr rica,0,makanan,15,4,0,1,1,1,0,0,0,0,0,0
+KWETIAUW AYM SRM,kwetiauw aym srm,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+BANANA RHUM RAISIN,banana rhum raisin,7,lain_lain,18,3,0,1,0,0,0,0,0,0,0,0
+PRAWN & SPINACH PASTA,prawn spinach pasta,0,makanan,19,3,0,1,1,1,0,0,0,0,0,0
+TRAD KY TOAST CARTE,trad ky toast carte,0,makanan,19,4,0,1,1,1,0,0,0,0,0,0
+<AYA BUN,aya bun,0,makanan,7,2,0,1,1,1,0,0,0,0,0,0
+CRISPY REAL CHEESE,crispy real cheese,1,minuman,18,3,0,1,1,0,1,0,0,0,0,0
+Lumpia Klt Tahu (3),lumpia klt tahu 3,0,makanan,17,4,1,0,1,1,0,0,0,0,0,0
+SM Udang & Aym (4),sm udang aym 4,0,makanan,14,4,1,0,1,1,0,0,0,0,0,0
+XLB Kptg&Aym(4),xlb kptg aym 4,7,lain_lain,14,4,1,0,0,0,0,0,0,0,0,0
+Brokoli Bwg Putih,brokoli bwg putih,7,lain_lain,17,3,0,0,0,0,0,0,0,0,0,0
+Mie Sup WT (U & A),mie sup wt u a,0,makanan,14,5,0,0,1,1,0,0,0,0,0,0
+The Roselle,the roselle,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+VALUE MEAL 1,value meal 1,7,lain_lain,12,3,1,1,0,0,0,0,0,0,0,0
+Yakiniku Rice Organic,yakiniku rice organic,1,minuman,21,3,0,0,2,1,1,0,0,0,0,0
+Mocca Float,mocca float,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+ES ILAT BOYO,es ilat boyo,1,minuman,12,3,0,1,1,0,1,0,0,0,0,0
+SAMBEL TOMAT SEG,sambel tomat seg,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+SAYAP AYAM,sayap ayam,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+TEA TAWAR,tea tawar,1,minuman,9,2,0,1,1,0,1,0,0,0,0,0
+Soft Ori 3 Top,soft ori 3 top,7,lain_lain,14,4,1,0,0,0,0,0,0,0,0,0
+Avocado with Rock Salt and Cocoa Cream [R],avocado with rock salt and cocoa cream r,7,lain_lain,40,8,0,0,0,0,0,0,0,0,0,0
+Rock salt and Cheese [R] Coffee,rock salt and cheese r coffee,1,minuman,29,6,0,0,1,0,1,0,0,0,0,0
+VALUE MEAL 2,value meal 2,7,lain_lain,12,3,1,1,0,0,0,0,0,0,0,0
+Nats Bitter Choco cake,nats bitter choco cake,0,makanan,22,4,0,0,1,1,0,0,0,0,0,0
+Es Kopi Susu Pandan,es kopi susu pandan,1,minuman,19,4,0,0,1,0,1,0,0,0,0,0
+Extra Whipping Cream,extra whipping cream,7,lain_lain,20,3,0,0,0,0,0,0,0,0,0,0
+Iced Coffee Latte,iced coffee latte,1,minuman,17,3,0,0,1,0,1,0,0,0,0,0
+Iced Sugar Cane,iced sugar cane,1,minuman,15,3,0,0,1,0,1,0,0,0,0,0
+Sparkling Mango Mojito,sparkling mango mojito,5,hiburan,22,3,0,0,1,0,0,0,0,0,1,0
+Iced Coffee,iced coffee,1,minuman,11,2,0,0,1,0,1,0,0,0,0,0
+GJ ROASTED MT ( R ),gj roasted mt r,7,lain_lain,15,4,0,1,0,0,0,0,0,0,0,0
+GALBI TANG,galbi tang,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+NASI(GONGGI BAB),nasi gonggi bab,0,makanan,15,3,0,1,1,1,0,0,0,0,0,0
+Peach Iced Tea,peach iced tea,1,minuman,14,3,0,0,1,0,1,0,0,0,0,0
+Mango Mint Iced Tea,mango mint iced tea,1,minuman,19,4,0,0,2,1,1,0,0,0,0,0
+Nannys Customer Fries,nannys customer fries,1,minuman,21,3,0,0,1,0,1,0,0,0,0,0
+Robert Olio Mushroom Spaghetti,robert olio mushroom spaghetti,5,hiburan,30,4,0,0,1,0,0,0,0,0,1,0
+Emily's Shrimp Scampi Fettucine,emily s shrimp scampi fettucine,0,makanan,31,5,0,0,1,1,0,0,0,0,0,0
+MULNAENGMYON,mulnaengmyon,7,lain_lain,12,1,0,1,0,0,0,0,0,0,0,0
+BEEF CURRY UDON,beef curry udon,0,makanan,15,3,0,1,1,1,0,0,0,0,0,0
+LM Dmplg Chli Sc,lm dmplg chli sc,7,lain_lain,16,4,0,0,0,0,0,0,0,0,0,0
+LM Poach Marble Beef,lm poach marble beef,0,makanan,20,4,0,0,1,1,0,0,0,0,0,0
+DIMSUM,dimsum,0,makanan,6,1,0,1,1,1,0,0,0,0,0,0
+XLB Org Pork 6x,xlb org pork 6x,7,lain_lain,15,4,1,0,0,0,0,0,0,0,0,0
+Oolong Jasmine Cup,oolong jasmine cup,0,makanan,18,3,0,0,1,1,0,0,0,0,0,0
+Tea,tea,1,minuman,3,1,0,0,1,0,1,0,0,0,0,0
+KAKIAGE TEMPURA,kakiage tempura,7,lain_lain,15,2,0,1,0,0,0,0,0,0,0,0
+COLD OCHA,cold ocha,7,lain_lain,9,2,0,1,0,0,0,0,0,0,0,0
+BROWNIE,brownie,7,lain_lain,7,1,0,1,0,0,0,0,0,0,0,0
+REAL GANACHE,real ganache,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+Honey Mandarin,honey mandarin,7,lain_lain,14,2,0,0,0,0,0,0,0,0,0,0
+HZ CHOCO MT (L) TOPPING,hz choco mt l topping,7,lain_lain,21,5,0,1,0,0,0,0,0,0,0,0
+MANGO GT (L),mango gt l,7,lain_lain,10,3,0,1,0,0,0,0,0,0,0,0
+CKM 1 OR,ckm 1 or,7,lain_lain,8,3,1,1,0,0,0,0,0,0,0,0
+Sundae,sundae,7,lain_lain,6,1,0,0,0,0,0,0,0,0,0,0
+Croisant Mini (NAM),croisant mini nam,0,makanan,17,3,0,0,1,1,0,0,0,0,0,0
+Bento Barbeque,bento barbeque,7,lain_lain,14,2,0,0,0,0,0,0,0,0,0,0
+Lychee Float,lychee float,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+3001-Sakura Mochi,3001 sakura mochi,7,lain_lain,17,3,1,0,0,0,0,0,0,0,0,0
+Grande,grande,7,lain_lain,6,1,0,0,0,0,0,0,0,0,0,0
+Lemon grass tea (Dine in),lemon grass tea dine in,1,minuman,23,5,0,0,1,0,1,0,0,0,0,0
+Cheese Tea Hokkaido Melon,cheese tea hokkaido melon,1,minuman,25,4,0,0,1,0,1,0,0,0,0,0
+Air Mineral,air mineral,1,minuman,11,2,0,0,3,1,1,0,0,1,0,0
+SWEEAT ICE TEA,sweeat ice tea,1,minuman,14,3,0,1,1,0,1,0,0,0,0,0
+OREO MILK BLEND,oreo milk blend,1,minuman,15,3,0,1,2,1,1,0,0,0,0,0
+FRIED RC SFOOD,fried rc sfood,0,makanan,14,3,0,1,1,1,0,0,0,0,0,0
+SHISHA,shisha,7,lain_lain,6,1,0,1,0,0,0,0,0,0,0,0
+MASHED POTATO,mashed potato,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+XXL Crispy Chicken,xxl crispy chicken,0,makanan,18,3,0,0,1,1,0,0,0,0,0,0
+Original Hugarian Ku,original hugarian ku,7,lain_lain,20,3,0,0,0,0,0,0,0,0,0,0
+RB. AI-AI CHOCO,rb ai ai choco,7,lain_lain,14,4,0,1,0,0,0,0,0,0,0,0
+Combo 1,combo 1,7,lain_lain,7,2,1,0,0,0,0,0,0,0,0,0
+LEMONADE22OZ,lemonade22oz,1,minuman,12,1,1,1,1,0,1,0,0,0,0,0
+CHOCOLATE ICE CREAM,chocolate ice cream,1,minuman,19,3,0,1,1,0,1,0,0,0,0,0
+MOCCA ICE CREAM,mocca ice cream,1,minuman,15,3,0,1,1,0,1,0,0,0,0,0
+WAKI PLATTER FOR 4-5,waki platter for 4 5,1,minuman,20,5,1,1,1,0,1,0,0,0,0,0
+CHAPJEA,chapjea,7,lain_lain,7,1,0,1,0,0,0,0,0,0,0,0
+KALBI PLATTER 2-3,kalbi platter 2 3,1,minuman,17,4,1,1,1,0,1,0,0,0,0,0
+escargot florentine,escargot florentine,1,minuman,19,2,0,0,2,0,1,0,0,1,0,0
+Zurich Geschnitzel,zurich geschnitzel,1,minuman,18,2,0,0,1,0,1,0,0,0,0,0
+Valdostana,valdostana,7,lain_lain,10,1,0,0,0,0,0,0,0,0,0,0
+Chicken Herb Crust,chicken herb crust,0,makanan,18,3,0,0,1,1,0,0,0,0,0,0
+Lasagna Di Carne,lasagna di carne,0,makanan,16,3,0,0,1,1,0,0,0,0,0,0
+Lemon Jc,lemon jc,1,minuman,8,2,0,0,1,0,1,0,0,0,0,0
+Apple Pie,apple pie,0,makanan,9,2,0,0,1,1,0,0,0,0,0,0
+hot tea,hot tea,1,minuman,7,2,0,0,1,0,1,0,0,0,0,0
+hot lemon tea,hot lemon tea,1,minuman,13,3,0,0,1,0,1,0,0,0,0,0
+Seaweed Chicken,seaweed chicken,0,makanan,15,2,0,0,1,1,0,0,0,0,0,0
+"ROTI ""0""",roti 0,0,makanan,6,2,1,1,1,1,0,0,0,0,0,0
+SHOPPING BAG ROTI'O' 370/,shopping bag roti o 370,0,makanan,23,5,1,1,2,1,0,0,1,0,0,0
+Bakmi Ayam Spc Ng,bakmi ayam spc ng,0,makanan,17,4,0,0,1,1,0,0,0,0,0,0
+Box Bakmie (M),box bakmie m,0,makanan,12,3,0,0,1,1,0,0,0,0,0,0
+Bakmi Ultah,bakmi ultah,0,makanan,11,2,0,0,1,1,0,0,0,0,0,0
+Box Yi Fu Mie (L),box yi fu mie l,0,makanan,15,5,0,0,1,1,0,0,0,0,0,0
+PILLOW COKLAT,pillow coklat,1,minuman,13,2,0,1,1,0,1,0,0,0,0,0
+PILLOW DURIAN,pillow durian,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+KCS 1,kcs 1,7,lain_lain,5,2,1,1,0,0,0,0,0,0,0,0
+WHOP JR 15K,whop jr 15k,7,lain_lain,11,3,1,1,0,0,0,0,0,0,0,0
+CHANGE TO CHICKEN BOX,change to chicken box,0,makanan,21,4,0,1,1,1,0,0,0,0,0,0
+BULGOGI SET,bulgogi set,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+(TW) MIE GORENG AYAM,tw mie goreng ayam,0,makanan,18,4,0,1,1,1,0,0,0,0,0,0
+(TW)NASI GORENG,tw nasi goreng,0,makanan,14,3,0,1,1,1,0,0,0,0,0,0
+Bakso Campur,bakso campur,0,makanan,12,2,0,0,1,1,0,0,0,0,0,0
+Es Teh Manis,es teh manis,1,minuman,12,3,0,0,1,0,1,0,0,0,0,0
+1.5 JAM,1 5 jam,3,belanja,7,3,1,1,1,0,0,0,1,0,0,0
+CHOCO CORONET,choco coronet,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+ORIGINAL COMBO,original combo,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+Nu Greentea 330,nu greentea 330,1,minuman,15,3,1,0,1,0,1,0,0,0,0,0
+LAPIS SINGAPUR,lapis singapur,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+AREM AREM,arem arem,7,lain_lain,9,2,0,1,0,0,0,0,0,0,0,0
+MIKA BESAR,mika besar,1,minuman,10,2,0,1,2,1,1,0,0,0,0,0
+GoFood Beragam - ICE LAT TE,gofood beragam ice lat te,1,minuman,25,5,0,0,1,0,1,0,0,0,0,0
+B16COKSER,b16cokser,7,lain_lain,9,1,1,1,0,0,0,0,0,0,0,0
+DP. ORDER,dp order,7,lain_lain,8,2,0,1,0,0,0,0,0,0,0,0
+CHOCO CROSSIANT,choco crossiant,7,lain_lain,15,2,0,1,0,0,0,0,0,0,0,0
+CHIKATSU BEN,chikatsu ben,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+BOX T. O,box t o,7,lain_lain,7,3,0,1,0,0,0,0,0,0,0,0
+bluberry pastry,bluberry pastry,2,transportasi,15,2,0,0,1,0,0,1,0,0,0,0
+NIKU UDON,niku udon,0,makanan,9,2,0,1,1,1,0,0,0,0,0,0
+ABURA UDON (SPICY),abura udon spicy,0,makanan,16,3,0,1,1,1,0,0,0,0,0,0
+INARI,inari,7,lain_lain,5,1,0,1,0,0,0,0,0,0,0,0
+CORONET,coronet,7,lain_lain,7,1,0,1,0,0,0,0,0,0,0,0
+SPOOKY SOBORO,spooky soboro,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+SCREAMING RED BEAN,screaming red bean,0,makanan,18,3,0,1,1,1,0,0,0,0,0,0
+PIZZA TOAST,pizza toast,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+Pork Belly Cheese Fries,pork belly cheese fries,1,minuman,23,4,0,0,1,0,1,0,0,0,0,0
+Reflection Sparkling,reflection sparkling,5,hiburan,20,2,0,0,1,0,0,0,0,0,1,0
+Hot Black Cofee,hot black cofee,1,minuman,15,3,0,0,1,0,1,0,0,0,0,0
+Nasi Campur ala Bali,nasi campur ala bali,0,makanan,20,4,0,0,1,1,0,0,0,0,0,0
+"Oriental ""Ketjap"" Pork Rice",oriental ketjap pork rice,1,minuman,25,4,0,0,2,1,1,0,0,0,0,0
+Hulk Topper Package,hulk topper package,7,lain_lain,19,3,0,0,0,0,0,0,0,0,0,0
+OCHA COLD,ocha cold,7,lain_lain,9,2,0,1,0,0,0,0,0,0,0,0
+ABURA SOBA CHK,abura soba chk,7,lain_lain,14,3,0,1,0,0,0,0,0,0,0,0
+Thai Tea - ICE,thai tea ice,1,minuman,12,3,0,0,1,0,1,0,0,0,0,0
+Green Tea ICE,green tea ice,1,minuman,13,3,0,0,1,0,1,0,0,0,0,0
+Thai Coffee ICE,thai coffee ice,1,minuman,15,3,0,0,1,0,1,0,0,0,0,0
+[MD] SOFT STEAMED CHEESEC,md soft steamed cheesec,1,minuman,23,4,0,1,1,0,1,0,0,0,0,0
+Handmade Oyster Mee..,handmade oyster mee,7,lain_lain,19,3,0,0,0,0,0,0,0,0,0,0
+NS FILET IKN ASM MNS,ns filet ikn asm mns,7,lain_lain,20,5,0,1,0,0,0,0,0,0,0,0
+NS+AYAM GR TPG,ns ayam gr tpg,0,makanan,14,4,0,1,1,1,0,0,0,0,0,0
+NASI GORENG SPC,nasi goreng spc,0,makanan,15,3,0,1,1,1,0,0,0,0,0,0
+BCA PROMO,bca promo,7,lain_lain,9,2,0,1,0,0,0,0,0,0,0,0
+SKEWERED SHUMAI,skewered shumai,7,lain_lain,15,2,0,1,0,0,0,0,0,0,0,0
+SKEWERED TOFU ROLL,skewered tofu roll,7,lain_lain,18,3,0,1,0,0,0,0,0,0,0,0
+EBI TEMPURA,ebi tempura,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+KITSUNE UDON (KIDS),kitsune udon kids,0,makanan,17,3,0,1,1,1,0,0,0,0,0,0
+Pangsit Delima,pangsit delima,7,lain_lain,14,2,0,0,0,0,0,0,0,0,0,0
+Lumpia Udg K Th,lumpia udg k th,7,lain_lain,15,4,0,0,0,0,0,0,0,0,0,0
+Ha Kaou Udng,ha kaou udng,7,lain_lain,12,3,0,0,0,0,0,0,0,0,0,0
+Cheong Fen Udg,cheong fen udg,7,lain_lain,14,3,0,0,0,0,0,0,0,0,0,0
+Hatosi Rambutan,hatosi rambutan,7,lain_lain,15,2,0,0,0,0,0,0,0,0,0,0
+Sio May Kpting,sio may kpting,7,lain_lain,14,3,0,0,0,0,0,0,0,0,0,0
+Kwo Tie Jala2,kwo tie jala2,7,lain_lain,13,3,1,0,0,0,0,0,0,0,0,0
+Pancake Durian,pancake durian,0,makanan,14,2,0,0,1,1,0,0,0,0,0,0
+Mie Gr Udg Gala,mie gr udg gala,0,makanan,15,4,0,0,1,1,0,0,0,0,0,0
+Lamien Udang T,lamien udang t,0,makanan,14,3,0,0,1,1,0,0,0,0,0,0
+Lamien Aym Ktsu,lamien aym ktsu,0,makanan,15,3,0,0,1,1,0,0,0,0,0,0
+Ns Pgng Kj Sp,ns pgng kj sp,7,lain_lain,13,4,0,0,0,0,0,0,0,0,0,0
+Kwt Polos Mdn,kwt polos mdn,7,lain_lain,13,3,0,0,0,0,0,0,0,0,0,0
+N Aym Hainam Jl,n aym hainam jl,7,lain_lain,15,4,0,0,0,0,0,0,0,0,0,0
+Chinese Tea,chinese tea,1,minuman,11,2,0,0,1,0,1,0,0,0,0,0
+BLACKCURRANT,blackcurrant,7,lain_lain,12,1,0,1,0,0,0,0,0,0,0,0
+FRIED CALAMARI,fried calamari,0,makanan,14,2,0,1,1,1,0,0,0,0,0,0
+SALTED EGG FISH & CHIPS,salted egg fish chips,0,makanan,21,4,0,1,1,1,0,0,0,0,0,0
+DANISH FISH & CHIPS,danish fish chips,0,makanan,17,3,0,1,1,1,0,0,0,0,0,0
+5003-Chokoreto Cookies,5003 chokoreto cookies,1,minuman,22,3,1,0,2,1,1,0,0,0,0,0
+SATE T1,sate t1,0,makanan,7,2,1,1,1,1,0,0,0,0,0,0
+Popcorn Sweet (S),popcorn sweet s,7,lain_lain,15,3,0,0,0,0,0,0,0,0,0,0
+TORI BAITAN UDON,tori baitan udon,0,makanan,16,3,0,1,1,1,0,0,0,0,0,0
+BEEF CURRY RICE,beef curry rice,1,minuman,15,3,0,1,2,1,1,0,0,0,0,0
+Caramel Small,caramel small,7,lain_lain,13,2,0,0,0,0,0,0,0,0,0,0
+CREAMCHEESE WALNUT BREAD,creamcheese walnut bread,1,minuman,24,3,0,1,1,0,1,0,0,0,0,0
+ROLL-IT PIZZA BREAD,roll it pizza bread,0,makanan,19,4,0,1,1,1,0,0,0,0,0,0
+JAPANEESE GR TEA HOT,japaneese gr tea hot,1,minuman,20,4,0,1,1,0,1,0,0,0,0,0
+CHICKEN SKIN,chicken skin,0,makanan,12,2,0,1,1,1,0,0,0,0,0,0
+GYU MOZZA DON,gyu mozza don,7,lain_lain,13,3,0,1,0,0,0,0,0,0,0,0
+C.KATSU NOODLE HP,c katsu noodle hp,0,makanan,17,4,0,1,1,1,0,0,0,0,0,0
+TALKING ACTIVITY BK,talking activity bk,7,lain_lain,19,3,0,1,0,0,0,0,0,0,0,0
+KERTAS KADO 1500,kertas kado 1500,3,belanja,16,3,1,1,1,0,0,0,1,0,0,0
+H N Cheesy Chic,h n cheesy chic,1,minuman,15,4,0,0,1,0,1,0,0,0,0,0
+K.Chees Chic RC,k chees chic rc,1,minuman,15,4,0,0,1,0,1,0,0,0,0,0
+MOCA FLT OVLTIN,moca flt ovltin,7,lain_lain,15,3,0,1,0,0,0,0,0,0,0,0
+FFries Large,ffries large,1,minuman,12,2,0,0,1,0,1,0,0,0,0,0
+PaulanerP1,paulanerp1,7,lain_lain,10,1,1,0,0,0,0,0,0,0,0,0
+DarkBeer0.5L,darkbeer0 5l,1,minuman,12,2,1,0,1,0,1,0,0,0,0,0
+Weiss 0.3 L,weiss 0 3 l,7,lain_lain,11,4,1,0,0,0,0,0,0,0,0,0
+Grill Sea Bass,grill sea bass,7,lain_lain,14,3,0,0,0,0,0,0,0,0,0,0
+LgrBeer0.3L,lgrbeer0 3l,1,minuman,11,2,1,0,1,0,1,0,0,0,0,0
+FlyDark 0.3,flydark 0 3,7,lain_lain,11,3,1,0,0,0,0,0,0,0,0,0
+DarkBeer0.3L,darkbeer0 3l,1,minuman,12,2,1,0,1,0,1,0,0,0,0,0
+1004-Smoked Cheese & Mushroom,1004 smoked cheese mushroom,1,minuman,27,4,1,0,1,0,1,0,0,0,0,0
+DP. ORDER / 19cc0665,dp order 19cc0665,7,lain_lain,17,3,1,0,0,0,0,0,0,0,0,0
+SHISAMO MENTAIKO,shisamo mentaiko,7,lain_lain,16,2,0,1,0,0,0,0,0,0,0,0
+SALMON BACON,salmon bacon,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+DYNAMITE SCALLOP,dynamite scallop,0,makanan,16,2,0,1,1,1,0,0,0,0,0,0
+TOBIKO TOFU,tobiko tofu,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+Salted Egg Yalk Chicken,salted egg yalk chicken,0,makanan,23,4,0,0,1,1,0,0,0,0,0,0
+ALMOND SUGAR MILK BREAD,almond sugar milk bread,1,minuman,23,4,0,1,2,1,1,0,0,0,0,0
+KINGBBOBPG ML REG,kingbbobpg ml reg,7,lain_lain,17,3,0,1,0,0,0,0,0,0,0,0
+MED ICED LEMON TEA,med iced lemon tea,1,minuman,18,4,0,1,1,0,1,0,0,0,0,0
+CUSTARD BRIOCHE,custard brioche,7,lain_lain,15,2,0,1,0,0,0,0,0,0,0,0
+Cheese Twist,cheese twist,1,minuman,12,2,0,0,1,0,1,0,0,0,0,0
+Classic Milktea,classic milktea,1,minuman,15,2,0,0,2,1,1,0,0,0,0,0
+Kupon 13,kupon 13,7,lain_lain,8,2,1,0,0,0,0,0,0,0,0,0
+MILK CREAM BREAD,milk cream bread,1,minuman,16,3,0,1,2,1,1,0,0,0,0,0
+REAL MILK CHOCO BREAD,real milk choco bread,1,minuman,21,4,0,1,2,1,1,0,0,0,0,0
+RED BEAN BRAIDED BREAD,red bean braided bread,7,lain_lain,22,4,0,1,0,0,0,0,0,0,0,0
+TAHU SATUAN,tahu satuan,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+mush pasta,mush pasta,0,makanan,10,2,0,0,1,1,0,0,0,0,0,0
+chic ques,chic ques,1,minuman,9,2,0,0,1,0,1,0,0,0,0,0
+Es Kopi Susu,es kopi susu,1,minuman,12,3,0,0,1,0,1,0,0,0,0,0
+DumDum Thai Iced Tea,dumdum thai iced tea,1,minuman,20,4,0,0,1,0,1,0,0,0,0,0
+ZUPPA SOUP,zuppa soup,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+CHILLY N'CHEESE,chilly n cheese,1,minuman,15,3,0,1,1,0,1,0,0,0,0,0
+BEEF CHEDDAR PO,beef cheddar po,0,makanan,15,3,0,1,1,1,0,0,0,0,0,0
+Masker Bengkuang,masker bengkuang,6,kesehatan,16,2,0,0,1,0,0,0,0,0,0,1
+Soaghetti Deluxe,soaghetti deluxe,7,lain_lain,16,2,0,0,0,0,0,0,0,0,0,0
+CHCKN CHEESE,chckn cheese,1,minuman,12,2,0,1,1,0,1,0,0,0,0,0
+NASI RAMES,nasi rames,1,minuman,10,2,0,1,2,1,1,0,0,0,0,0
+AYAM PANGGANG,ayam panggang,0,makanan,13,2,0,1,1,1,0,0,0,0,0,0
+ES TEH/TAWAR,es teh tawar,1,minuman,12,3,0,1,1,0,1,0,0,0,0,0
+Nasi CampurBali,nasi campurbali,0,makanan,15,2,0,0,1,1,0,0,0,0,0,0
+Sambal Besar,sambal besar,1,minuman,12,2,0,0,1,0,1,0,0,0,0,0
+Sambal Kecil,sambal kecil,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+KrpBangka/Bawang,krpbangka bawang,7,lain_lain,16,2,0,0,0,0,0,0,0,0,0,0
+Hero,hero,7,lain_lain,4,1,0,0,0,0,0,0,0,0,0,0
+Choco Bite,choco bite,7,lain_lain,10,2,0,0,0,0,0,0,0,0,0,0
+Avocado with Rock Salt and Cocoa,avocado with rock salt and cocoa,7,lain_lain,32,6,0,0,0,0,0,0,0,0,0,0
+LE MINERALE 600ML,le minerale 600ml,1,minuman,17,3,1,1,2,1,1,0,0,0,0,0
+PLASTIK SDG,plastik sdg,3,belanja,11,2,0,1,1,0,0,0,1,0,0,0
+DORI SAMBAL MATAH 1+1,dori sambal matah 1 1,7,lain_lain,21,5,1,1,0,0,0,0,0,0,0,0
+IKAN GURAME MED,ikan gurame med,0,makanan,15,3,0,1,1,1,0,0,0,0,0,0
+CUMI GR TEPUNG,cumi gr tepung,0,makanan,14,3,0,1,1,1,0,0,0,0,0,0
+AGSIO TH PC JMR,agsio th pc jmr,7,lain_lain,15,4,0,1,0,0,0,0,0,0,0,0
+POCAI BWG PUTIH,pocai bwg putih,7,lain_lain,15,3,0,1,0,0,0,0,0,0,0,0
+LUMPIA UDG PREM,lumpia udg prem,7,lain_lain,15,3,0,1,0,0,0,0,0,0,0,0
+Pink Panther (P),pink panther p,7,lain_lain,14,3,0,0,0,0,0,0,0,0,0,0
+Red dragon (P),red dragon p,7,lain_lain,12,3,0,0,0,0,0,0,0,0,0,0
+CAPPUCCINO,cappuccino,1,minuman,10,1,0,1,1,0,1,0,0,0,0,0
+ORANGE JUICE,orange juice,1,minuman,12,2,0,1,1,0,1,0,0,0,0,0
+Pecel Pincuk,pecel pincuk,0,makanan,12,2,0,0,1,1,0,0,0,0,0,0
+Tahu Bacem,tahu bacem,0,makanan,10,2,0,0,1,1,0,0,0,0,0,0
+Tempe Bacem,tempe bacem,0,makanan,11,2,0,0,1,1,0,0,0,0,0,0
+Empal,empal,7,lain_lain,5,1,0,0,0,0,0,0,0,0,0,0
+Peyek Parcel,peyek parcel,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+VALINO DONNA,valino donna,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+SB SIZE 45.5,sb size 45 5,7,lain_lain,12,4,1,1,0,0,0,0,0,0,0,0
+1517-ROTI KENTANG KEJU MANIS,1517 roti kentang keju manis,0,makanan,28,5,1,1,1,1,0,0,0,0,0,0
+1009-ROTI KELAPA,1009 roti kelapa,0,makanan,16,3,1,1,1,1,0,0,0,0,0,0
+1439-TUNA CHEESE WHEAT SANDWICH,1439 tuna cheese wheat sandwich,1,minuman,31,5,1,1,2,1,1,0,0,0,0,0
+1244-PLASTIK TENTENGAN SEDANG,1244 plastik tentengan sedang,3,belanja,29,4,1,1,1,0,0,0,1,0,0,0
+THAI ICETEA,thai icetea,1,minuman,11,2,0,1,1,0,1,0,0,0,0,0
+ICE GREENTEA,ice greentea,1,minuman,12,2,0,1,1,0,1,0,0,0,0,0
+Aqua MinWtr 330ml,aqua minwtr 330ml,1,minuman,17,3,1,0,2,1,1,0,0,0,0,0
+R.PISANG COKLAT,r pisang coklat,1,minuman,15,3,0,1,1,0,1,0,0,0,0,0
+D.RING COKLAT,d ring coklat,1,minuman,13,3,0,1,1,0,1,0,0,0,0,0
+R.BANA CHIP,r bana chip,7,lain_lain,11,3,0,1,0,0,0,0,0,0,0,0
+R.TAWAR ISI 2,r tawar isi 2,7,lain_lain,13,4,1,1,0,0,0,0,0,0,0,0
+NU GREENTEA ORGE,nu greentea orge,1,minuman,16,3,0,1,1,0,1,0,0,0,0,0
+YAKULT ISI 5 PCS,yakult isi 5 pcs,1,minuman,16,4,1,1,1,0,1,0,0,0,0,0
+T. CREAM M 21,t cream m 21,7,lain_lain,12,4,1,1,0,0,0,0,0,0,0,0
+PAKET BER2,paket ber2,7,lain_lain,10,2,1,1,0,0,0,0,0,0,0,0
+Bio Solar,bio solar,2,transportasi,9,2,0,0,1,0,0,1,0,0,0,0
+CUSTARD SOB RO,custard sob ro,7,lain_lain,14,3,0,1,0,0,0,0,0,0,0,0
+AYAM GR BUMBU,ayam gr bumbu,0,makanan,13,3,0,1,1,1,0,0,0,0,0,0
+Small 1,small 1,7,lain_lain,7,2,1,0,0,0,0,0,0,0,0,0
+*PlastiK Kcl,plastik kcl,3,belanja,11,2,0,0,1,0,0,0,1,0,0,0
+Cha Keaw,cha keaw,7,lain_lain,8,2,0,0,0,0,0,0,0,0,0,0
+Mineral Water 600 ml,mineral water 600 ml,1,minuman,20,4,1,0,3,1,1,0,0,1,0,0
+Teh Pucuk 350 ml,teh pucuk 350 ml,1,minuman,16,4,1,0,1,0,1,0,0,0,0,0
+SOUR CREAM N ONION,sour cream n onion,7,lain_lain,18,4,0,1,0,0,0,0,0,0,0,0
+MILK PASTRY ROLL,milk pastry roll,1,minuman,16,3,0,1,2,1,1,0,0,0,0,0
+YIFUMI,yifumi,0,makanan,6,1,0,1,1,1,0,0,0,0,0,0
+Bihun Goreng,bihun goreng,0,makanan,12,2,0,0,1,1,0,0,0,0,0,0
+Nasi Goreng,nasi goreng,0,makanan,11,2,0,0,1,1,0,0,0,0,0,0
+LIMAU KASTURI,limau kasturi,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+LOYALTY PROGRAM,loyalty program,7,lain_lain,15,2,0,1,0,0,0,0,0,0,0,0
+CHICKEN PICATTA,chicken picatta,0,makanan,15,2,0,1,1,1,0,0,0,0,0,0
+JAVA TEA,java tea,1,minuman,8,2,0,1,1,0,1,0,0,0,0,0
+VANBOOLEN,vanboolen,7,lain_lain,9,1,0,1,0,0,0,0,0,0,0,0
+JONGKONG,jongkong,7,lain_lain,8,1,0,1,0,0,0,0,0,0,0,0
+MDSE ST,mdse st,7,lain_lain,7,2,0,1,0,0,0,0,0,0,0,0
+Ayam Grg Kalasan,ayam grg kalasan,0,makanan,16,3,0,0,1,1,0,0,0,0,0,0
+Tempe,tempe,0,makanan,5,1,0,0,1,1,0,0,0,0,0,0
+LUMPIA,lumpia,7,lain_lain,6,1,0,1,0,0,0,0,0,0,0,0
+SOSIS SOLO,sosis solo,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+LUMPUR,lumpur,7,lain_lain,6,1,0,1,0,0,0,0,0,0,0,0
+DADAR PISANG,dadar pisang,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+KLEPON,klepon,7,lain_lain,6,1,0,1,0,0,0,0,0,0,0,0
+BUGIS,bugis,7,lain_lain,5,1,0,1,0,0,0,0,0,0,0,0
+MACARONI,macaroni,7,lain_lain,8,1,0,1,0,0,0,0,0,0,0,0
+PLASTIK TENTENG,plastik tenteng,3,belanja,15,2,0,1,1,0,0,0,1,0,0,0
+Pertamax,pertamax,7,lain_lain,8,1,0,0,0,0,0,0,0,0,0,0
+1013-ROTI NANAS,1013 roti nanas,0,makanan,15,3,1,1,1,1,0,0,0,0,0,0
+3025-BOLU GULUNG MOCCA PTG,3025 bolu gulung mocca ptg,7,lain_lain,26,5,1,1,0,0,0,0,0,0,0,0
+5014-LEMPER IKAN,5014 lemper ikan,0,makanan,16,3,1,1,1,1,0,0,0,0,0,0
+1245-PLASTIK TENTENGAN KECIL,1245 plastik tentengan kecil,3,belanja,28,4,1,1,1,0,0,0,1,0,0,0
+HAI CMP SPC,hai cmp spc,7,lain_lain,11,3,0,1,0,0,0,0,0,0,0,0
+1026-Garlic Pesto,1026 garlic pesto,1,minuman,17,3,1,0,1,0,1,0,0,0,0,0
+1028-Dark Choco Creamcheese,1028 dark choco creamcheese,1,minuman,27,4,1,0,1,0,1,0,0,0,0,0
+Gado Gado,gado gado,0,makanan,9,2,0,0,1,1,0,0,0,0,0,0
+Nasi Putih GG,nasi putih gg,0,makanan,13,3,0,0,1,1,0,0,0,0,0,0
+WOOSAM RICE R,woosam rice r,1,minuman,13,3,0,1,2,1,1,0,0,0,0,0
+ChicTeriyakiTeishoku,chicteriyakiteishoku,7,lain_lain,20,1,0,0,0,0,0,0,0,0,0,0
+JapaneseBeef Hamburg,japanesebeef hamburg,1,minuman,20,2,0,0,2,1,1,0,0,0,0,0
+Ocha Cold,ocha cold,7,lain_lain,9,2,0,0,0,0,0,0,0,0,0,0
+Ocha Hot,ocha hot,1,minuman,8,2,0,0,1,0,1,0,0,0,0,0
+ORI SLMN,ori slmn,7,lain_lain,8,2,0,1,0,0,0,0,0,0,0,0
+Kopi Susu R,kopi susu r,1,minuman,11,3,0,0,1,0,1,0,0,0,0,0
+Premier Mineral Water (L t1),premier mineral water l t1,1,minuman,26,5,1,0,3,1,1,0,0,1,0,0
+NEW BEEF LASAGNA,new beef lasagna,0,makanan,16,3,0,1,1,1,0,0,0,0,0,0
+Kuey Teow Goreng Singapore,kuey teow goreng singapore,0,makanan,26,4,0,0,1,1,0,0,0,0,0,0
+Tea (Ice),tea ice,1,minuman,7,2,0,0,1,0,1,0,0,0,0,0
+TONGSENG SAPI,tongseng sapi,0,makanan,13,2,0,1,1,1,0,0,0,0,0,0
+Passionfruit Mojito,passionfruit mojito,7,lain_lain,19,2,0,0,0,0,0,0,0,0,0,0
+OPEN KITCHEN,open kitchen,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+TAHU LAMPION,tahu lampion,0,makanan,12,2,0,1,1,1,0,0,0,0,0,0
+SUP JGG KPT,sup jgg kpt,7,lain_lain,11,3,0,1,0,0,0,0,0,0,0,0
+LUMPIA UDANG,lumpia udang,0,makanan,12,2,0,1,1,1,0,0,0,0,0,0
+CHOCOLATE ECLAIR,chocolate eclair,1,minuman,16,2,0,1,2,0,1,0,0,1,0,0
+DOUBLE CHEESE PAN BREAD(L,double cheese pan bread l,1,minuman,25,5,0,1,1,0,1,0,0,0,0,0
+WHOLE WHEAT PAN BREAD,whole wheat pan bread,7,lain_lain,21,4,0,1,0,0,0,0,0,0,0,0
+3190-Disney Taartjes Siram Coklat,3190 disney taartjes siram coklat,1,minuman,33,5,1,0,1,0,1,0,0,0,0,0
+4032-Mini Glazed Croissant (isi 5 pcs),4032 mini glazed croissant isi 5 pcs,0,makanan,36,7,1,0,1,1,0,0,0,0,0,0
+Milo,milo,0,makanan,4,1,0,0,1,1,0,0,0,0,0,0
+KOPI CAM,kopi cam,1,minuman,8,2,0,1,1,0,1,0,0,0,0,0
+Nasi Goreng Buntut,nasi goreng buntut,0,makanan,18,3,0,0,1,1,0,0,0,0,0,0
+NASI LIWET,nasi liwet,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+Ayam Penyet Sambal Glede,ayam penyet sambal glede,0,makanan,24,4,0,0,1,1,0,0,0,0,0,0
+Teh Tubruk Jahe,teh tubruk jahe,1,minuman,15,3,0,0,1,0,1,0,0,0,0,0
+Combo 4,combo 4,7,lain_lain,7,2,1,0,0,0,0,0,0,0,0,0
+Crispy Mushroom,crispy mushroom,7,lain_lain,15,2,0,0,0,0,0,0,0,0,0,0
+Equil Natural,equil natural,7,lain_lain,13,2,0,0,0,0,0,0,0,0,0,0
+SB 1 HC,sb 1 hc,7,lain_lain,7,3,1,1,0,0,0,0,0,0,0,0
+Sabun Beras,sabun beras,0,makanan,11,2,0,0,2,1,0,0,1,0,0,0
+SI EKO,si eko,7,lain_lain,6,2,0,1,0,0,0,0,0,0,0,0
+HZ CHOCO M1 (L) TOPPING,hz choco m1 l topping,7,lain_lain,21,5,1,1,0,0,0,0,0,0,0,0
+SUSHI SALMON,sushi salmon,0,makanan,12,2,0,1,1,1,0,0,0,0,0,0
+SALAD DRESSING THOUSAND ISLAND,salad dressing thousand island,1,minuman,30,4,0,1,2,1,1,0,0,0,0,0
+LEMONADE,lemonade,1,minuman,8,1,0,1,1,0,1,0,0,0,0,0
+SHRIMP SATSUMA,shrimp satsuma,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+SHITAKE SKEWER,shitake skewer,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+SPICY TEMPURA,spicy tempura,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+SAUCE SHOYU SUSHI YAMASA HALAL,sauce shoyu sushi yamasa halal,0,makanan,30,5,0,1,1,1,0,0,0,0,0,0
+SUSHI SALMON FRESH PAKET,sushi salmon fresh paket,1,minuman,24,4,0,1,2,1,1,0,0,0,0,0
+SENDOK DAN GARPU PLASTIK,sendok dan garpu plastik,3,belanja,24,4,0,1,1,0,0,0,1,0,0,0
+TOBIKKO ORANGE,tobikko orange,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+TAMAGO,tamago,7,lain_lain,6,1,0,1,0,0,0,0,0,0,0,0
+SATSUMA AGE NIGIRI,satsuma age nigiri,7,lain_lain,18,3,0,1,0,0,0,0,0,0,0,0
+M02.LMK BEEF RNDANG,m02 lmk beef rndang,0,makanan,19,4,1,1,1,1,0,0,0,0,0,0
+I13.SIMANGOSONG,i13 simangosong,7,lain_lain,15,2,1,1,0,0,0,0,0,0,0,0
+101.NS BEBEK KAMPUNG,101 ns bebek kampung,7,lain_lain,20,4,1,1,0,0,0,0,0,0,0,0
+A13.MIE ACP,a13 mie acp,0,makanan,11,3,1,1,1,1,0,0,0,0,0,0
+CT06.TEA 0 HOT R.,ct06 tea 0 hot r,1,minuman,16,5,1,1,1,0,1,0,0,0,0,0
+CT06.TEA 0 ICE R.,ct06 tea 0 ice r,1,minuman,16,5,1,1,1,0,1,0,0,0,0,0
+NO1.MR.MI TLR ASIN,no1 mr mi tlr asin,0,makanan,18,5,1,1,1,1,0,0,0,0,0,0
+Tea Latte,tea latte,1,minuman,9,2,0,0,1,0,1,0,0,0,0,0
+1057-French Bread Puding,1057 french bread puding,7,lain_lain,24,4,1,0,0,0,0,0,0,0,0,0
+[MD] SOFT STEAMED CHOCOCA,md soft steamed chococa,1,minuman,23,4,0,1,1,0,1,0,0,0,0,0
+[MD] MINI CASTELLA ORIGIN,md mini castella origin,0,makanan,23,4,0,1,1,1,0,0,0,0,0,0
+Six,six,7,lain_lain,3,1,0,0,0,0,0,0,0,0,0,0
+GYOZA AYAM GORENG,gyoza ayam goreng,0,makanan,17,3,0,1,1,1,0,0,0,0,0,0
+RAMEN AYAM SPECIAL,ramen ayam special,0,makanan,18,3,0,1,1,1,0,0,0,0,0,0
+White Toast,white toast,0,makanan,11,2,0,0,1,1,0,0,0,0,0,0
+DL+GA+FF+R+2RB,dl ga ff r 2rb,7,lain_lain,14,5,1,1,0,0,0,0,0,0,0,0
+UP Drink 16,up drink 16,1,minuman,11,3,1,0,1,0,1,0,0,0,0,0
+UP Orange 16,up orange 16,7,lain_lain,12,3,1,0,0,0,0,0,0,0,0,0
+KP BRANDING S,kp branding s,7,lain_lain,13,3,0,1,0,0,0,0,0,0,0,0
+HYDROCOCO 250ML,hydrococo 250ml,7,lain_lain,15,2,1,1,0,0,0,0,0,0,0,0
+STRAWBERRY FRESH CREAM CA,strawberry fresh cream ca,1,minuman,25,4,0,1,1,0,1,0,0,0,0,0
+YAKI ADULT,yaki adult,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+SHABU ADULT,shabu adult,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+Salted Egg Chicken,salted egg chicken,0,makanan,18,3,0,0,1,1,0,0,0,0,0,0
+Nasi,nasi,0,makanan,4,1,0,0,1,1,0,0,0,0,0,0
+Soup Patin,soup patin,0,makanan,10,2,0,0,1,1,0,0,0,0,0,0
+Kerang/Kikil,kerang kikil,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+Tahu Woku,tahu woku,0,makanan,9,2,0,0,1,1,0,0,0,0,0,0
+Tahu Bakso,tahu bakso,0,makanan,10,2,0,0,1,1,0,0,0,0,0,0
+Teh Kotak,teh kotak,1,minuman,9,2,0,0,1,0,1,0,0,0,0,0
+Mineral Cup,mineral cup,1,minuman,11,2,0,0,2,1,1,0,0,0,0,0
+Combo 1.,combo 1,7,lain_lain,7,2,1,0,0,0,0,0,0,0,0,0
+Mocha,mocha,1,minuman,5,1,0,0,1,0,1,0,0,0,0,0
+Cappucino,cappucino,7,lain_lain,9,1,0,0,0,0,0,0,0,0,0,0
+Lemon Juice,lemon juice,1,minuman,11,2,0,0,1,0,1,0,0,0,0,0
+Croque Mme.,croque mme,7,lain_lain,10,2,0,0,0,0,0,0,0,0,0,0
+Caesar Salad,caesar salad,1,minuman,12,2,0,0,2,1,1,0,0,0,0,0
+Canele (Mini),canele mini,0,makanan,11,2,0,0,1,1,0,0,0,0,0,0
+JPR SUS U,jpr sus u,7,lain_lain,9,3,0,1,0,0,0,0,0,0,0,0
+L C MESES,l c meses,1,minuman,9,3,0,1,1,0,1,0,0,0,0,0
+PLASTIK 33,plastik 33,3,belanja,10,2,1,1,1,0,0,0,1,0,0,0
+NOIR PIZZA BREAD,noir pizza bread,0,makanan,16,3,0,1,1,1,0,0,0,0,0,0
+PILOW DUR PX,pilow dur px,7,lain_lain,12,3,0,1,0,0,0,0,0,0,0,0
+NASI BAKAR,nasi bakar,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+SIOMAY,siomay,0,makanan,6,1,0,1,1,1,0,0,0,0,0,0
+MIKA SEDANG,mika sedang,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+GARPU MAKAN,garpu makan,3,belanja,11,2,0,1,1,0,0,0,1,0,0,0
+MACARONI GR,macaroni gr,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+PASTELGORENG,pastelgoreng,0,makanan,12,1,0,1,1,1,0,0,0,0,0,0
+SEMAR MENDEM,semar mendem,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+BAKWAN JAGUNG,bakwan jagung,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+Polo 1,polo 1,7,lain_lain,6,2,1,0,0,0,0,0,0,0,0,0
+Sate Babi Manis,sate babi manis,0,makanan,15,3,0,0,1,1,0,0,0,0,0,0
+Sate Babi Bumbu Bali,sate babi bumbu bali,0,makanan,20,4,0,0,1,1,0,0,0,0,0,0
+Lapolong,lapolong,7,lain_lain,8,1,0,0,0,0,0,0,0,0,0,0
+Sate Babi Cabe Ijo,sate babi cabe ijo,0,makanan,18,4,0,0,1,1,0,0,0,0,0,0
+Paru Babi,paru babi,0,makanan,9,2,0,0,1,1,0,0,0,0,0,0
+Ngohiong,ngohiong,7,lain_lain,8,1,0,0,0,0,0,0,0,0,0,0
+SMOKY PAN CLASSIC,smoky pan classic,7,lain_lain,17,3,0,1,0,0,0,0,0,0,0,0
+Chicken Popcorn,chicken popcorn,0,makanan,15,2,0,0,1,1,0,0,0,0,0,0
+A.MINERAL GELAS,a mineral gelas,1,minuman,15,3,0,1,3,1,1,0,1,0,0,0
+Pastel,pastel,7,lain_lain,6,1,0,0,0,0,0,0,0,0,0,0
+Kroket,kroket,7,lain_lain,6,1,0,0,0,0,0,0,0,0,0,0
+MANGGO SMOOTHIE,manggo smoothie,1,minuman,15,2,0,1,1,0,1,0,0,0,0,0
+S-Chocolate Milk,s chocolate milk,1,minuman,16,3,0,0,2,1,1,0,0,0,0,0
+Popcorn Salt (S),popcorn salt s,7,lain_lain,14,3,0,0,0,0,0,0,0,0,0,0
+Tebu Lemon,tebu lemon,1,minuman,10,2,0,0,1,0,1,0,0,0,0,0
+BLACKPINK,blackpink,7,lain_lain,9,1,0,1,0,0,0,0,0,0,0,0
+MATCHABERRY,matchaberry,1,minuman,11,1,0,1,1,0,1,0,0,0,0,0
+KING DEAL CHEESE BG,king deal cheese bg,1,minuman,19,4,0,1,1,0,1,0,0,0,0,0
+1 BIC ALA CARTE,1 bic ala carte,7,lain_lain,15,4,1,1,0,0,0,0,0,0,0,0
+BENTO CHICKEN TERIYAKI,bento chicken teriyaki,0,makanan,22,3,0,1,1,1,0,0,0,0,0,0
+SURIMI - SATSUMA AGE VEGETABLE,surimi satsuma age vegetable,0,makanan,28,4,0,1,1,1,0,0,0,0,0,0
+CALAMARI KATSU,calamari katsu,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+DORI KATSU,dori katsu,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+ROBA - SPICY KAWA SKEWER KULIT,roba spicy kawa skewer kulit,7,lain_lain,28,5,0,1,0,0,0,0,0,0,0,0
+SALAD DRESSING SPICY TOMATOES KEWPIE 25ML,salad dressing spicy tomatoes kewpie 25ml,1,minuman,41,6,1,1,2,1,1,0,0,0,0,0
+Choco Lining Bread,choco lining bread,7,lain_lain,18,3,0,0,0,0,0,0,0,0,0,0
+Tuna N Chicken Floos Bread,tuna n chicken floos bread,0,makanan,26,5,0,0,1,1,0,0,0,0,0,0
+CROQUE MONSIEUR,croque monsieur,7,lain_lain,15,2,0,1,0,0,0,0,0,0,0,0
+1017-Roti Pisang Keju,1017 roti pisang keju,0,makanan,21,4,1,0,1,1,0,0,0,0,0,0
+1025-Roti Sosis Sapi,1025 roti sosis sapi,0,makanan,20,4,1,0,1,1,0,0,0,0,0,0
+CHICKEN KATSU CURRY RICE,chicken katsu curry rice,1,minuman,24,4,0,1,2,1,1,0,0,0,0,0
+SUL LUNG TANG,sul lung tang,7,lain_lain,13,3,0,1,0,0,0,0,0,0,0,0
+BREAD BOX M,bread box m,7,lain_lain,11,3,0,1,0,0,0,0,0,0,0,0
+Gangster BZR,gangster bzr,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+NB AYAM,nb ayam,0,makanan,7,2,0,1,1,1,0,0,0,0,0,0
+TEH/ES TEH MANIS,teh es teh manis,1,minuman,16,4,0,1,1,0,1,0,0,0,0,0
+CB PR SIRLOIN,cb pr sirloin,7,lain_lain,13,3,0,1,0,0,0,0,0,0,0,0
+F.FRIES MEDIUM,f fries medium,1,minuman,14,3,0,1,1,0,1,0,0,0,0,0
+F.FRIES COMBO,f fries combo,1,minuman,13,3,0,1,1,0,1,0,0,0,0,0
+BROWN SAUCE,brown sauce,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+COCA COLA,coca cola,1,minuman,9,2,0,1,1,0,1,0,0,0,0,0
+WALL'S BABY SHARK 60,wall s baby shark 60,7,lain_lain,20,5,1,1,0,0,0,0,0,0,0,0
+WALL'S FEAST VNILA65,wall s feast vnila65,7,lain_lain,20,4,1,1,0,0,0,0,0,0,0,0
+Full Box,full box,7,lain_lain,8,2,0,0,0,0,0,0,0,0,0,0
+KOROKE ORI,koroke ori,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+KOROKE CURRY,koroke curry,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+EBI KTSU 1 PCS,ebi ktsu 1 pcs,7,lain_lain,14,4,1,1,0,0,0,0,0,0,0,0
+TSUKUNE,tsukune,7,lain_lain,7,1,0,1,0,0,0,0,0,0,0,0
+MOMO,momo,7,lain_lain,4,1,0,1,0,0,0,0,0,0,0,0
+ONIGIRI,onigiri,7,lain_lain,7,1,0,1,0,0,0,0,0,0,0,0
+GRAINS PAN BREAD,grains pan bread,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+NASI CAH JAMUR,nasi cah jamur,0,makanan,14,3,0,1,2,1,0,0,1,0,0,0
+BIHUN GORENG AYAM,bihun goreng ayam,0,makanan,17,3,0,1,1,1,0,0,0,0,0,0
+Bihun Ayam Jamur,bihun ayam jamur,0,makanan,16,3,0,0,2,1,0,0,1,0,0,0
+ES KOPI SOKLAT,es kopi soklat,1,minuman,14,3,0,1,1,0,1,0,0,0,0,0
+WARISAN 2 FREE DRINK,warisan 2 free drink,1,minuman,20,4,1,1,1,0,1,0,0,0,0,0
+Pepper Steak,pepper steak,1,minuman,12,2,0,0,2,1,1,0,0,0,0,0
+DAGING SAPI,daging sapi,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+REGULAR JASMINE TEA,regular jasmine tea,1,minuman,19,3,0,1,2,1,1,0,0,0,0,0
+Kupon 4,kupon 4,7,lain_lain,7,2,1,0,0,0,0,0,0,0,0,0
+BOGO CHEESY RASHER,bogo cheesy rasher,1,minuman,18,3,0,1,1,0,1,0,0,0,0,0
+MS SWISS ML MED,ms swiss ml med,7,lain_lain,15,4,0,1,0,0,0,0,0,0,0,0
+1 PC CHOCHICKS,1 pc chochicks,7,lain_lain,14,3,1,1,0,0,0,0,0,0,0,0
+Crispy Egg Corn,crispy egg corn,7,lain_lain,15,3,0,0,0,0,0,0,0,0,0,0
+Mun Tofu,mun tofu,7,lain_lain,8,2,0,0,0,0,0,0,0,0,0,0
+Go Hiong,go hiong,7,lain_lain,8,2,0,0,0,0,0,0,0,0,0,0
+Steam Rice,steam rice,1,minuman,10,2,0,0,2,1,1,0,0,0,0,0
+Lemon iced tea,lemon iced tea,1,minuman,14,3,0,0,1,0,1,0,0,0,0,0
+Banana Milkshake,banana milkshake,1,minuman,16,2,0,0,2,1,1,0,0,0,0,0
+Heavy alvin potato,heavy alvin potato,7,lain_lain,18,3,0,0,0,0,0,0,0,0,0,0
+fettucine Hubert chicken capers,fettucine hubert chicken capers,0,makanan,31,4,0,0,2,1,0,1,0,0,0,0
+BASO KWETIAU,baso kwetiau,0,makanan,12,2,0,1,1,1,0,0,0,0,0,0
+SUKIYAKI BEEF RICE DEALJAVA,sukiyaki beef rice dealjava,1,minuman,27,4,0,1,2,1,1,0,0,0,0,0
+Nasi Goreng Ayam,nasi goreng ayam,0,makanan,16,3,0,0,1,1,0,0,0,0,0,0
+Nasi (MLY),nasi mly,0,makanan,8,2,0,0,1,1,0,0,0,0,0,0
+TLJ SPANISH COFFEE,tlj spanish coffee,1,minuman,18,3,0,1,2,0,1,0,0,0,1,0
+CLASSIC CREAMCEESE CINNAM,classic creamceese cinnam,1,minuman,25,3,0,1,1,0,1,0,0,0,0,0
+DN. LONG JOHN,dn long john,7,lain_lain,12,3,0,1,0,0,0,0,0,0,0,0
+RB. SAPSAY CHICKEN,rb sapsay chicken,0,makanan,17,3,0,1,1,1,0,0,0,0,0,0
+IKAN GURAME REG,ikan gurame reg,0,makanan,15,3,0,1,1,1,0,0,0,0,0,0
+POCAI 3 TELUR,pocai 3 telur,7,lain_lain,13,3,1,1,0,0,0,0,0,0,0,0
+UDG GR MAYONAISE,udg gr mayonaise,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+TAHU JPG S TRM,tahu jpg s trm,0,makanan,14,4,0,1,1,1,0,0,0,0,0,0
+ES TEH TAW GUILINGGAO,es teh taw guilinggao,1,minuman,21,4,0,1,1,0,1,0,0,0,0,0
+OPEN DESSERT,open dessert,1,minuman,12,2,0,1,1,0,1,0,0,0,0,0
+Chicken Soy Sauce H,chicken soy sauce h,0,makanan,19,4,0,0,1,1,0,0,0,0,0,0
+Butter Cheese Corn,butter cheese corn,1,minuman,18,3,0,0,1,0,1,0,0,0,0,0
+Bintang L,bintang l,7,lain_lain,9,2,0,0,0,0,0,0,0,0,0,0
+Chum Churum,chum churum,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+CHEESE VOLCANO,cheese volcano,1,minuman,14,2,0,1,1,0,1,0,0,0,0,0
+Happy Rice Box,happy rice box,1,minuman,14,3,0,0,2,1,1,0,0,0,0,0
+Grilled Salmon Head,grilled salmon head,7,lain_lain,19,3,0,0,0,0,0,0,0,0,0,0
+Tairyos Salmon Maki,tairyos salmon maki,1,minuman,19,3,0,0,2,0,1,0,0,1,0,0
+Tepanyaki Cawanmushi,tepanyaki cawanmushi,7,lain_lain,20,2,0,0,0,0,0,0,0,0,0,0
+Teppan Seafood Fr Rc,teppan seafood fr rc,7,lain_lain,20,4,0,0,0,0,0,0,0,0,0,0
+Tobiko Gunkan,tobiko gunkan,7,lain_lain,13,2,0,0,0,0,0,0,0,0,0,0
+CHOC BANANA,choc banana,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+CHEESE BUN,cheese bun,1,minuman,10,2,0,1,2,1,1,0,0,0,0,0
+SUPER CHEESE,super cheese,1,minuman,12,2,0,1,1,0,1,0,0,0,0,0
+CLS CHK CHIL,cls chk chil,7,lain_lain,12,3,0,1,0,0,0,0,0,0,0,0
+PLASTIC BAG ME,plastic bag me,3,belanja,14,3,0,1,1,0,0,0,1,0,0,0
+MACARON BLUE,macaron blue,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+Pavarotti,pavarotti,7,lain_lain,9,1,0,0,0,0,0,0,0,0,0,0
+Lov Triangle,lov triangle,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+Choco Bun,choco bun,0,makanan,9,2,0,0,1,1,0,0,0,0,0,0
+Mgc Chees Wd,mgc chees wd,1,minuman,12,3,0,0,1,0,1,0,0,0,0,0
+Hot Cappuccino,hot cappuccino,1,minuman,14,2,0,0,1,0,1,0,0,0,0,0
+Ice Cappuccino,ice cappuccino,1,minuman,14,2,0,0,1,0,1,0,0,0,0,0
+MUF CHOC CHP,muf choc chp,7,lain_lain,12,3,0,1,0,0,0,0,0,0,0,0
+CHO CAKE SMA,cho cake sma,0,makanan,12,3,0,1,1,1,0,0,0,0,0,0
+HAZELNUT,hazelnut,7,lain_lain,8,1,0,1,0,0,0,0,0,0,0,0
+NS GR TELOR KEBULI,ns gr telor kebuli,7,lain_lain,18,4,0,1,0,0,0,0,0,0,0,0
+Es Kopi Susu Sudirma n,es kopi susu sudirma n,1,minuman,22,5,0,0,1,0,1,0,0,0,0,0
+S-KOI Cafe Macchiat,s koi cafe macchiat,7,lain_lain,19,4,0,0,0,0,0,0,0,0,0,0
+-Plastic Big Small,plastic big small,3,belanja,17,3,0,0,1,0,0,0,1,0,0,0
+-Chokoreto Cookies,chokoreto cookies,1,minuman,17,2,0,0,2,1,1,0,0,0,0,0
+-Corn Flakes Cookies,corn flakes cookies,1,minuman,19,3,0,0,2,1,1,0,0,0,0,0
+CARBONARA UDON,carbonara udon,0,makanan,14,2,0,1,1,1,0,0,0,0,0,0
+EGG TEMPURA [P],egg tempura p,7,lain_lain,13,3,0,1,0,0,0,0,0,0,0,0
+Elevenia Taro Smoothies,elevenia taro smoothies,1,minuman,23,3,0,0,1,0,1,0,0,0,0,0
+WHDP JR 15K,whdp jr 15k,7,lain_lain,11,3,1,1,0,0,0,0,0,0,0,0
+TakeQuay Charge,takequay charge,7,lain_lain,15,2,0,0,0,0,0,0,0,0,0,0
+Pandan Cream brulee,pandan cream brulee,7,lain_lain,19,3,0,0,0,0,0,0,0,0,0,0
+Tanqueray NO 10 gls,tanqueray no 10 gls,7,lain_lain,19,4,1,0,0,0,0,0,0,0,0,0
+Lurisia Bolle 330ml,lurisia bolle 330ml,7,lain_lain,19,3,1,0,0,0,0,0,0,0,0,0
+Lurisia stille 330ml,lurisia stille 330ml,7,lain_lain,20,3,1,0,0,0,0,0,0,0,0,0
+Tonic Water,tonic water,1,minuman,11,2,0,0,2,0,1,0,0,1,0,0
+RAKUNI KM KEJU PCS/PCS,rakuni km keju pcs pcs,7,lain_lain,22,5,0,1,0,0,0,0,0,0,0,0
+OCHA HANGAT,ocha hangat,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+BL1 M LW,bl1 m lw,7,lain_lain,8,3,1,1,0,0,0,0,0,0,0,0
+WH3 M LW,wh3 m lw,7,lain_lain,8,3,1,1,0,0,0,0,0,0,0,0
+RE5 M LW,re5 m lw,7,lain_lain,8,3,1,1,0,0,0,0,0,0,0,0
+[REG] BLACK SAKURA,reg black sakura,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+Combo 2,combo 2,7,lain_lain,7,2,1,0,0,0,0,0,0,0,0,0
+KEJU SUSU,keju susu,1,minuman,9,2,0,1,1,0,1,0,0,0,0,0
+PISANG KEJU,pisang keju,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+PHILLY CHEESESTEAK SL,philly cheesesteak sl,1,minuman,21,3,0,1,2,1,1,0,0,0,0,0
+SAUSAGE PASTRY ROLL,sausage pastry roll,7,lain_lain,19,3,0,1,0,0,0,0,0,0,0,0
+AQUA BOTTLE,aqua bottle,1,minuman,11,2,0,1,1,0,1,0,0,0,0,0
+LIPTON ICE TEA REGULA,lipton ice tea regula,1,minuman,21,4,0,1,1,0,1,0,0,0,0,0
+KAKE UDON,kake udon,0,makanan,9,2,0,1,1,1,0,0,0,0,0,0
+BEEF CURRYRICE,beef curryrice,1,minuman,14,2,0,1,2,1,1,0,0,0,0,0
+Solar,solar,2,transportasi,5,1,0,0,1,0,0,1,0,0,0,0
+Salted Egg Yolk Chicken,salted egg yolk chicken,0,makanan,23,4,0,0,1,1,0,0,0,0,0,0
+CHOCO CUSTAF D PASTRY,choco custaf d pastry,7,lain_lain,21,4,0,1,0,0,0,0,0,0,0,0
+CUSTARD BRIC CHE,custard bric che,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+RM0025 -RM. Tawar Polo,rm0025 rm tawar polo,7,lain_lain,20,4,1,0,0,0,0,0,0,0,0,0
+Fruit Compliment,fruit compliment,7,lain_lain,16,2,0,0,0,0,0,0,0,0,0,0
+Udang Mentega Sdg (M,udang mentega sdg m,0,makanan,19,4,0,0,1,1,0,0,0,0,0,0
+Chinese Tea-Jasmine,chinese tea jasmine,1,minuman,19,3,0,0,2,1,1,0,0,0,0,0
+Buruno Gr IN,buruno gr in,7,lain_lain,12,3,0,0,0,0,0,0,0,0,0,0
+SALMON PESTO,salmon pesto,1,minuman,12,2,0,1,1,0,1,0,0,0,0,0
+GRILLED SALMON TERIYAK,grilled salmon teriyak,7,lain_lain,22,3,0,1,0,0,0,0,0,0,0,0
+FRESH FRUIT COCKTAIL,fresh fruit cocktail,1,minuman,20,3,0,1,1,0,1,0,0,0,0,0
+NASI 2SAYUR TELR,nasi 2sayur telr,0,makanan,16,3,1,1,1,1,0,0,0,0,0,0
+Shampo Aloevera,shampo aloevera,7,lain_lain,15,2,0,0,0,0,0,0,0,0,0,0
+Sabun Propolis,sabun propolis,0,makanan,14,2,0,0,2,1,0,0,1,0,0,0
+Sabun Transparant Madu,sabun transparant madu,0,makanan,22,3,0,0,3,1,0,0,1,0,1,0
+Cream Soup,cream soup,0,makanan,10,2,0,0,1,1,0,0,0,0,0,0
+CHEESE KC BOKUMBAP,cheese kc bokumbap,1,minuman,18,3,0,1,1,0,1,0,0,0,0,0
+JAJANGMYEON,jajangmyeon,7,lain_lain,11,1,0,1,0,0,0,0,0,0,0,0
+BUBBLE GUM,bubble gum,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+CAPPUCINO BLEND,cappucino blend,7,lain_lain,15,2,0,1,0,0,0,0,0,0,0,0
+STRAWBERRY,strawberry,7,lain_lain,10,1,0,1,0,0,0,0,0,0,0,0
+COOKIES AND CREAM,cookies and cream,1,minuman,17,3,0,1,2,1,1,0,0,0,0,0
+DADA DADA,dada dada,7,lain_lain,9,2,0,1,0,0,0,0,0,0,0,0
+ateh Tawar ateh Tawar,ateh tawar ateh tawar,1,minuman,21,4,0,0,1,0,1,0,0,0,0,0
+Giant Squid,giant squid,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+Milo Dino,milo dino,0,makanan,9,2,0,0,1,1,0,0,0,0,0,0
+Toripaitan shoyu telur,toripaitan shoyu telur,7,lain_lain,22,3,0,0,0,0,0,0,0,0,0,0
+Toripaitan Ekstrim telur,toripaitan ekstrim telur,7,lain_lain,24,3,0,0,0,0,0,0,0,0,0,0
+Green Tea cold,green tea cold,1,minuman,14,3,0,0,1,0,1,0,0,0,0,0
+(Goreng)Ayam Gyoza,goreng ayam gyoza,0,makanan,17,3,0,0,1,1,0,0,0,0,0,0
+Mineral water(normal),mineral water normal,1,minuman,20,3,0,0,3,1,1,0,0,1,0,0
+Spaghetti Deluxe,spaghetti deluxe,5,hiburan,16,2,0,0,1,0,0,0,0,0,1,0
+Hot Dog W Cheese,hot dog w cheese,1,minuman,16,4,0,0,1,0,1,0,0,0,0,0
+ROTI,roti,0,makanan,4,1,0,1,1,1,0,0,0,0,0,0
+CHUM CHURUM,chum churum,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+CHAMISUL,chamisul,0,makanan,8,1,0,1,1,1,0,0,0,0,0,0
+CHULPAN CHEESE DAK GALBI,chulpan cheese dak galbi,1,minuman,24,4,0,1,1,0,1,0,0,0,0,0
+CREAM TEOK PO KI,cream teok po ki,7,lain_lain,16,4,0,1,0,0,0,0,0,0,0,0
+CHUM CHURUM PEACH,chum churum peach,7,lain_lain,17,3,0,1,0,0,0,0,0,0,0,0
+CHAM KKOT SAL,cham kkot sal,7,lain_lain,13,3,0,1,0,0,0,0,0,0,0,0
+U SAM GYEOP,u sam gyeop,7,lain_lain,11,3,0,1,0,0,0,0,0,0,0,0
+CHEESE GAMJAJEON,cheese gamjajeon,1,minuman,16,2,0,1,1,0,1,0,0,0,0,0
+BIHUN CAMPUR,bihun campur,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+JERUK MURNI,jeruk murni,1,minuman,11,2,0,1,1,0,1,0,0,0,0,0
+ES NONA REGULAR,es nona regular,1,minuman,15,3,0,1,1,0,1,0,0,0,0,0
+ORIGINAL SALT,original salt,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+SIRSAK,sirsak,7,lain_lain,6,1,0,1,0,0,0,0,0,0,0,0
+SUNKIST,sunkist,7,lain_lain,7,1,0,1,0,0,0,0,0,0,0,0
+CHEESE ROLLS 6PCS,cheese rolls 6pcs,1,minuman,17,3,1,1,1,0,1,0,0,0,0,0
+PAKET BER2 UP1,paket ber2 up1,7,lain_lain,14,3,1,1,0,0,0,0,0,0,0,0
+PAKET BER4 UP2,paket ber4 up2,7,lain_lain,14,3,1,1,0,0,0,0,0,0,0,0
+MOKDENGSIM,mokdengsim,7,lain_lain,10,1,0,1,0,0,0,0,0,0,0,0
+JINSENG SAMGYETANG,jinseng samgyetang,7,lain_lain,18,2,0,1,0,0,0,0,0,0,0,0
+PAJON,pajon,7,lain_lain,5,1,0,1,0,0,0,0,0,0,0,0
+BIR BINTANG BOTOL ( ),bir bintang botol,2,transportasi,17,3,0,1,2,0,0,1,1,0,0,0
+BULGOGI BIBIMBAB,bulgogi bibimbab,7,lain_lain,16,2,0,1,0,0,0,0,0,0,0,0
+STBERRY MT (L) TOPPING,stberry mt l topping,7,lain_lain,20,4,0,1,0,0,0,0,0,0,0,0
+UDG GR TLUR ASIN =*MEDIUM*=,udg gr tlur asin medium,7,lain_lain,23,5,0,1,0,0,0,0,0,0,0,0
+SAPO TH SEAFOOD =*MEDIUM*=,sapo th seafood medium,7,lain_lain,22,4,0,1,0,0,0,0,0,0,0,0
+BIHUN GORENG JJ =*MEDIUM*=,bihun goreng jj medium,0,makanan,22,4,0,1,1,1,0,0,0,0,0,0
+OYONG 3 TELOR =*MEDIUM*=,oyong 3 telor medium,7,lain_lain,20,4,1,1,0,0,0,0,0,0,0,0
+Luxury Jolie Mi,luxury jolie mi,0,makanan,15,3,0,0,1,1,0,0,0,0,0,0
+HOLDAK SET 1,holdak set 1,7,lain_lain,12,3,1,1,0,0,0,0,0,0,0,0
+AMOUSH DBL CHS BURG,amoush dbl chs burg,7,lain_lain,19,4,0,1,0,0,0,0,0,0,0,0
+SHARKIE FREEZE,sharkie freeze,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+DINE FOR 2,dine for 2,7,lain_lain,10,3,1,1,0,0,0,0,0,0,0,0
+golden,golden,7,lain_lain,6,1,0,0,0,0,0,0,0,0,0,0
+ON TAMA UDON (HOT),on tama udon hot,1,minuman,16,4,0,1,2,1,1,0,0,0,0,0
+ABURA UDON (ORIGINAL),abura udon original,0,makanan,19,3,0,1,1,1,0,0,0,0,0,0
+GREEN BEAN KAKIAGE,green bean kakiage,7,lain_lain,18,3,0,1,0,0,0,0,0,0,0,0
+EGG TEMPURA,egg tempura,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+BEEF CROQUETTE,beef croquette,0,makanan,14,2,0,1,1,1,0,0,0,0,0,0
+TERITAMA 4 PCS,teritama 4 pcs,7,lain_lain,14,3,1,1,0,0,0,0,0,0,0,0
+CRUNCHY CHOC,crunchy choc,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+FREE LILIN SPIRAL,free lilin spiral,7,lain_lain,17,3,0,1,0,0,0,0,0,0,0,0
+SmokeBeef + NuTea,smokebeef nutea,1,minuman,15,2,0,0,2,1,1,0,0,0,0,0
+Ayam Goreng Crispy Spicy,ayam goreng crispy spicy,0,makanan,24,4,0,0,1,1,0,0,0,0,0,0
+Capcai Seafood,capcai seafood,7,lain_lain,14,2,0,0,0,0,0,0,0,0,0,0
+Soup Baso Ikan,soup baso ikan,0,makanan,14,3,0,0,1,1,0,0,0,0,0,0
+Puppy Pao,puppy pao,7,lain_lain,9,2,0,0,0,0,0,0,0,0,0,0
+Roasted Milk Tea,roasted milk tea,1,minuman,16,3,0,0,2,1,1,0,0,0,0,0
+TEH PUCUK,teh pucuk,1,minuman,9,2,0,1,1,0,1,0,0,0,0,0
+SPICY C CHEESE,spicy c cheese,1,minuman,14,3,0,1,1,0,1,0,0,0,0,0
+TAKEOUT(1): Viet Latte,takeout 1 viet latte,1,minuman,20,4,1,0,1,0,1,0,0,0,0,0
+1023-Chocochip & Walnut,1023 chocochip walnut,7,lain_lain,21,3,1,0,0,0,0,0,0,0,0,0
+Goban Puas C,goban puas c,7,lain_lain,12,3,0,0,0,0,0,0,0,0,0,0
+AIR MINERAL,air mineral,1,minuman,11,2,0,1,3,1,1,0,0,1,0,0
+I TRIPL CHZ,i tripl chz,7,lain_lain,11,3,0,1,0,0,0,0,0,0,0,0
+I SPECIAL SBL MATAH,i special sbl matah,7,lain_lain,19,4,0,1,0,0,0,0,0,0,0,0
+I ROA GORENG SPC,i roa goreng spc,0,makanan,16,4,0,1,1,1,0,0,0,0,0,0
+E Money Justice Leag,e money justice leag,1,minuman,20,4,0,0,1,0,1,0,0,0,0,0
+MEDIUM FRIES,medium fries,1,minuman,12,2,0,1,1,0,1,0,0,0,0,0
+REGULAR COKE,regular coke,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+K11 CHOCO 1217,k11 choco 1217,7,lain_lain,14,3,1,1,0,0,0,0,0,0,0,0
+Sprite (L).,sprite l,1,minuman,8,2,0,0,1,0,1,0,0,0,0,0
+Extra Jelly Lychee.,extra jelly lychee,7,lain_lain,18,3,0,0,0,0,0,0,0,0,0,0
+M-Ovaltine Macchiat,m ovaltine macchiat,7,lain_lain,19,3,0,0,0,0,0,0,0,0,0,0
+M-Konjac Milk Tea,m konjac milk tea,1,minuman,17,4,0,0,2,1,1,0,0,0,0,0
+1009-Honey Pistachio,1009 honey pistachio,7,lain_lain,20,3,1,0,0,0,0,0,0,0,0,0
+KWE BUN SAPI,kwe bun sapi,0,makanan,12,3,0,1,1,1,0,0,0,0,0,0
+KWE GR CMP,kwe gr cmp,7,lain_lain,10,3,0,1,0,0,0,0,0,0,0,0
+Ayam Asam Manis M,ayam asam manis m,0,makanan,17,4,0,0,1,1,0,0,0,0,0,0
+Ikan Gurame Tahu M,ikan gurame tahu m,0,makanan,18,4,0,0,1,1,0,0,0,0,0,0
+Pocai 3 Telor M,pocai 3 telor m,7,lain_lain,15,4,1,0,0,0,0,0,0,0,0,0
+Sapo Tohu Sea M,sapo tohu sea m,7,lain_lain,15,4,0,0,0,0,0,0,0,0,0,0
+Udang Gandum L,udang gandum l,0,makanan,14,3,0,0,1,1,0,0,0,0,0,0
+FL Cake-French,fl cake french,0,makanan,14,3,0,0,1,1,0,0,0,0,0,0
+Red Velvet S,red velvet s,7,lain_lain,12,3,0,0,0,0,0,0,0,0,0,0
+GUARDIAN F/TISUE,guardian f tisue,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+Lemon,lemon,1,minuman,5,1,0,0,1,0,1,0,0,0,0,0
+GIANT FCL TISSUE,giant fcl tissue,3,belanja,16,3,0,1,1,0,0,0,1,0,0,0
+MITU S/C BLUE,mitu s c blue,0,makanan,13,4,0,1,1,1,0,0,0,0,0,0
+PPSODENT TP WHTNG,ppsodent tp whtng,7,lain_lain,17,3,0,1,0,0,0,0,0,0,0,0
+FORMULA S/P P,formula s p p,7,lain_lain,13,4,0,1,0,0,0,0,0,0,0,0
+NICE TRAVEL PACK,nice travel pack,1,minuman,16,3,0,1,1,0,1,0,0,0,0,0
+RICHEESE WFR KJ P,richeese wfr kj p,1,minuman,17,4,0,1,1,0,1,0,0,0,0,0
+RICHOCO WFR CH P1,richoco wfr ch p1,7,lain_lain,17,4,1,1,0,0,0,0,0,0,0,0
+JERUK LEMON IMP,jeruk lemon imp,1,minuman,15,3,0,1,1,0,1,0,0,0,0,0
+GOLIA ACTIV PLS 4,golia activ pls 4,7,lain_lain,17,4,1,1,0,0,0,0,0,0,0,0
+S/QUEEN MONTES 50,s queen montes 50,1,minuman,17,4,1,1,1,0,1,0,0,0,0,0
+DELFI C/CHA MINIS,delfi c cha minis,0,makanan,17,4,0,1,1,1,0,0,0,0,0,0
+WAXING UNDER ARM,waxing under arm,7,lain_lain,16,3,0,1,0,0,0,0,0,0,0,0
+Bakpao telur asin,bakpao telur asin,7,lain_lain,17,3,0,0,0,0,0,0,0,0,0,0
+Cai Mieo,cai mieo,0,makanan,8,2,0,0,1,1,0,0,0,0,0,0
+caisim special,caisim special,7,lain_lain,14,2,0,0,0,0,0,0,0,0,0,0
+Carsiupau Ayam,carsiupau ayam,0,makanan,14,2,0,0,1,1,0,0,0,0,0,0
+Fish Glue,fish glue,0,makanan,9,2,0,0,1,1,0,0,0,0,0,0
+Jamur Isi Ayam,jamur isi ayam,0,makanan,14,3,0,0,2,1,0,0,1,0,0,0
+Kailan hongkong,kailan hongkong,7,lain_lain,15,2,0,0,0,0,0,0,0,0,0,0
+Kuah Kaldu Ayam,kuah kaldu ayam,0,makanan,15,3,0,0,1,1,0,0,0,0,0,0
+Kue Macok,kue macok,7,lain_lain,9,2,0,0,0,0,0,0,0,0,0,0
+Pangsit Special,pangsit special,7,lain_lain,15,2,0,0,0,0,0,0,0,0,0,0
+Sirloin Roll Enoki,sirloin roll enoki,7,lain_lain,18,3,0,0,0,0,0,0,0,0,0,0
+Sutake Kombinasi,sutake kombinasi,0,makanan,16,2,0,0,1,1,0,0,0,0,0,0
+Tahu Jepang,tahu jepang,0,makanan,11,2,0,0,1,1,0,0,0,0,0,0
+Tahu Sandwidh,tahu sandwidh,0,makanan,13,2,0,0,1,1,0,0,0,0,0,0
+TOM YAM,tom yam,7,lain_lain,7,2,0,1,0,0,0,0,0,0,0,0
+Udon,udon,0,makanan,4,1,0,0,1,1,0,0,0,0,0,0
+Chines Tea Green Tea,chines tea green tea,1,minuman,20,4,0,0,1,0,1,0,0,0,0,0
+Tahu Isi Ayam,tahu isi ayam,0,makanan,13,3,0,0,1,1,0,0,0,0,0,0
+Green tea Dingin,green tea dingin,1,minuman,16,3,0,0,1,0,1,0,0,0,0,0
+Bakso Ikan,bakso ikan,0,makanan,10,2,0,0,1,1,0,0,0,0,0,0
+MIE + AYAM KATSU TERI...,mie ayam katsu teri,0,makanan,19,4,0,1,1,1,0,0,0,0,0,0
+MIE SIRAM AYAM,mie siram ayam,0,makanan,14,3,0,1,1,1,0,0,0,0,0,0
+FRENCH FRIES,french fries,1,minuman,12,2,0,1,1,0,1,0,0,0,0,0
+PECEL MADIUN,pecel madiun,0,makanan,12,2,0,1,1,1,0,0,0,0,0,0
+Crunchy Wings(5) Luisiana,crunchy wings 5 luisiana,7,lain_lain,24,4,1,0,0,0,0,0,0,0,0,0
+Bogo (5) Boneless,bogo 5 boneless,1,minuman,15,3,1,0,1,0,1,0,0,0,0,0
+FF SoftDrink (M),ff softdrink m,1,minuman,14,3,0,0,1,0,1,0,0,0,0,0
+Mush Fritters,mush fritters,7,lain_lain,13,2,0,0,0,0,0,0,0,0,0,0
+Se'i Sapi Sambal Lu'at (R),se i sapi sambal lu at r,0,makanan,24,7,0,0,1,1,0,0,0,0,0,0
+Lidah Asap Sambal Lu'at ( R ),lidah asap sambal lu at r,7,lain_lain,25,6,0,0,0,0,0,0,0,0,0,0
+Jus Jeruk,jus jeruk,1,minuman,9,2,0,0,1,0,1,0,0,0,0,0
+Cuci,cuci,7,lain_lain,4,1,0,0,0,0,0,0,0,0,0,0
+B Pjg/Vr 3,b pjg vr 3,7,lain_lain,10,4,1,0,0,0,0,0,0,0,0,0
+HAZELNUT CHOCO III (R),hazelnut choco iii r,7,lain_lain,20,4,0,1,0,0,0,0,0,0,0,0
+[MD] SOFT STEAMED CHOCOCAKE,md soft steamed chococake,1,minuman,25,4,0,1,2,1,1,0,0,0,0,0
+Spicy Tuna,spicy tuna,7,lain_lain,10,2,0,0,0,0,0,0,0,0,0,0
+"SKECHERS GIRLS NO COLOR, 4",skechers girls no color 4,7,lain_lain,25,5,1,1,0,0,0,0,0,0,0,0
+[MD] SOFT MORNING ROLL,md soft morning roll,7,lain_lain,20,4,0,1,0,0,0,0,0,0,0,0
+REAL HONEY PANCAKE BREAD,real honey pancake bread,0,makanan,24,4,0,1,1,1,0,0,0,0,0,0
+JUICE JAMBU,juice jambu,1,minuman,11,2,0,1,2,0,1,0,1,0,0,0
+N AYM PENYET SAMBAL MATAH,n aym penyet sambal matah,7,lain_lain,25,5,0,1,0,0,0,0,0,0,0,0
+TAHU DOMBA MEMBARA,tahu domba membara,0,makanan,18,3,0,1,1,1,0,0,0,0,0,0
+TP KULIT,tp kulit,7,lain_lain,8,2,0,1,0,0,0,0,0,0,0,0
+PAIN AU CAFE MOCHA,pain au cafe mocha,1,minuman,18,4,0,1,1,0,1,0,0,0,0,0
+Avocado with Rock Salt and Cocoa Cream [L],avocado with rock salt and cocoa cream l,7,lain_lain,40,8,0,0,0,0,0,0,0,0,0,0
+Night cream Soybean,night cream soybean,7,lain_lain,19,3,0,0,0,0,0,0,0,0,0,0
+SANGU TIMBEL KOMPLIT,sangu timbel komplit,7,lain_lain,20,3,0,1,0,0,0,0,0,0,0,0
+SANGU TUTUG ONCOM,sangu tutug oncom,7,lain_lain,17,3,0,1,0,0,0,0,0,0,0,0
+TOGE LAUK ASIN,toge lauk asin,7,lain_lain,14,3,0,1,0,0,0,0,0,0,0,0
+TERONG BEJEUG,terong bejeug,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+TEH SEREH,teh sereh,1,minuman,9,2,0,1,1,0,1,0,0,0,0,0
+GREENTEA BLENDED CREAM,greentea blended cream,1,minuman,22,3,0,1,1,0,1,0,0,0,0,0
+Nasgor Jawa,nasgor jawa,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+Jeruk Panas,jeruk panas,1,minuman,11,2,0,0,1,0,1,0,0,0,0,0
+KRPU MCN TIM 700,krpu mcn tim 700,7,lain_lain,16,4,1,1,0,0,0,0,0,0,0,0
+AYM RBS 1 EKOR,aym rbs 1 ekor,7,lain_lain,14,4,1,1,0,0,0,0,0,0,0,0
+IKAN MALAS 650GR,ikan malas 650gr,0,makanan,16,3,1,1,1,1,0,0,0,0,0,0
+Cheese Tart Original,cheese tart original,1,minuman,20,3,0,0,1,0,1,0,0,0,0,0
+FL Mille Crepes -,fl mille crepes,1,minuman,15,3,0,0,2,1,1,0,0,0,0,0
+MINERALWATER,mineralwater,1,minuman,12,1,0,1,3,1,1,0,0,1,0,0
+PAKET NYLON HEADBAND,paket nylon headband,7,lain_lain,20,3,0,1,0,0,0,0,0,0,0,0
+Paket KP1,paket kp1,7,lain_lain,9,2,1,0,0,0,0,0,0,0,0,0
+Yi Fu Mies Small,yi fu mies small,1,minuman,16,4,0,0,2,1,1,0,0,0,0,0
+Bakmi Ayam,bakmi ayam,0,makanan,10,2,0,0,1,1,0,0,0,0,0,0
+1/2 Baso Sapi,1 2 baso sapi,0,makanan,13,4,1,0,1,1,0,0,0,0,0,0
+Chicken Mushroom Puf f,chicken mushroom puf f,0,makanan,22,4,0,0,1,1,0,0,0,0,0,0
+LS TOILETBRUSH102,ls toiletbrush102,7,lain_lain,17,2,1,1,0,0,0,0,0,0,0,0
+TAMMIA 259,tammia 259,0,makanan,10,2,1,1,1,1,0,0,0,0,0,0
+WDH SUN GEL 40ML,wdh sun gel 40ml,7,lain_lain,16,4,1,1,0,0,0,0,0,0,0,0
+TAM 424 BUFFER 219,tam 424 buffer 219,7,lain_lain,18,4,1,1,0,0,0,0,0,0,0,0
+SIKAT BOTOL/BSC,sikat botol bsc,2,transportasi,15,3,0,1,2,0,0,1,1,0,0,0
+GOCUJANG H.200G,gocujang h 200g,7,lain_lain,15,3,1,1,0,0,0,0,0,0,0,0
+PM CABE HIJAU CURA,pm cabe hijau cura,7,lain_lain,18,4,0,1,0,0,0,0,0,0,0,0
+TIMUN JEPANG,timun jepang,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+KONGKEE TOFU JEPUN,kongkee tofu jepun,7,lain_lain,18,3,0,1,0,0,0,0,0,0,0,0
++PALM SHW GEL 450,palm shw gel 450,7,lain_lain,16,4,1,1,0,0,0,0,0,0,0,0
+MIE MERAH PG,mie merah pg,0,makanan,12,3,0,1,1,1,0,0,0,0,0,0
+MIE CINCANG,mie cincang,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+Dimsum,dimsum,0,makanan,6,1,0,0,1,1,0,0,0,0,0,0
+Ice thai tea,ice thai tea,1,minuman,12,3,0,0,1,0,1,0,0,0,0,0
+PAKET WEEKEND 1,paket weekend 1,7,lain_lain,15,3,1,1,0,0,0,0,0,0,0,0
+PAKET WEEKEND 2,paket weekend 2,7,lain_lain,15,3,1,1,0,0,0,0,0,0,0,0
+KOPI HITAM,kopi hitam,1,minuman,10,2,0,1,1,0,1,0,0,0,0,0
+ES BATU,es batu,1,minuman,7,2,0,1,1,0,1,0,0,0,0,0
+DIHUN CAMPUR,dihun campur,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+1066-Choconut Bun,1066 choconut bun,0,makanan,17,3,1,0,1,1,0,0,0,0,0,0
+GRILLED BABY POTATO ( R,grilled baby potato r,7,lain_lain,21,4,0,1,0,0,0,0,0,0,0,0
+HOT TUNA,hot tuna,1,minuman,8,2,0,1,1,0,1,0,0,0,0,0
+Es Kopi Rupa,es kopi rupa,1,minuman,12,3,0,0,1,0,1,0,0,0,0,0
+Kopi Susu Kolonel,kopi susu kolonel,1,minuman,17,3,0,0,1,0,1,0,0,0,0,0
+S-Ovaltine 50%,s ovaltine 50,7,lain_lain,13,3,1,0,0,0,0,0,0,0,0,0
+M-Caramel Black Tea,m caramel black tea,1,minuman,19,4,0,0,1,0,1,0,0,0,0,0
+LE MINERAL,le mineral,1,minuman,10,2,0,1,2,1,1,0,0,0,0,0
+Choco Devil,choco devil,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+TALAM UNGU,talam ungu,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+Serbu 1,serbu 1,7,lain_lain,7,2,1,0,0,0,0,0,0,0,0,0
+Choco Peanut Bread,choco peanut bread,7,lain_lain,18,3,0,0,0,0,0,0,0,0,0,0
+Se'I Sapi Sambal Matah ( R ),se i sapi sambal matah r,0,makanan,24,6,0,0,1,1,0,0,0,0,0,0
+Se'I Sapi Lada Hitam (J),se i sapi lada hitam j,0,makanan,22,6,0,0,1,1,0,0,0,0,0,0
+Milk Shake Coklat,milk shake coklat,1,minuman,17,3,0,0,2,1,1,0,0,0,0,0
+MINERAL 600 ML,mineral 600 ml,1,minuman,14,3,1,1,2,1,1,0,0,0,0,0
+BULGOGI RICE R,bulgogi rice r,1,minuman,14,3,0,1,2,1,1,0,0,0,0,0
+LEMONADE 16OZ,lemonade 16oz,1,minuman,13,2,1,1,1,0,1,0,0,0,0,0
+beef C roll 3pcs,beef c roll 3pcs,0,makanan,16,4,1,0,1,1,0,0,0,0,0,0
+kaya bred,kaya bred,7,lain_lain,9,2,0,0,0,0,0,0,0,0,0,0
+FUTAMI 17 GREEN TEA (CLAS,futami 17 green tea clas,1,minuman,24,5,1,1,2,1,1,0,0,0,0,0
+GRAIN CROQUE MONSIEUR,grain croque monsieur,7,lain_lain,21,3,0,1,0,0,0,0,0,0,0,0
+JAMUR,jamur,3,belanja,5,1,0,1,1,0,0,0,1,0,0,0
+TAHU,tahu,0,makanan,4,1,0,1,1,1,0,0,0,0,0,0
+Mango Lemon Tea,mango lemon tea,1,minuman,15,3,0,0,1,0,1,0,0,0,0,0
+Sliders Set,sliders set,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+Chicken Vege Rice Bowl,chicken vege rice bowl,1,minuman,22,4,0,0,2,1,1,0,0,0,0,0
+Discount BCA 15%,discount bca 15,7,lain_lain,15,3,1,0,0,0,0,0,0,0,0,0
+RedVelvet Nutella,redvelvet nutella,7,lain_lain,17,2,0,0,0,0,0,0,0,0,0,0
+REAL CHEESE INSIDE BREAD,real cheese inside bread,1,minuman,24,4,0,1,1,0,1,0,0,0,0,0
+HAM CHEESE FLAT BREAD,ham cheese flat bread,1,minuman,21,4,0,1,1,0,1,0,0,0,0,0
+Sop Sui Jiao,sop sui jiao,0,makanan,12,3,0,0,1,1,0,0,0,0,0,0
+Siomay Kmbinasi,siomay kmbinasi,0,makanan,15,2,0,0,1,1,0,0,0,0,0,0
+Leng Hong Kien,leng hong kien,7,lain_lain,14,3,0,0,0,0,0,0,0,0,0,0
+Mie Trsi Kgkung,mie trsi kgkung,0,makanan,15,3,0,0,1,1,0,0,0,0,0,0
+Es Teh Tawar,es teh tawar,1,minuman,12,3,0,0,1,0,1,0,0,0,0,0
+NASI MERAH/PUTIH,nasi merah putih,0,makanan,16,3,0,1,1,1,0,0,0,0,0,0
+SAYUR,sayur,0,makanan,5,1,0,1,1,1,0,0,0,0,0,0
+KERUPUK/SAMBEL,kerupuk sambel,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+MINUMAN KEMASAN/REFILL,minuman kemasan refill,1,minuman,22,3,0,1,2,1,1,0,0,0,0,0
+REDBEAN BRE/D,redbean bre d,7,lain_lain,13,3,0,1,0,0,0,0,0,0,0,0
+FRANKFRUT S/USAGE ROLL,frankfrut s usage roll,7,lain_lain,22,4,0,1,0,0,0,0,0,0,0,0
+ICED HIBISCUS LYCHEE TEA,iced hibiscus lychee tea,1,minuman,24,4,0,1,1,0,1,0,0,0,0,0
+GRILLED BABY POTATO (R,grilled baby potato r,7,lain_lain,21,4,0,1,0,0,0,0,0,0,0,0
+TRUFFLE CREAM,truffle cream,7,lain_lain,13,2,0,1,0,0,0,0,0,0,0,0
+- Gyro Platter Regular,gyro platter regular,1,minuman,20,3,0,0,1,0,1,0,0,0,0,0
+TERONG,terong,7,lain_lain,6,1,0,1,0,0,0,0,0,0,0,0
+PARU,paru,7,lain_lain,4,1,0,1,0,0,0,0,0,0,0,0
+SBL GR ATI/AMPLA,sbl gr ati ampla,7,lain_lain,16,4,0,1,0,0,0,0,0,0,0,0
+Gojek Chicken Chilli Sauce H,gojek chicken chilli sauce h,0,makanan,28,5,0,0,2,1,0,1,0,0,0,0
+Gojek Chicken Soy Sauce F,gojek chicken soy sauce f,0,makanan,25,5,0,0,2,1,0,1,0,0,0,0
+Gojek French Fries,gojek french fries,1,minuman,18,3,0,0,2,0,1,1,0,0,0,0
+SUNDUBU(TUKBEGI) CHAM KKOT SAL,sundubu tukbegi cham kkot sal,7,lain_lain,29,5,0,1,0,0,0,0,0,0,0,0
+U SEOL,u seol,7,lain_lain,6,2,0,1,0,0,0,0,0,0,0,0
+ICE COFFE MIX,ice coffe mix,1,minuman,13,3,0,1,2,1,1,0,0,0,0,0
+ICE BLACK COFFE,ice black coffe,1,minuman,15,3,0,1,1,0,1,0,0,0,0,0
+ROTI UNYIL,roti unyil,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+PAPER BAG BESAR,paper bag besar,1,minuman,15,3,0,1,2,0,1,0,1,0,0,0
+MARBLE CASTELA,marble castela,7,lain_lain,14,2,0,1,0,0,0,0,0,0,0,0
+SB 1 OR,sb 1 or,7,lain_lain,7,3,1,1,0,0,0,0,0,0,0,0
+Chokocha Flt,chokocha flt,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+Bbq Bento,bbq bento,7,lain_lain,9,2,0,0,0,0,0,0,0,0,0,0
+KENTHIR 2,kenthir 2,7,lain_lain,9,2,1,1,0,0,0,0,0,0,0,0
+KOL GORENG,kol goreng,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+TEH MANIS,teh manis,1,minuman,9,2,0,1,1,0,1,0,0,0,0,0
+Cha Keaw L...,cha keaw l,7,lain_lain,10,3,0,0,0,0,0,0,0,0,0,0
+Thai Iced T. .x1,thai iced t x1,1,minuman,14,4,1,0,1,0,1,0,0,0,0,0
+SEAFOOD MARINARA,seafood marinara,7,lain_lain,16,2,0,1,0,0,0,0,0,0,0,0
+CREAMY MARINARA SALMON,creamy marinara salmon,7,lain_lain,22,3,0,1,0,0,0,0,0,0,0,0
+LYCHEE ICE TEA,lychee ice tea,1,minuman,14,3,0,1,1,0,1,0,0,0,0,0
+XLB Org Pork 10x,xlb org pork 10x,7,lain_lain,16,4,1,0,0,0,0,0,0,0,0,0
+Sicito Babi,sicito babi,0,makanan,11,2,0,0,1,1,0,0,0,0,0,0
+Hotplate Tahu,hotplate tahu,1,minuman,13,2,0,0,2,1,1,0,0,0,0,0
+DF Fish Fillet Garlc,df fish fillet garlc,0,makanan,20,4,0,0,1,1,0,0,0,0,0,0
+LM Pork Belly,lm pork belly,7,lain_lain,13,3,0,0,0,0,0,0,0,0,0,0
+Siew Mai,siew mai,7,lain_lain,8,2,0,0,0,0,0,0,0,0,0,0
+Kwan Yin Cup,kwan yin cup,7,lain_lain,12,3,0,0,0,0,0,0,0,0,0,0
+Herbal Jelly,herbal jelly,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+Onde-Onde,onde onde,7,lain_lain,9,2,0,0,0,0,0,0,0,0,0,0
+VANILLA CHOCO HEART CAKE,vanilla choco heart cake,0,makanan,24,4,0,1,1,1,0,0,0,0,0,0
+Populaire Chocolate,populaire chocolate,1,minuman,19,2,0,0,2,0,1,0,0,1,0,0
+Paddle Pop Choco Magma,paddle pop choco magma,7,lain_lain,22,4,0,0,0,0,0,0,0,0,0,0
+French Fries,french fries,1,minuman,12,2,0,0,1,0,1,0,0,0,0,0
+Cheese Burger,cheese burger,1,minuman,13,2,0,0,2,1,1,0,0,0,0,0
+SOTO MEDAN+NASI,soto medan nasi,0,makanan,15,3,0,1,1,1,0,0,0,0,0,0
+GADO-GADO,gado gado,0,makanan,9,2,0,1,1,1,0,0,0,0,0,0
+SOTO BETAWI + NASI,soto betawi nasi,0,makanan,16,3,0,1,1,1,0,0,0,0,0,0
+KaraageCurryTeishoku,karaagecurryteishoku,7,lain_lain,20,1,0,0,0,0,0,0,0,0,0,0
+Lemon Plate,lemon plate,1,minuman,11,2,0,0,1,0,1,0,0,0,0,0
+Dum Dum Thai Coffee,dum dum thai coffee,1,minuman,19,4,0,0,1,0,1,0,0,0,0,0
+Ori Bento,ori bento,7,lain_lain,9,2,0,0,0,0,0,0,0,0,0,0
+Mango Float,mango float,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+F.Wngr GES-HC,f wngr ges hc,1,minuman,13,4,0,0,1,0,1,0,0,0,0,0
+Enting2 Dua Bandeng Ori,enting2 dua bandeng ori,7,lain_lain,23,4,1,0,0,0,0,0,0,0,0,0
+TAHU BAKSO Grg Ayam VC [biji,tahu bakso grg ayam vc biji,0,makanan,27,6,0,0,1,1,0,0,0,0,0,0
+Soto Betawi,soto betawi,0,makanan,11,2,0,0,1,1,0,0,0,0,0,0
+Crab Stick,crab stick,7,lain_lain,10,2,0,0,0,0,0,0,0,0,0,0
+Bakso Lobster,bakso lobster,0,makanan,13,2,0,0,1,1,0,0,0,0,0,0
+Sawi Putih,sawi putih,7,lain_lain,10,2,0,0,0,0,0,0,0,0,0,0
+Jamur Enoki,jamur enoki,3,belanja,11,2,0,0,1,0,0,0,1,0,0,0
+Maling,maling,7,lain_lain,6,1,0,0,0,0,0,0,0,0,0,0
+Sate Padang,sate padang,0,makanan,11,2,0,0,1,1,0,0,0,0,0,0
+SURIMI,surimi,0,makanan,6,1,0,1,1,1,0,0,0,0,0,0
+CREAMY CHK CLS FTC,creamy chk cls ftc,7,lain_lain,18,4,0,1,0,0,0,0,0,0,0,0
+MIX 4FUN CHOCOLATE,mix 4fun chocolate,1,minuman,18,3,1,1,2,1,1,0,0,0,0,0
+GREEN ITSODA PITCHER,green itsoda pitcher,1,minuman,20,3,0,1,1,0,1,0,0,0,0,0
+SC/R GRILLED STEAK,sc r grilled steak,1,minuman,18,4,0,1,2,1,1,0,0,0,0,0
+PEARL CHOCO TEA,pearl choco tea,1,minuman,15,3,0,1,1,0,1,0,0,0,0,0
+GREEN TEA LYCHEE,green tea lychee,1,minuman,16,3,0,1,1,0,1,0,0,0,0,0
+TUTUP SEAL,tutup seal,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+CUP 14 OZ,cup 14 oz,7,lain_lain,9,3,1,1,0,0,0,0,0,0,0,0
+S-Milk tea,s milk tea,1,minuman,10,3,0,0,2,1,1,0,0,0,0,0
+HAZELNUT CHOCO MT (R),hazelnut choco mt r,7,lain_lain,19,4,0,1,0,0,0,0,0,0,0,0
+M-Passion Fruit Mac,m passion fruit mac,7,lain_lain,19,4,0,0,0,0,0,0,0,0,0,0
+PAKET BER4 UP3,paket ber4 up3,7,lain_lain,14,3,1,1,0,0,0,0,0,0,0,0
+Chocochip & Walnut,chocochip walnut,7,lain_lain,16,2,0,0,0,0,0,0,0,0,0,0
+Plastic Bag Small,plastic bag small,3,belanja,17,3,0,0,1,0,0,0,1,0,0,0
+REGULAR,regular,7,lain_lain,7,1,0,1,0,0,0,0,0,0,0,0
+K7 1217,k7 1217,7,lain_lain,7,2,1,1,0,0,0,0,0,0,0,0
+<FC Winger HC,fc winger hc,7,lain_lain,12,3,0,0,0,0,0,0,0,0,0,0
+PAKET BER4,paket ber4,7,lain_lain,10,2,1,1,0,0,0,0,0,0,0,0
+50% CHICKEN ROYAL,50 chicken royal,0,makanan,16,3,1,1,1,1,0,0,0,0,0,0
+SAYAP,sayap,7,lain_lain,5,1,0,1,0,0,0,0,0,0,0,0
+PAHA BAWAH,paha bawah,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+-TICKET CP,ticket cp,2,transportasi,9,2,0,1,2,0,0,1,0,0,1,0
+J.STB PROMO,j stb promo,7,lain_lain,11,3,0,1,0,0,0,0,0,0,0,0
+Y.B.BAT,y b bat,7,lain_lain,7,3,0,1,0,0,0,0,0,0,0,0
+Y.BASO PROM,y baso prom,0,makanan,11,3,0,1,1,1,0,0,0,0,0,0
+JASMINE MT ( L ),jasmine mt l,0,makanan,12,3,0,1,1,1,0,0,0,0,0,0
+DONAT GULA,donat gula,7,lain_lain,10,2,0,1,0,0,0,0,0,0,0,0
+ICE BLACKCOFFE,ice blackcoffe,1,minuman,14,2,0,1,1,0,1,0,0,0,0,0
+AVOCADO COFFEE,avocado coffee,1,minuman,14,2,0,1,1,0,1,0,0,0,0,0
+CHIKEN KATSU FF,chiken katsu ff,7,lain_lain,15,3,0,1,0,0,0,0,0,0,0,0
+CHOCO CUS ARD PASTRY,choco cus ard pastry,7,lain_lain,20,4,0,1,0,0,0,0,0,0,0,0
+Kupon 15,kupon 15,7,lain_lain,8,2,1,0,0,0,0,0,0,0,0,0
+Bumbu Kaldu Ayam 1,bumbu kaldu ayam 1,0,makanan,18,4,1,0,1,1,0,0,0,0,0,0
+BANABERRY FRESH CREAM CAK,banaberry fresh cream cak,1,minuman,25,4,0,1,1,0,1,0,0,0,0,0
+BLUS WANITA,blus wanita,7,lain_lain,11,2,0,1,0,0,0,0,0,0,0,0
+SHOPPING BAG,shopping bag,3,belanja,12,2,0,1,1,0,0,0,1,0,0,0
+RedVelvet Cheese Slc,redvelvet cheese slc,1,minuman,20,3,0,0,1,0,1,0,0,0,0,0
+Chicken Baked Rice,chicken baked rice,1,minuman,18,3,0,0,2,1,1,0,0,0,0,0
+Fish n Chips,fish n chips,0,makanan,12,3,0,0,1,1,0,0,0,0,0,0
+Mushroom Soup,mushroom soup,0,makanan,13,2,0,0,1,1,0,0,0,0,0,0
+Chamomile,chamomile,0,makanan,9,1,0,0,1,1,0,0,0,0,0,0
+Iced Tea,iced tea,1,minuman,8,2,0,0,1,0,1,0,0,0,0,0
+[LG] BLACK SAKURA,lg black sakura,7,lain_lain,15,3,0,1,0,0,0,0,0,0,0,0
+IVINERAL WATER (bundling) 5k,ivineral water bundling 5k,1,minuman,26,4,1,0,3,1,1,0,0,1,0,0
+Goblin's Mace,goblin s mace,7,lain_lain,13,3,0,0,0,0,0,0,0,0,0,0
+Mozarella Hot Dog,mozarella hot dog,1,minuman,17,3,0,0,1,0,1,0,0,0,0,0
+Chili Pepper Croquette,chili pepper croquette,7,lain_lain,22,3,0,0,0,0,0,0,0,0,0,0
+Cheese Croquette,cheese croquette,1,minuman,16,2,0,0,1,0,1,0,0,0,0,0
+Plastik Amook,plastik amook,3,belanja,13,2,0,0,1,0,0,0,1,0,0,0
+Plastik Putih Take Away,plastik putih take away,3,belanja,23,4,0,0,1,0,0,0,1,0,0,0
+Propolis Cair,propolis cair,1,minuman,13,2,0,0,2,0,1,0,0,1,0,0
+AMBUSH DBL CHS,ambush dbl chs,2,transportasi,14,3,0,1,1,0,0,1,0,0,0,0
+AMBUSH CHS BUR,ambush chs bur,2,transportasi,14,3,0,1,1,0,0,1,0,0,0,0
+cashew nuts chkn,cashew nuts chkn,7,lain_lain,16,3,0,0,0,0,0,0,0,0,0,0
+garlic pepper beef,garlic pepper beef,0,makanan,18,3,0,0,1,1,0,0,0,0,0,0
+red curry beef,red curry beef,0,makanan,14,3,0,0,1,1,0,0,0,0,0,0
+phad thai,phad thai,1,minuman,9,2,0,0,1,0,1,0,0,0,0,0
+steamed rice,steamed rice,1,minuman,12,2,0,0,2,1,1,0,0,0,0,0
+NASI GOR SFD TLR,nasi gor sfd tlr,0,makanan,16,4,0,1,1,1,0,0,0,0,0,0
+Nasi Cap Cay Porsi B esar,nasi cap cay porsi b esar,1,minuman,25,6,0,0,2,1,1,0,0,0,0,0
+Teh Tawar,teh tawar,1,minuman,9,2,0,0,1,0,1,0,0,0,0,0
+Fu Yung Hai,fu yung hai,7,lain_lain,11,3,0,0,0,0,0,0,0,0,0,0
+Kupon 3,kupon 3,7,lain_lain,7,2,1,0,0,0,0,0,0,0,0,0
+Ash Chick Sambal Matah,ash chick sambal matah,7,lain_lain,22,4,0,0,0,0,0,0,0,0,0,0
+Jamur Goreng,jamur goreng,0,makanan,12,2,0,0,2,1,0,0,1,0,0,0
+CREAMCHEESE BREAD,creamcheese bread,1,minuman,17,2,0,1,1,0,1,0,0,0,0,0
+LUNCH BOX 3P SET W/RED BAG & SP00 N.,lunch box 3p set w red bag sp00 n,3,belanja,33,9,1,1,1,0,0,0,1,0,0,0
+RICE CASE 7L W/CUP,rice case 7l w cup,1,minuman,18,5,1,1,2,1,1,0,0,0,0,0
+LUNCH BOX 3P SET W/BLACK BAG & SP OON,lunch box 3p set w black bag sp oon,3,belanja,35,9,1,1,1,0,0,0,1,0,0,0
+Snack Lestari All,snack lestari all,1,minuman,17,3,0,0,1,0,1,0,0,0,0,0
+"Bakery Aneka Sisir Banana,Pizza,yoko,Mar mer,Daging,abon,keju,cokelat,dll",bakery aneka sisir banana pizza yoko mar mer daging abon keju cokelat dll,0,makanan,73,13,0,0,1,1,0,0,0,0,0,0
+Chicken Maryland,chicken maryland,0,makanan,16,2,0,0,1,1,0,0,0,0,0,0
+Cappucino (Hot/Iced),cappucino hot iced,1,minuman,18,3,0,0,1,0,1,0,0,0,0,0
+Naga Lychee Juice,naga lychee juice,1,minuman,17,3,0,0,1,0,1,0,0,0,0,0
+Cafe Latte,cafe latte,1,minuman,10,2,0,0,1,0,1,0,0,0,0,0
+Hot Chocolate Marshmallo,hot chocolate marshmallo,1,minuman,24,3,0,0,1,0,1,0,0,0,0,0
+Chicken Cesar Salad,chicken cesar salad,1,minuman,19,3,0,0,2,1,1,0,0,0,0,0
+Lychee/Peach/Lemon/Mango,lychee peach lemon mango,1,minuman,24,4,0,0,1,0,1,0,0,0,0,0
+Chicken HCC. 1Pcs,chicken hcc 1pcs,0,makanan,16,3,1,0,1,1,0,0,0,0,0,0
+Mike & Ike Original,mike ike original,0,makanan,17,3,0,0,1,1,0,0,0,0,0,0
+Mike & Berry,mike berry,0,makanan,10,2,0,0,1,1,0,0,0,0,0,0
+Roti Keju Manis.,roti keju manis,0,makanan,15,3,0,0,1,1,0,0,0,0,0,0
+S-Bubble Milk Tea,s bubble milk tea,1,minuman,17,4,0,0,2,1,1,0,0,0,0,0
+S-Caramel Milk Tea,s caramel milk tea,1,minuman,18,4,0,0,2,1,1,0,0,0,0,0
+COPIA 1 /GB,copia 1 gb,7,lain_lain,10,3,1,1,0,0,0,0,0,0,0,0
+PLASTIC BAG RED CENTRAL SI,plastic bag red central si,3,belanja,26,5,0,1,1,0,0,0,1,0,0,0
+S-Hazelnut KOI Cafe,s hazelnut koi cafe,7,lain_lain,19,4,0,0,0,0,0,0,0,0,0,0
+Ptgs Eggtart,ptgs eggtart,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+Choco Melt,choco melt,7,lain_lain,10,2,0,0,0,0,0,0,0,0,0,0
+Superice Cauburry,superice cauburry,1,minuman,17,2,0,0,2,1,1,0,0,0,0,0
+(TA) NASI GRG TERI MEDAN,ta nasi grg teri medan,0,makanan,22,5,0,1,1,1,0,0,0,0,0,0
+(TA) BIHUN GORENG SEAFOOD,ta bihun goreng seafood,0,makanan,23,4,0,1,1,1,0,0,0,0,0,0
+(TA) KWETIAW SEAFOOD SIRAM,ta kwetiaw seafood siram,7,lain_lain,24,4,0,1,0,0,0,0,0,0,0,0
+(TA) NASI GORENG,ta nasi goreng,0,makanan,14,3,0,1,1,1,0,0,0,0,0,0
+Pecel Komplit + Nasi,pecel komplit nasi,0,makanan,18,3,0,0,1,1,0,0,0,0,0,0
+SOTO KUDUS,soto kudus,0,makanan,10,2,0,1,1,1,0,0,0,0,0,0
+KACANG MERAH,kacang merah,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+APPLE CINNAMON PASTRY,apple cinnamon pastry,7,lain_lain,21,3,0,1,0,0,0,0,0,0,0,0
+ICED GT,iced gt,1,minuman,7,2,0,1,1,0,1,0,0,0,0,0
+PHO BO TAI,pho bo tai,0,makanan,10,3,0,1,1,1,0,0,0,0,0,0
+Tahu Isi,tahu isi,0,makanan,8,2,0,0,1,1,0,0,0,0,0,0
+Kepiting 7-8.4ons - Chilly 0.7 1,kepiting 7 8 4ons chilly 0 7 1,7,lain_lain,30,8,1,0,0,0,0,0,0,0,0,0
+Udang Telur Asin - Regular,udang telur asin regular,0,makanan,24,4,0,0,1,1,0,0,0,0,0,0
+Kailan 2 Rasa,kailan 2 rasa,7,lain_lain,13,3,1,0,0,0,0,0,0,0,0,0
+Mantau - 2 pcs,mantau 2 pcs,7,lain_lain,12,3,1,0,0,0,0,0,0,0,0,0
+Sweet Tea,sweet tea,1,minuman,9,2,0,0,1,0,1,0,0,0,0,0
+Mantau - 3 pcs,mantau 3 pcs,7,lain_lain,12,3,1,0,0,0,0,0,0,0,0,0
+Topping Milo Sparkle (untuk 1 Po rsi),topping milo sparkle untuk 1 po rsi,0,makanan,35,7,1,0,2,1,0,0,0,0,1,0
+Bola Ubi Mini Original (14 Pcs ),bola ubi mini original 14 pcs,0,makanan,29,6,1,0,1,1,0,0,0,0,0,0
+TEH KOTAK,teh kotak,1,minuman,9,2,0,1,1,0,1,0,0,0,0,0
+XXI Java Tea (M),xxi java tea m,1,minuman,14,4,0,0,1,0,1,0,0,0,0,0
+Kopi Susu Kampung.,kopi susu kampung,1,minuman,17,3,0,0,1,0,1,0,0,0,0,0
+SINGLE SCOOP,single scoop,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+Bubur Polos + Telur,bubur polos telur,0,makanan,17,3,0,0,1,1,0,0,0,0,0,0
+PILLOW DURIA,pillow duria,7,lain_lain,12,2,0,1,0,0,0,0,0,0,0,0
+=*LARGE*==,large,7,lain_lain,5,1,0,1,0,0,0,0,0,0,0,0
+=*MEDIUM*=,medium,7,lain_lain,6,1,0,1,0,0,0,0,0,0,0,0
+Cuka Apel Tetes,cuka apel tetes,1,minuman,15,3,0,0,1,0,1,0,0,0,0,0
+SPRITE,sprite,1,minuman,6,1,0,1,1,0,1,0,0,0,0,0
+GRILLED CALAMARI,grilled calamari,7,lain_lain,16,2,0,1,0,0,0,0,0,0,0,0
+Chocolate Log Cake,chocolate log cake,1,minuman,18,3,0,0,2,1,1,0,0,0,0,0
+Snowman Cake Chocolate,snowman cake chocolate,1,minuman,22,3,0,0,2,1,1,0,0,0,0,0
+Strawberry Log Cake,strawberry log cake,0,makanan,19,3,0,0,1,1,0,0,0,0,0,0
+Nasi Tambah,nasi tambah,0,makanan,11,2,0,0,1,1,0,0,0,0,0,0
+Ayam Pop,ayam pop,0,makanan,8,2,0,0,1,1,0,0,0,0,0,0
+Samabal SP,samabal sp,7,lain_lain,10,2,0,0,0,0,0,0,0,0,0,0
+Sambal Gabus Asin Cb,sambal gabus asin cb,2,transportasi,20,4,0,0,1,0,0,1,0,0,0,0
+Kerupuk Kuah,kerupuk kuah,7,lain_lain,12,2,0,0,0,0,0,0,0,0,0,0
+Ikan Bawal Besa,ikan bawal besa,1,minuman,15,3,0,0,2,1,1,0,0,0,0,0
+Telur Dadar,telur dadar,7,lain_lain,11,2,0,0,0,0,0,0,0,0,0,0
+Teh Es,teh es,1,minuman,6,2,0,0,1,0,1,0,0,0,0,0
+Teh Manis,teh manis,1,minuman,9,2,0,0,1,0,1,0,0,0,0,0
+Es Batu,es batu,1,minuman,7,2,0,0,1,0,1,0,0,0,0,0
+PHOTAI CHIN,photai chin,1,minuman,11,2,0,1,2,1,1,0,0,0,0,0
+BAKSO BNGKS,bakso bngks,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+GORENGAN,gorengan,0,makanan,8,1,0,1,1,1,0,0,0,0,0,0
+TAHU GORENG,tahu goreng,0,makanan,11,2,0,1,1,1,0,0,0,0,0,0
+CAKWE,cakwe,7,lain_lain,5,1,0,1,0,0,0,0,0,0,0,0
+PHO TAI CHIN(R),pho tai chin r,0,makanan,14,4,0,1,1,1,0,0,0,0,0,0
+TEA,tea,1,minuman,3,1,0,1,1,0,1,0,0,0,0,0
+BUBUR GO,bubur go,0,makanan,8,2,0,1,1,1,0,0,0,0,0,0
+PUYUH GO,puyuh go,7,lain_lain,8,2,0,1,0,0,0,0,0,0,0,0
+SATE ATI GO,sate ati go,0,makanan,11,3,0,1,1,1,0,0,0,0,0,0
+BLACK PAPPER MEATBALL PAS,black papper meatball pas,0,makanan,25,4,0,1,1,1,0,0,0,0,0,0

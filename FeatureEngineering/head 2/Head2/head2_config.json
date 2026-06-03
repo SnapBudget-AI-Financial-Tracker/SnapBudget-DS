@@ -1,0 +1,16 @@
+{
+  "window_size": 30,
+  "pred_horizon": 7,
+  "n_cats": 8,
+  "categories": [
+    "makanan",
+    "minuman",
+    "transportasi",
+    "belanja",
+    "tagihan",
+    "hiburan",
+    "kesehatan",
+    "lain_lain"
+  ],
+  "best_val_loss": 0.3250581622123718
+}

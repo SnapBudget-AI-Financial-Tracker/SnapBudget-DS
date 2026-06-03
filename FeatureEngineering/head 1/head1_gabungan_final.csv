@@ -1,0 +1,3708 @@
+text,label_id,category,sumber
+Sabun,3,belanja,synthetic
+Cappuccino,1,minuman,synthetic
+GrabExpress,7,lain_lain,synthetic
+Donasi,7,lain_lain,synthetic
+TENIS,5,hiburan,synthetic
+Grab,2,transportasi,synthetic
+Nonton Film,5,hiburan,synthetic
+Risotto,0,makanan,synthetic
+Dokter,6,kesehatan,synthetic
+Wahana,5,hiburan,synthetic
+2xKebun Binatang,5,hiburan,synthetic
+Baju,3,belanja,synthetic
+Ayam Bakar,0,makanan,synthetic
+Tiket Kereta,2,transportasi,synthetic
+2 Formulir,7,lain_lain,synthetic
+Sandal,3,belanja,synthetic
+Cookie,0,makanan,synthetic
+Karaoke,5,hiburan,synthetic
+cappuccino,1,minuman,synthetic
+Maxim,2,transportasi,synthetic
+steam,5,hiburan,synthetic
+Konsultasi Dokter,6,kesehatan,synthetic
+Bus,2,transportasi,synthetic
+Egg Tart,0,makanan,synthetic
+Tagihan WiFi,4,tagihan,synthetic
+BUS,2,transportasi,synthetic
+2 Bensin,2,transportasi,synthetic
+Transfer,7,lain_lain,synthetic
+Kopi Mocha,1,minuman,synthetic
+Tiket KRL,2,transportasi,synthetic
+Gym,5,hiburan,synthetic
+Taksi Online,2,transportasi,synthetic
+Angkot,2,transportasi,synthetic
+2 Top Up Mobile Legends,5,hiburan,synthetic
+Jus Jeruk,1,minuman,synthetic
+bpjs kesehatan,4,tagihan,synthetic
+Textbook,3,belanja,synthetic
+rok,3,belanja,synthetic
+Kertas HVS,3,belanja,synthetic
+Transjakarta,2,transportasi,synthetic
+Gelato,0,makanan,synthetic
+1 Es Dawet,1,minuman,synthetic
+BPJS Kesehatan,4,tagihan,synthetic
+Kopi Americano,1,minuman,synthetic
+Bioskop,5,hiburan,synthetic
+Voucher Game,5,hiburan,synthetic
+Scan,7,lain_lain,synthetic
+Print,7,lain_lain,synthetic
+Bubble Tea,1,minuman,synthetic
+Guardian,6,kesehatan,synthetic
+Biaya Berobat,6,kesehatan,synthetic
+Damri,2,transportasi,synthetic
+Biaya Admin,4,tagihan,synthetic
+E-Toll,2,transportasi,synthetic
+JNE,7,lain_lain,synthetic
+Vitamin C,6,kesehatan,synthetic
+ESPRESSO,1,minuman,synthetic
+1 Fried Noodle,0,makanan,synthetic
+Token Listrik,4,tagihan,synthetic
+Waffle,0,makanan,synthetic
+Modul,3,belanja,synthetic
+potong rambut,7,lain_lain,synthetic
+Charger,3,belanja,synthetic
+BIAYA TRANSFER,7,lain_lain,synthetic
+Infaq,7,lain_lain,synthetic
+Oolong Tea,1,minuman,synthetic
+Sewa Kos,4,tagihan,synthetic
+Kacamata,3,belanja,synthetic
+Metromini,2,transportasi,synthetic
+GrabCar,2,transportasi,synthetic
+Kolam Renang,5,hiburan,synthetic
+TIKET KONSER,5,hiburan,synthetic
+SiCepat,7,lain_lain,synthetic
+2 Obat Batuk,6,kesehatan,synthetic
+2 Yakult,1,minuman,synthetic
+ADOBE,4,tagihan,synthetic
+Hansaplast,6,kesehatan,synthetic
+top up ff,5,hiburan,synthetic
+Futsal,5,hiburan,synthetic
+JNT,7,lain_lain,synthetic
+Tol,2,transportasi,synthetic
+biaya periksa,6,kesehatan,synthetic
+Formulir,7,lain_lain,synthetic
+Microsoft 365,4,tagihan,synthetic
+Wonton,0,makanan,synthetic
+Es Matcha,1,minuman,synthetic
+nasi padang,0,makanan,synthetic
+Kaos,3,belanja,synthetic
+Festival,5,hiburan,synthetic
+Firs Media,4,tagihan,synthetic
+Biaya Kos,4,tagihan,synthetic
+Frappe,1,minuman,synthetic
+Hazelnut Latte,1,minuman,synthetic
+Steak,0,makanan,synthetic
+CABUT GIGI,6,kesehatan,synthetic
+Asuransi,4,tagihan,synthetic
+Top Up Genshin,5,hiburan,synthetic
+zakat,7,lain_lain,synthetic
+2xEarl Grey,1,minuman,synthetic
+taro latte,1,minuman,synthetic
+Ojek,2,transportasi,synthetic
+2 Kopi Espresso,1,minuman,synthetic
+LRT,2,transportasi,synthetic
+Calpico,1,minuman,synthetic
+Pie,0,makanan,synthetic
+Sandwich,0,makanan,synthetic
+Materai,7,lain_lain,synthetic
+Bayar Kos,4,tagihan,synthetic
+Teh Botol,1,minuman,synthetic
+Chamomile,1,minuman,synthetic
+SPBU,2,transportasi,synthetic
+Ikat Pinggang,3,belanja,synthetic
+Iuran Organisasi,7,lain_lain,synthetic
+CANVA PRO,4,tagihan,synthetic
+Tas,3,belanja,synthetic
+Spaghetti,0,makanan,synthetic
+Wrap,0,makanan,synthetic
+Kebab,0,makanan,synthetic
+Flashdisk,3,belanja,synthetic
+1xIndiHome,4,tagihan,synthetic
+Top Up Mobile Legends,5,hiburan,synthetic
+CGV,5,hiburan,synthetic
+Smoothie,1,minuman,synthetic
+tiket masuk,5,hiburan,synthetic
+Mouse,3,belanja,synthetic
+Patungan,7,lain_lain,synthetic
+Laundry,7,lain_lain,synthetic
+Biaya Pendaftaran,7,lain_lain,synthetic
+3xAdministrasi,4,tagihan,synthetic
+Nasi Goren,0,makanan,synthetic
+gojek,2,transportasi,synthetic
+KOPI SUSU KOLONEL,1,minuman,synthetic
+Gojek,2,transportasi,synthetic
+Buku Catatan,3,belanja,synthetic
+Jajan,7,lain_lain,synthetic
+Zakat,7,lain_lain,synthetic
+Blazer,3,belanja,synthetic
+Busway,2,transportasi,synthetic
+2xVitamin D,6,kesehatan,synthetic
+Canva Pro,4,tagihan,synthetic
+Sparkling Water,1,minuman,synthetic
+Lasagna,0,makanan,synthetic
+tiket wisata,5,hiburan,synthetic
+Spotify,4,tagihan,synthetic
+TEMPE GORENG,0,makanan,synthetic
+Commuter Line,2,transportasi,synthetic
+3xKacamata,6,kesehatan,synthetic
+Kopi Susu,1,minuman,synthetic
+CARPACCIO,0,makanan,synthetic
+GrabBike,2,transportasi,synthetic
+Cinepolis,5,hiburan,synthetic
+SANDAL,3,belanja,synthetic
+Tiket Pesawat,2,transportasi,synthetic
+DOKTER GIGI,6,kesehatan,synthetic
+MaximBike,2,transportasi,synthetic
+Sunscreen,3,belanja,synthetic
+Telu Ceplok,0,makanan,synthetic
+Nasi Goreng Kampung,0,makanan,synthetic
+Makan Siang,0,makanan,synthetic
+Sampo,3,belanja,synthetic
+1 Kebun Binatang,5,hiburan,synthetic
+Sausage Bread,0,makanan,synthetic
+1 Buku Kuliah,3,belanja,synthetic
+Topi,3,belanja,synthetic
+Softener,3,belanja,synthetic
+Kwetiau,0,makanan,synthetic
+Lens Kontak,6,kesehatan,synthetic
+Biaya Periksa,6,kesehatan,synthetic
+Steam,5,hiburan,synthetic
+Ongkir,7,lain_lain,synthetic
+cold brew,1,minuman,synthetic
+Ganti Oli,2,transportasi,synthetic
+Pertalite,2,transportasi,synthetic
+1xSoto,0,makanan,synthetic
+Buku Kuliah,3,belanja,synthetic
+1xWiFi,4,tagihan,synthetic
+Disney Plus,4,tagihan,synthetic
+TAGIHAN AIR,4,tagihan,synthetic
+Bowling,5,hiburan,synthetic
+Kimia Farma,6,kesehatan,synthetic
+Energen,1,minuman,synthetic
+sweater,3,belanja,synthetic
+Iuran Kela,7,lain_lain,synthetic
+Bihun Goreng,0,makanan,synthetic
+le mineral,1,minuman,synthetic
+Tiket MRT,2,transportasi,synthetic
+Anteraja,7,lain_lain,synthetic
+Air PAM,4,tagihan,synthetic
+Kopi Dalgona,1,minuman,synthetic
+atm,7,lain_lain,synthetic
+OJEKONLINE,2,transportasi,synthetic
+Keyboard,3,belanja,synthetic
+buku tulis,3,belanja,synthetic
+Rapid Test,6,kesehatan,synthetic
+DAMRI,2,transportasi,synthetic
+Earl Grey,1,minuman,synthetic
+Lab Kesehatan,6,kesehatan,synthetic
+Power Bank,3,belanja,synthetic
+Strudel,0,makanan,synthetic
+Iuran,4,tagihan,synthetic
+2xBetadine,6,kesehatan,synthetic
+Iuran Kelas,7,lain_lain,synthetic
+Ibuprofen,6,kesehatan,synthetic
+Internet Bulanan,4,tagihan,synthetic
+WiFi,4,tagihan,synthetic
+GOJEK,2,transportasi,synthetic
+Makan Malam,0,makanan,synthetic
+Pulsa,4,tagihan,synthetic
+Tike Konser,5,hiburan,synthetic
+PARKIR MOBIL,2,transportasi,synthetic
+Tteokbokki,0,makanan,synthetic
+XXI,5,hiburan,synthetic
+Kontrakan,4,tagihan,synthetic
+Es Teh,1,minuman,synthetic
+Top Up Game,5,hiburan,synthetic
+CEK DARAH,6,kesehatan,synthetic
+Tokopedia,3,belanja,synthetic
+Cabut Gigi,6,kesehatan,synthetic
+Chicken Wing,0,makanan,synthetic
+Milk Tea,1,minuman,synthetic
+Parfait,0,makanan,synthetic
+Cardigan,3,belanja,synthetic
+Stempel,7,lain_lain,synthetic
+1 Pertamax,2,transportasi,synthetic
+Noodle,0,makanan,synthetic
+UANG KOS,4,tagihan,synthetic
+resep dokter,6,kesehatan,synthetic
+Iced Latte,1,minuman,synthetic
+wifi,4,tagihan,synthetic
+OBAT SAKIT KEPALA,6,kesehatan,synthetic
+bubble tea,1,minuman,synthetic
+2xTiket Konser,5,hiburan,synthetic
+Potong Rambut,7,lain_lain,synthetic
+nasi ayam,0,makanan,synthetic
+TRANSJAKARTA,2,transportasi,synthetic
+Rapid Tes,6,kesehatan,synthetic
+spidol,3,belanja,synthetic
+Isi Pulsa,4,tagihan,synthetic
+UC PUBG,5,hiburan,synthetic
+Obat Maag,6,kesehatan,synthetic
+Tiket Wisata,5,hiburan,synthetic
+Crostini,0,makanan,synthetic
+Retribusi Parkir,2,transportasi,synthetic
+Chicke Wing,0,makanan,synthetic
+Es Campur,1,minuman,synthetic
+POTONG RAMBUT,7,lain_lain,synthetic
+nasi goreng,0,makanan,synthetic
+Tambal Gigi,6,kesehatan,synthetic
+Kabel Data,3,belanja,synthetic
+1xBusway,2,transportasi,synthetic
+2xResep Dokter,6,kesehatan,synthetic
+IndiHome,4,tagihan,synthetic
+Apple Music,4,tagihan,synthetic
+Pertamax,2,transportasi,synthetic
+pcr,6,kesehatan,synthetic
+1xTiket Masuk,5,hiburan,synthetic
+Tiket Konser,5,hiburan,synthetic
+1 Kuota Internet,4,tagihan,synthetic
+Klinik,6,kesehatan,synthetic
+3xKontrakan,4,tagihan,synthetic
+Isi Bensin,2,transportasi,synthetic
+KERETA API,2,transportasi,synthetic
+kopi susu kolonel,1,minuman,synthetic
+Tempura,0,makanan,synthetic
+Mobil Online,2,transportasi,synthetic
+Stabilo,3,belanja,synthetic
+Pasta Gigi,3,belanja,synthetic
+Mineral Water,1,minuman,synthetic
+Cat Akrilik,5,hiburan,synthetic
+YouTube Premium,4,tagihan,synthetic
+Pensil,3,belanja,synthetic
+KOPI GULA AREN,1,minuman,synthetic
+biaya admin,4,tagihan,synthetic
+ALAT MUSIK,5,hiburan,synthetic
+BAJU,3,belanja,synthetic
+3xKopi Aren,1,minuman,synthetic
+Jilid,7,lain_lain,synthetic
+Mizone,1,minuman,synthetic
+Commute Line,2,transportasi,synthetic
+top up game,5,hiburan,synthetic
+GoCar,2,transportasi,synthetic
+3xBelanja Online,3,belanja,synthetic
+Tahu Ikan Oma Giok,0,makanan,synthetic
+Air Mineral,1,minuman,synthetic
+Lain-lain,7,lain_lain,synthetic
+Carrot Cake,0,makanan,synthetic
+Suplemen,6,kesehatan,synthetic
+TOMATO SOUP,0,makanan,synthetic
+OjekOnline,2,transportasi,synthetic
+1xBoba,1,minuman,synthetic
+grabexpress,7,lain_lain,synthetic
+Kopi Latte,1,minuman,synthetic
+2 Transfer,7,lain_lain,synthetic
+Lampu,3,belanja,synthetic
+MOBIL ONLINE,2,transportasi,synthetic
+2 Betadine,6,kesehatan,synthetic
+1 Iced Latte,1,minuman,synthetic
+1 Bioskop,5,hiburan,synthetic
+Dompet,3,belanja,synthetic
+BIAYA ADMIN,4,tagihan,synthetic
+pertamax,2,transportasi,synthetic
+Badminton,5,hiburan,synthetic
+Spidol,3,belanja,synthetic
+BPJS KESEHATAN,4,tagihan,synthetic
+Mie Goren,0,makanan,synthetic
+GANTI OLI,2,transportasi,synthetic
+MAXIMBIKE,2,transportasi,synthetic
+LAB KESEHATAN,6,kesehatan,synthetic
+Adobe,4,tagihan,synthetic
+Lensa Kontak,6,kesehatan,synthetic
+SEDEKAH,7,lain_lain,synthetic
+krl,2,transportasi,synthetic
+1 GrabExpress,7,lain_lain,synthetic
+Map Plastik,3,belanja,synthetic
+2 Sampo,3,belanja,synthetic
+Nasi Ayam,0,makanan,synthetic
+Vanilla Latte,1,minuman,synthetic
+Paracetamol,6,kesehatan,synthetic
+BETADINE,6,kesehatan,synthetic
+komik,5,hiburan,synthetic
+Betadine,6,kesehatan,synthetic
+tagihan telepon,4,tagihan,synthetic
+Tagihan HP,4,tagihan,synthetic
+nonton film,5,hiburan,synthetic
+OBAT DIARE,6,kesehatan,synthetic
+Deodoran,3,belanja,synthetic
+2xLemonade,1,minuman,synthetic
+Le Mineral,1,minuman,synthetic
+apple music,4,tagihan,synthetic
+Kebun Binatang,5,hiburan,synthetic
+NASI LIWET,0,makanan,synthetic
+OJEK,2,transportasi,synthetic
+Cap Cay,0,makanan,synthetic
+Jam Tanga,3,belanja,synthetic
+Tagihan Telepon,4,tagihan,synthetic
+ZAKAT,7,lain_lain,synthetic
+GELANG,3,belanja,synthetic
+Eclair,0,makanan,synthetic
+Cold Brew,1,minuman,synthetic
+DOKTER,6,kesehatan,synthetic
+Cat Akrili,5,hiburan,synthetic
+Puskesmas,6,kesehatan,synthetic
+Greek Salad,0,makanan,synthetic
+Bayar Listrik,4,tagihan,synthetic
+Tahu Goreng,0,makanan,synthetic
+Kopi Espresso,1,minuman,synthetic
+Tiket Bus,2,transportasi,synthetic
+Mocha,1,minuman,synthetic
+Ramyeon,0,makanan,synthetic
+Amoxicillin,6,kesehatan,synthetic
+Pisang Goreng,0,makanan,synthetic
+SPIDOL,3,belanja,synthetic
+Fitness,5,hiburan,synthetic
+FORMULIR,7,lain_lain,synthetic
+Tiket Bioskop,5,hiburan,synthetic
+Batagor,0,makanan,synthetic
+Nugget,0,makanan,synthetic
+Detergen,3,belanja,synthetic
+minyak kayu putih,6,kesehatan,synthetic
+Nasi Bakar,0,makanan,synthetic
+NASI GORENG SPESIAL,0,makanan,synthetic
+Jus Semangka,1,minuman,synthetic
+kacamata,3,belanja,synthetic
+LENSA KONTAK,6,kesehatan,synthetic
+Tempe Goreng,0,makanan,synthetic
+Sarapan,0,makanan,synthetic
+2 Paket Data,4,tagihan,synthetic
+Ruma Sakit,6,kesehatan,synthetic
+ATM,7,lain_lain,synthetic
+BENSIN,2,transportasi,synthetic
+Uang Kos,4,tagihan,synthetic
+NACHOS,0,makanan,synthetic
+ANTERAJA,7,lain_lain,synthetic
+DAKGALBI,0,makanan,synthetic
+Penggaris,3,belanja,synthetic
+Nasi Goreng,0,makanan,synthetic
+PLN,4,tagihan,synthetic
+Biay Pendaftaran,7,lain_lain,synthetic
+2 Kopi Tubruk,1,minuman,synthetic
+KARAOKE,5,hiburan,synthetic
+Isi Puls,4,tagihan,synthetic
+Administrasi,4,tagihan,synthetic
+Antasida,6,kesehatan,synthetic
+Sweater,3,belanja,synthetic
+First Media,4,tagihan,synthetic
+2 Mocha,1,minuman,synthetic
+Celana,3,belanja,synthetic
+Nasi Putih,0,makanan,synthetic
+Profiterole,0,makanan,synthetic
+Legalisir,7,lain_lain,synthetic
+Cek Darah,6,kesehatan,synthetic
+BBM,2,transportasi,synthetic
+Tagihan Air,4,tagihan,synthetic
+Roti Bakar,0,makanan,synthetic
+Chocolate Cake,0,makanan,synthetic
+BULGOGI,0,makanan,synthetic
+BIAYA PERIKSA,6,kesehatan,synthetic
+1xSunscreen,3,belanja,synthetic
+latte,1,minuman,synthetic
+1xTenis,5,hiburan,synthetic
+karaoke,5,hiburan,synthetic
+WAHANA,5,hiburan,synthetic
+Taman Bermain,5,hiburan,synthetic
+noodle,0,makanan,synthetic
+1 Vanilla Latte,1,minuman,synthetic
+Dat Internet,4,tagihan,synthetic
+Kopi Susu Kolonel,1,minuman,synthetic
+Pulpen,3,belanja,synthetic
+PCR,6,kesehatan,synthetic
+tagihan listrik,4,tagihan,synthetic
+busway,2,transportasi,synthetic
+1xIsi Pulsa,4,tagihan,synthetic
+Softlens,6,kesehatan,synthetic
+Poton Rambut,7,lain_lain,synthetic
+Ovaltine,1,minuman,synthetic
+1xJNE,7,lain_lain,synthetic
+TAKSI ONLINE,2,transportasi,synthetic
+Jam Tangan,3,belanja,synthetic
+Nasi Box,0,makanan,synthetic
+3xFutsal,5,hiburan,synthetic
+Cuci Baju,7,lain_lain,synthetic
+2xBaterai,3,belanja,synthetic
+paket hemat,0,makanan,synthetic
+Espresso,1,minuman,synthetic
+Disne Plus,4,tagihan,synthetic
+MANGO DRINK,1,minuman,synthetic
+Lavende Latte,1,minuman,synthetic
+3xParkir Motor,2,transportasi,synthetic
+Kola Renang,5,hiburan,synthetic
+Tiket Event,5,hiburan,synthetic
+Obat Diar,6,kesehatan,synthetic
+Macchiato,1,minuman,synthetic
+2xNescafe,1,minuman,synthetic
+Buku Novel,5,hiburan,synthetic
+jilid,7,lain_lain,synthetic
+Setrika,7,lain_lain,synthetic
+Pembalut,3,belanja,synthetic
+Toast,0,makanan,synthetic
+AIR PAM,4,tagihan,synthetic
+PROFITEROLE,0,makanan,synthetic
+Iced American,1,minuman,synthetic
+nasi goreng kampung,0,makanan,synthetic
+1 GrabCar,2,transportasi,synthetic
+Resep Dokter,6,kesehatan,synthetic
+Americano,1,minuman,synthetic
+Pameran,5,hiburan,synthetic
+Multivitamin,6,kesehatan,synthetic
+1xTransfer,7,lain_lain,synthetic
+Iura Organisasi,7,lain_lain,synthetic
+1 Fitness,5,hiburan,synthetic
+2 Biaya Transfer,7,lain_lain,synthetic
+Tambal Gig,6,kesehatan,synthetic
+puskesmas,6,kesehatan,synthetic
+Netflix,4,tagihan,synthetic
+Rumah Sakit,6,kesehatan,synthetic
+cireng,0,makanan,synthetic
+guardian,6,kesehatan,synthetic
+Club Soda,1,minuman,synthetic
+Lychee Drink,1,minuman,synthetic
+Kop Susu Kolonel,1,minuman,synthetic
+Tagihan Listrik,4,tagihan,synthetic
+paket data,4,tagihan,synthetic
+PATUNGAN,7,lain_lain,synthetic
+Obat Batu,6,kesehatan,synthetic
+IURAN,4,tagihan,synthetic
+Parkir,2,transportasi,synthetic
+Air Kelapa,1,minuman,synthetic
+chicken wing,0,makanan,synthetic
+Map Plasti,3,belanja,synthetic
+Donut,0,makanan,synthetic
+GoSend,7,lain_lain,synthetic
+dress,3,belanja,synthetic
+GRABBIKE,2,transportasi,synthetic
+Salon,7,lain_lain,synthetic
+2xMaximBike,2,transportasi,synthetic
+Masker,6,kesehatan,synthetic
+NASI PADANG,0,makanan,synthetic
+Jus Mangga,1,minuman,synthetic
+Ayam Penyet,0,makanan,synthetic
+Peach Tea,1,minuman,synthetic
+Lumpia,0,makanan,synthetic
+2 Shopee,3,belanja,synthetic
+1xCukur,7,lain_lain,synthetic
+3xStempel,7,lain_lain,synthetic
+hotdog,0,makanan,synthetic
+3xPatungan,7,lain_lain,synthetic
+Pasta,0,makanan,synthetic
+3xFrappe,1,minuman,synthetic
+salon,7,lain_lain,synthetic
+gosend,7,lain_lain,synthetic
+Jaket,3,belanja,synthetic
+es cendol,1,minuman,synthetic
+multivitamin,6,kesehatan,synthetic
+Jus Alpukat,1,minuman,synthetic
+ONGKOS KIRIM,7,lain_lain,synthetic
+asuransi,4,tagihan,synthetic
+parkir mobil,2,transportasi,synthetic
+CHOCOLATE CAKE,0,makanan,synthetic
+PDAM,4,tagihan,synthetic
+Telur Ceplok,0,makanan,synthetic
+Mie Goreng,0,makanan,synthetic
+Biay Kos,4,tagihan,synthetic
+3xBaterai,3,belanja,synthetic
+YouTub Premium,4,tagihan,synthetic
+Buku Tulis,3,belanja,synthetic
+JAM TANGAN,3,belanja,synthetic
+Hotdog,0,makanan,synthetic
+Data Internet,4,tagihan,synthetic
+OBAT FLU,6,kesehatan,synthetic
+MAXIM,2,transportasi,synthetic
+Es Cendol,1,minuman,synthetic
+ramune,1,minuman,synthetic
+Brown Sugar,1,minuman,synthetic
+jam tangan,3,belanja,synthetic
+damri,2,transportasi,synthetic
+3xGorengan,0,makanan,synthetic
+2 Buku Tulis,3,belanja,synthetic
+2xMasker,6,kesehatan,synthetic
+2xPulsa,4,tagihan,synthetic
+3xBayar Listrik,4,tagihan,synthetic
+2 Peppermint Tea,1,minuman,synthetic
+KRL,2,transportasi,synthetic
+TAGIHAN LISTRIK,4,tagihan,synthetic
+Parkir Motor,2,transportasi,synthetic
+3xTagihan Telepon,4,tagihan,synthetic
+Ongkos Kirim,7,lain_lain,synthetic
+Pocari Sweat,1,minuman,synthetic
+1 Sedekah,7,lain_lain,synthetic
+KACAMATA,6,kesehatan,synthetic
+MOUSE,3,belanja,synthetic
+Matcha,1,minuman,synthetic
+Shopee,3,belanja,synthetic
+GoRide,2,transportasi,synthetic
+Komik,5,hiburan,synthetic
+1xTelur Ceplok,0,makanan,synthetic
+Teh Tarik,1,minuman,synthetic
+Milkshake,1,minuman,synthetic
+ORANGE JUICE,1,minuman,synthetic
+3xTiket Wisata,5,hiburan,synthetic
+Bensin,2,transportasi,synthetic
+Pizza Toast,0,makanan,synthetic
+3xPulpen,3,belanja,synthetic
+2 Multivitamin,6,kesehatan,synthetic
+Vanilla Latt,1,minuman,synthetic
+2xPocari Sweat,1,minuman,synthetic
+Fotokopi,7,lain_lain,synthetic
+TAGIHAN HP,4,tagihan,synthetic
+Kuota Internet,4,tagihan,synthetic
+Apotek,6,kesehatan,synthetic
+Hoodie,3,belanja,synthetic
+MRT,2,transportasi,synthetic
+2 Muffin,0,makanan,synthetic
+Tomato Soup,0,makanan,synthetic
+milk tea,1,minuman,synthetic
+Brown Sugar Latte,1,minuman,synthetic
+Grape Juice,1,minuman,synthetic
+LAUNDRY,7,lain_lain,synthetic
+PIZZA TOAST,0,makanan,synthetic
+Onion Ring,0,makanan,synthetic
+Nasi Liwet,0,makanan,synthetic
+Orange Juice,1,minuman,synthetic
+Yakult,1,minuman,synthetic
+TOKEN LISTRIK,4,tagihan,synthetic
+kopi espresso,1,minuman,synthetic
+Telur Dadar,0,makanan,synthetic
+3xNasi Goreng Spesial,0,makanan,synthetic
+Minyak Kayu Putih,6,kesehatan,synthetic
+Tart,0,makanan,synthetic
+PULSA,4,tagihan,synthetic
+Rawon,0,makanan,synthetic
+hazelnut latte,1,minuman,synthetic
+tempura,0,makanan,synthetic
+Dokter Gigi,6,kesehatan,synthetic
+SWEATER,3,belanja,synthetic
+Servis Motor,2,transportasi,synthetic
+Obat Diare,6,kesehatan,synthetic
+Taro Latte,1,minuman,synthetic
+Tiramisu,0,makanan,synthetic
+futsal,5,hiburan,synthetic
+GUARDIAN,6,kesehatan,synthetic
+2 Biaya Periksa,6,kesehatan,synthetic
+1 MaximBike,2,transportasi,synthetic
+Mikrolet,2,transportasi,synthetic
+mikrolet,2,transportasi,synthetic
+Skincare,3,belanja,synthetic
+Caramel Macchiato,1,minuman,synthetic
+Obat Saki Kepala,6,kesehatan,synthetic
+Tiket Masuk,5,hiburan,synthetic
+Es Kopi Susu,1,minuman,synthetic
+Gado-Gado,0,makanan,synthetic
+2xFormulir,7,lain_lain,synthetic
+baju,3,belanja,synthetic
+tagihan wifi,4,tagihan,synthetic
+Kopi Aren,1,minuman,synthetic
+GOOD DAY,1,minuman,synthetic
+2xBuku Kuliah,3,belanja,synthetic
+anteraja,7,lain_lain,synthetic
+Nasi Ayam Geprek,0,makanan,synthetic
+maximbike,2,transportasi,synthetic
+2 Spring Roll,0,makanan,synthetic
+Cukur,7,lain_lain,synthetic
+ADMINISTRASI,4,tagihan,synthetic
+Japchae,0,makanan,synthetic
+1 Ikat Pinggang,3,belanja,synthetic
+Salad,0,makanan,synthetic
+ongkos kirim,7,lain_lain,synthetic
+1xAsuransi,4,tagihan,synthetic
+indihome,4,tagihan,synthetic
+Lemonade,1,minuman,synthetic
+Billiard,5,hiburan,synthetic
+ayam geprek,0,makanan,synthetic
+1xFitness,5,hiburan,synthetic
+Kemeja,3,belanja,synthetic
+GYM,5,hiburan,synthetic
+nasi liwet,0,makanan,synthetic
+MaximCar,2,transportasi,synthetic
+ANTASIDA,6,kesehatan,synthetic
+Kopi Gula Aren,1,minuman,synthetic
+LEMONADE,1,minuman,synthetic
+3xMango Drink,1,minuman,synthetic
+obat batuk,6,kesehatan,synthetic
+keyboard,3,belanja,synthetic
+caramel macchiato,1,minuman,synthetic
+Nasi Goren Spesial,0,makanan,synthetic
+Buku Catata,3,belanja,synthetic
+PAKET HEMAT,0,makanan,synthetic
+Lemon Tea,1,minuman,synthetic
+Top Up PUBG,5,hiburan,synthetic
+2 Tiramisu,0,makanan,synthetic
+Strawberry Drink,1,minuman,synthetic
+2xHazelnut Latte,1,minuman,synthetic
+jus jeruk,1,minuman,synthetic
+1xOngkir,7,lain_lain,synthetic
+Obat Sakit Kepala,6,kesehatan,synthetic
+ONGKIR,7,lain_lain,synthetic
+Belanja Online,3,belanja,synthetic
+KOPI CAPPUCCINO,1,minuman,synthetic
+Takoyaki,0,makanan,synthetic
+Nasi Bebek,0,makanan,synthetic
+Folder,3,belanja,synthetic
+stempel,7,lain_lain,synthetic
+biscuit,0,makanan,synthetic
+softener,3,belanja,synthetic
+Paket Data,4,tagihan,synthetic
+token listrik,4,tagihan,synthetic
+Biaya Transfer,7,lain_lain,synthetic
+Ramune,1,minuman,synthetic
+CUKUR,7,lain_lain,synthetic
+2 Lavender Latte,1,minuman,synthetic
+1 Sandal,3,belanja,synthetic
+Vitamin D,6,kesehatan,synthetic
+1xEspresso,1,minuman,synthetic
+1xNasi Goreng Seafood,0,makanan,synthetic
+TIKET WISATA,5,hiburan,synthetic
+Tiket Pesawa,2,transportasi,synthetic
+2xWahana,5,hiburan,synthetic
+Parkir Mobil,2,transportasi,synthetic
+cgv,5,hiburan,synthetic
+Oba Flu,6,kesehatan,synthetic
+rapid test,6,kesehatan,synthetic
+FLASHDISK,3,belanja,synthetic
+ganti oli,2,transportasi,synthetic
+Ayam Geprek,0,makanan,synthetic
+1 Dokter Gigi,6,kesehatan,synthetic
+materai,7,lain_lain,synthetic
+BBQ Chicken,0,makanan,synthetic
+TOP UP MOBILE LEGENDS,5,hiburan,synthetic
+Sepatu,3,belanja,synthetic
+Resep Dokte,6,kesehatan,synthetic
+pameran,5,hiburan,synthetic
+Sedekah,7,lain_lain,synthetic
+tol,2,transportasi,synthetic
+Kupat Tahu,0,makanan,synthetic
+3xIkan Bakar,0,makanan,synthetic
+Mozzarella Stick,0,makanan,synthetic
+1xRetribusi Parkir,2,transportasi,synthetic
+iuran kelas,7,lain_lain,synthetic
+1xSepatu,3,belanja,synthetic
+Gnocchi,0,makanan,synthetic
+Udon,0,makanan,synthetic
+fotokopi,7,lain_lain,synthetic
+frappe,1,minuman,synthetic
+2 Cappuccino,1,minuman,synthetic
+3xBayar Kos,4,tagihan,synthetic
+Tiket Keret,2,transportasi,synthetic
+Konsultas Dokter,6,kesehatan,synthetic
+1xMikrolet,2,transportasi,synthetic
+PASTA,0,makanan,synthetic
+onion ring,0,makanan,synthetic
+Sorbet,0,makanan,synthetic
+JUS MELON,1,minuman,synthetic
+Kopi Espress,1,minuman,synthetic
+2 Taksi Online,2,transportasi,synthetic
+2xIsi Pulsa,4,tagihan,synthetic
+Baya Listrik,4,tagihan,synthetic
+top up pubg,5,hiburan,synthetic
+kertas hvs,3,belanja,synthetic
+SOFTENER,3,belanja,synthetic
+3xSabun,3,belanja,synthetic
+rumah sakit,6,kesehatan,synthetic
+jajan,7,lain_lain,synthetic
+grabcar,2,transportasi,synthetic
+FRAPPE,1,minuman,synthetic
+Kabe Data,3,belanja,synthetic
+tisu,3,belanja,synthetic
+Biscuit,0,makanan,synthetic
+macchiato,1,minuman,synthetic
+Dress,3,belanja,synthetic
+1xKabel Data,3,belanja,synthetic
+3xBowling,5,hiburan,synthetic
+Hazelnu Latte,1,minuman,synthetic
+Oba Diare,6,kesehatan,synthetic
+3xLegalisir,7,lain_lain,synthetic
+2 Token Listrik,4,tagihan,synthetic
+Jus Jambu,1,minuman,synthetic
+mocha,1,minuman,synthetic
+Bruschetta,0,makanan,synthetic
+Croissant,0,makanan,synthetic
+ES BUAH,1,minuman,synthetic
+2xObat Diare,6,kesehatan,synthetic
+Rok,3,belanja,synthetic
+3xMasker,6,kesehatan,synthetic
+RAMUNE,1,minuman,synthetic
+KETOPRAK,0,makanan,synthetic
+Pudding,0,makanan,synthetic
+Cek Dara,6,kesehatan,synthetic
+lasagna,0,makanan,synthetic
+Nasi Goreng Seafood,0,makanan,synthetic
+2xWiFi,4,tagihan,synthetic
+Ramen,0,makanan,synthetic
+Beef Bowl,0,makanan,synthetic
+MUFFIN,0,makanan,synthetic
+FIRST MEDIA,4,tagihan,synthetic
+ikan goreng,0,makanan,synthetic
+Top Up FF,5,hiburan,synthetic
+laundry,7,lain_lain,synthetic
+1xPameran,5,hiburan,synthetic
+1 Nasi Kuning,0,makanan,synthetic
+bioskop,5,hiburan,synthetic
+sepatu,3,belanja,synthetic
+Spring Rol,0,makanan,synthetic
+2xGoRide,2,transportasi,synthetic
+Gorengan,0,makanan,synthetic
+tiket bioskop,5,hiburan,synthetic
+FOLDER,3,belanja,synthetic
+MAP PLASTIK,3,belanja,synthetic
+Sikat Gigi,3,belanja,synthetic
+1xTransjakarta,2,transportasi,synthetic
+print,7,lain_lain,synthetic
+1xObat Flu,6,kesehatan,synthetic
+Teh Susu,1,minuman,synthetic
+Alat Musik,5,hiburan,synthetic
+2xTiket Bus,2,transportasi,synthetic
+SATE KAMBING,0,makanan,synthetic
+2xOjekOnline,2,transportasi,synthetic
+Obat Flu,6,kesehatan,synthetic
+Aqua,1,minuman,synthetic
+DONASI,7,lain_lain,synthetic
+TIKET MASUK,5,hiburan,synthetic
+infaq,7,lain_lain,synthetic
+2 Air PAM,4,tagihan,synthetic
+Kopi Tubruk,1,minuman,synthetic
+pecel lele,0,makanan,synthetic
+2 Setrika,7,lain_lain,synthetic
+Isi Bensi,2,transportasi,synthetic
+shopee,3,belanja,synthetic
+3xUang Kos,4,tagihan,synthetic
+jnt,7,lain_lain,synthetic
+2 Jajan,7,lain_lain,synthetic
+SALON,7,lain_lain,synthetic
+MACCHIATO,1,minuman,synthetic
+Thai Tea,1,minuman,synthetic
+2xRisol,0,makanan,synthetic
+2xBiaya Pendaftaran,7,lain_lain,synthetic
+mineral water,1,minuman,synthetic
+3xJus Alpukat,1,minuman,synthetic
+Grill,0,makanan,synthetic
+2 Top Up FF,5,hiburan,synthetic
+2xKopi Latte,1,minuman,synthetic
+LAIN-LAIN,7,lain_lain,synthetic
+3xIced Americano,1,minuman,synthetic
+Teh Manis,1,minuman,synthetic
+mrt,2,transportasi,synthetic
+Spring Roll,0,makanan,synthetic
+2 Antasida,6,kesehatan,synthetic
+LAVENDER LATTE,1,minuman,synthetic
+netflix,4,tagihan,synthetic
+nasi bakar,0,makanan,synthetic
+donasi,7,lain_lain,synthetic
+Gelang,3,belanja,synthetic
+cabut gigi,6,kesehatan,synthetic
+3xKopi Susu,1,minuman,synthetic
+Pretzel,0,makanan,synthetic
+1 Formulir,7,lain_lain,synthetic
+top up mobile legends,5,hiburan,synthetic
+mushroom soup,0,makanan,synthetic
+lontong,0,makanan,synthetic
+Sate Ayam,0,makanan,synthetic
+3xJus Mangga,1,minuman,synthetic
+Soup,0,makanan,synthetic
+Mushroom Soup,0,makanan,synthetic
+good day,1,minuman,synthetic
+UDON,0,makanan,synthetic
+3xAntasida,6,kesehatan,synthetic
+1 Chicken Bowl,0,makanan,synthetic
+Rapi Test,6,kesehatan,synthetic
+Biaya Admi,4,tagihan,synthetic
+BAYAR LISTRIK,4,tagihan,synthetic
+Banana Bread,0,makanan,synthetic
+tiket mrt,2,transportasi,synthetic
+grabbike,2,transportasi,synthetic
+Biaya Transfe,7,lain_lain,synthetic
+3xKopi Gula Aren,1,minuman,synthetic
+3xTaksi Online,2,transportasi,synthetic
+betadine,6,kesehatan,synthetic
+Brownie,0,makanan,synthetic
+es kelapa muda,1,minuman,synthetic
+BIAYA BEROBAT,6,kesehatan,synthetic
+1 Ayam Penyet,0,makanan,synthetic
+pudding,0,makanan,synthetic
+brown sugar latte,1,minuman,synthetic
+1 Nasi Box,0,makanan,synthetic
+Kereta Api,2,transportasi,synthetic
+Tagihan Telepo,4,tagihan,synthetic
+IKAT PINGGANG,3,belanja,synthetic
+Cuc Baju,7,lain_lain,synthetic
+2 Cinepolis,5,hiburan,synthetic
+TOPI,3,belanja,synthetic
+Iced Americano,1,minuman,synthetic
+sparkling water,1,minuman,synthetic
+disney plus,4,tagihan,synthetic
+3xSewa Kos,4,tagihan,synthetic
+Es Dawet,1,minuman,synthetic
+TEH BOTOL,1,minuman,synthetic
+1 Brown Sugar,1,minuman,synthetic
+2 Sikat Gigi,3,belanja,synthetic
+Fried Noodle,0,makanan,synthetic
+DEODORAN,3,belanja,synthetic
+VOUCHER GAME,5,hiburan,synthetic
+Keret Api,2,transportasi,synthetic
+3xBiaya Admin,4,tagihan,synthetic
+paracetamol,6,kesehatan,synthetic
+Nasi Pecel,0,makanan,synthetic
+banana bread,0,makanan,synthetic
+KEBUN BINATANG,5,hiburan,synthetic
+Taksi Onlin,2,transportasi,synthetic
+BUFFALO WING,0,makanan,synthetic
+pensil,3,belanja,synthetic
+cat akrilik,5,hiburan,synthetic
+formulir,7,lain_lain,synthetic
+buku novel,5,hiburan,synthetic
+2 Le Mineral,1,minuman,synthetic
+Apple Juice,1,minuman,synthetic
+3xKeyboard,3,belanja,synthetic
+2xToken Listrik,4,tagihan,synthetic
+kontrakan,4,tagihan,synthetic
+nasi pecel,0,makanan,synthetic
+jne,7,lain_lain,synthetic
+Kebu Binatang,5,hiburan,synthetic
+2 Materai,7,lain_lain,synthetic
+Headset,3,belanja,synthetic
+1 Kopi Americano,1,minuman,synthetic
+dokter gigi,6,kesehatan,synthetic
+TOP UP FF,5,hiburan,synthetic
+2xPower Bank,3,belanja,synthetic
+CARAMEL MACCHIATO,1,minuman,synthetic
+roti bakar,0,makanan,synthetic
+Paket Hemat,0,makanan,synthetic
+Kimbap,0,makanan,synthetic
+Obat Batuk,6,kesehatan,synthetic
+Nachos,0,makanan,synthetic
+TRANSFER,7,lain_lain,synthetic
+Carpaccio,0,makanan,synthetic
+folder,3,belanja,synthetic
+Kebun Binatan,5,hiburan,synthetic
+Buffal Wing,0,makanan,synthetic
+wahana,5,hiburan,synthetic
+lrt,2,transportasi,synthetic
+2 Matcha,1,minuman,synthetic
+PEMPEK,0,makanan,synthetic
+crepe,0,makanan,synthetic
+MOCHA,1,minuman,synthetic
+BAYAR KOS,4,tagihan,synthetic
+Es Kelapa Muda,1,minuman,synthetic
+1 Textbook,3,belanja,synthetic
+Lab Kesehata,6,kesehatan,synthetic
+antasida,6,kesehatan,synthetic
+2 Nasi Uduk,0,makanan,synthetic
+Hojicha,1,minuman,synthetic
+1 Obat Maag,6,kesehatan,synthetic
+1xRamen,0,makanan,synthetic
+tiket event,5,hiburan,synthetic
+THAI TEA,1,minuman,synthetic
+Top Up Mobil Legends,5,hiburan,synthetic
+E-TOLL,2,transportasi,synthetic
+Siomay,0,makanan,synthetic
+3xDisney Plus,4,tagihan,synthetic
+SERVIS MOTOR,2,transportasi,synthetic
+2 Kopi Gula Aren,1,minuman,synthetic
+RAPID TEST,6,kesehatan,synthetic
+3xCold Brew,1,minuman,synthetic
+TEH HIJAU,1,minuman,synthetic
+1xIsi Bensin,2,transportasi,synthetic
+PARACETAMOL,6,kesehatan,synthetic
+Teh Hijau,1,minuman,synthetic
+Tisu,3,belanja,synthetic
+amoxicillin,6,kesehatan,synthetic
+stabilo,3,belanja,synthetic
+2 Croissant,0,makanan,synthetic
+1 MRT,2,transportasi,synthetic
+tambal gigi,6,kesehatan,synthetic
+1xKopi Instan,1,minuman,synthetic
+2 Spotify,4,tagihan,synthetic
+Kopi Cappuccino,1,minuman,synthetic
+japchae,0,makanan,synthetic
+1 Bakso,0,makanan,synthetic
+Tiket Konse,5,hiburan,synthetic
+French Toast,0,makanan,synthetic
+Kopi Hitam,1,minuman,synthetic
+SICEPAT,7,lain_lain,synthetic
+2xServis Motor,2,transportasi,synthetic
+2 CGV,5,hiburan,synthetic
+alat musik,5,hiburan,synthetic
+2xJus Melon,1,minuman,synthetic
+KUOTA INTERNET,4,tagihan,synthetic
+pisang goreng,0,makanan,synthetic
+headset,3,belanja,synthetic
+1 Disney Plus,4,tagihan,synthetic
+3xGrabExpress,7,lain_lain,synthetic
+3xLumpia,0,makanan,synthetic
+deodoran,3,belanja,synthetic
+SPAGHETTI,0,makanan,synthetic
+YOUTUBE PREMIUM,4,tagihan,synthetic
+Muffin,0,makanan,synthetic
+Es Buah,1,minuman,synthetic
+Ayam Kremes,0,makanan,synthetic
+INTERNET BULANAN,4,tagihan,synthetic
+Nescafe,1,minuman,synthetic
+2 Tiket Konser,5,hiburan,synthetic
+1 Cinepolis,5,hiburan,synthetic
+Tenis,5,hiburan,synthetic
+Good Day,1,minuman,synthetic
+TIKET KERETA,2,transportasi,synthetic
+2xSate Ayam,0,makanan,synthetic
+tomato soup,0,makanan,synthetic
+Earphone,3,belanja,synthetic
+Galbi,0,makanan,synthetic
+2 Crepe,0,makanan,synthetic
+1 Kolam Renang,5,hiburan,synthetic
+2 OjekOnline,2,transportasi,synthetic
+pulsa,4,tagihan,synthetic
+KIMIA FARMA,6,kesehatan,synthetic
+2xDiamond ML,5,hiburan,synthetic
+first media,4,tagihan,synthetic
+Ear Grey,1,minuman,synthetic
+SOUP,0,makanan,synthetic
+Pizza,0,makanan,synthetic
+2 Textbook,3,belanja,synthetic
+Boba,1,minuman,synthetic
+Bebek Goreng,0,makanan,synthetic
+diamond ml,5,hiburan,synthetic
+Nasi Ayam Kremes,0,makanan,synthetic
+Tagiha Listrik,4,tagihan,synthetic
+rice bowl,0,makanan,synthetic
+Nasi Kuning,0,makanan,synthetic
+FUTSAL,5,hiburan,synthetic
+SIKAT GIGI,3,belanja,synthetic
+LEGALISIR,7,lain_lain,synthetic
+Tike Wisata,5,hiburan,synthetic
+bruschetta,0,makanan,synthetic
+AMERICANO,1,minuman,synthetic
+BIBIMBAP,0,makanan,synthetic
+1 Detergen,3,belanja,synthetic
+Tiket Biosko,5,hiburan,synthetic
+Club Sandwich,0,makanan,synthetic
+2xSikat Gigi,3,belanja,synthetic
+2 Futsal,5,hiburan,synthetic
+NASI AYAM KREMES,0,makanan,synthetic
+Jus Melon,1,minuman,synthetic
+2 IndiHome,4,tagihan,synthetic
+1xBLT,0,makanan,synthetic
+Buffalo Wing,0,makanan,synthetic
+Ikan Goreng,0,makanan,synthetic
+bowling,5,hiburan,synthetic
+lavender latte,1,minuman,synthetic
+IURAN ORGANISASI,7,lain_lain,synthetic
+tas,3,belanja,synthetic
+Bulgogi,0,makanan,synthetic
+Jjajangmyeon,0,makanan,synthetic
+maxim,2,transportasi,synthetic
+Macaron,0,makanan,synthetic
+2 Bioskop,5,hiburan,synthetic
+Soba,0,makanan,synthetic
+Buku Kulia,3,belanja,synthetic
+2 Tisu,3,belanja,synthetic
+sedekah,7,lain_lain,synthetic
+2xRumah Sakit,6,kesehatan,synthetic
+Baterai,3,belanja,synthetic
+Parkir Moto,2,transportasi,synthetic
+goride,2,transportasi,synthetic
+Potong Rambu,7,lain_lain,synthetic
+METROMINI,2,transportasi,synthetic
+ikat pinggang,3,belanja,synthetic
+nasi bebek,0,makanan,synthetic
+TEXTBOOK,3,belanja,synthetic
+masker,6,kesehatan,synthetic
+BUSWAY,2,transportasi,synthetic
+1xSpring Roll,0,makanan,synthetic
+2 MaximCar,2,transportasi,synthetic
+Tike Masuk,5,hiburan,synthetic
+CARDIGAN,3,belanja,synthetic
+3xTenis,5,hiburan,synthetic
+Gulai,0,makanan,synthetic
+e-toll,2,transportasi,synthetic
+2xBus,2,transportasi,synthetic
+2 Vitamin D,6,kesehatan,synthetic
+KOMIK,5,hiburan,synthetic
+MASKER,6,kesehatan,synthetic
+1 Grab,2,transportasi,synthetic
+Baya Kos,4,tagihan,synthetic
+2xBubble Tea,1,minuman,synthetic
+1 Kontrakan,4,tagihan,synthetic
+RESEP DOKTER,6,kesehatan,synthetic
+Tagiha WiFi,4,tagihan,synthetic
+nescafe,1,minuman,synthetic
+Pin Lemonade,1,minuman,synthetic
+2 Jus Jambu,1,minuman,synthetic
+3xBuku Kuliah,3,belanja,synthetic
+1 Tagihan Listrik,4,tagihan,synthetic
+Ikan Baka,0,makanan,synthetic
+BIOSKOP,5,hiburan,synthetic
+1xAir Mineral,1,minuman,synthetic
+tokopedia,3,belanja,synthetic
+2xTiket MRT,2,transportasi,synthetic
+1xSpotify,4,tagihan,synthetic
+1xMaxim,2,transportasi,synthetic
+STEAM,5,hiburan,synthetic
+buku catatan,3,belanja,synthetic
+3xOjek,2,transportasi,synthetic
+scan,7,lain_lain,synthetic
+1 Milkshake,1,minuman,synthetic
+pdam,4,tagihan,synthetic
+power bank,3,belanja,synthetic
+Tagiha Telepon,4,tagihan,synthetic
+Bibimbap,0,makanan,synthetic
+3xTiket Event,5,hiburan,synthetic
+TAMBAL GIGI,6,kesehatan,synthetic
+1 Transfer,7,lain_lain,synthetic
+KUPAT TAHU,0,makanan,synthetic
+Mango Drink,1,minuman,synthetic
+Tongseng,0,makanan,synthetic
+teh hijau,1,minuman,synthetic
+uc pubg,5,hiburan,synthetic
+Dumpling,0,makanan,synthetic
+3xSkincare,3,belanja,synthetic
+Vitami D,6,kesehatan,synthetic
+2 Kuota Internet,4,tagihan,synthetic
+1xNugget,0,makanan,synthetic
+SOFTLENS,6,kesehatan,synthetic
+HOODIE,3,belanja,synthetic
+Caramel Latte,1,minuman,synthetic
+Chicken Bowl,0,makanan,synthetic
+RAWON,0,makanan,synthetic
+1 Taksi Online,2,transportasi,synthetic
+Nasi Uduk,0,makanan,synthetic
+Red Velvet,0,makanan,synthetic
+1xJaket,3,belanja,synthetic
+3xVoucher Game,5,hiburan,synthetic
+caramel latte,1,minuman,synthetic
+lain-lain,7,lain_lain,synthetic
+GRAB,2,transportasi,synthetic
+Fries,0,makanan,synthetic
+1 Minyak Kayu Putih,6,kesehatan,synthetic
+Kopi Gul Aren,1,minuman,synthetic
+UC PUB,5,hiburan,synthetic
+Pempek,0,makanan,synthetic
+grill,0,makanan,synthetic
+1 Setrika,7,lain_lain,synthetic
+1 SPBU,2,transportasi,synthetic
+Tahu Tempe,0,makanan,synthetic
+Diamond ML,5,hiburan,synthetic
+CAT AKRILIK,5,hiburan,synthetic
+GOCAR,2,transportasi,synthetic
+ES CAMPUR,1,minuman,synthetic
+3xLensa Kontak,6,kesehatan,synthetic
+1 Map Plastik,3,belanja,synthetic
+1 Rapid Test,6,kesehatan,synthetic
+BLAZER,3,belanja,synthetic
+penggaris,3,belanja,synthetic
+MATERAI,7,lain_lain,synthetic
+1xLRT,2,transportasi,synthetic
+2xTransfer,7,lain_lain,synthetic
+Tagihan Listri,4,tagihan,synthetic
+NASI BEBEK,0,makanan,synthetic
+Internet Bulana,4,tagihan,synthetic
+3xObat Sakit Kepala,6,kesehatan,synthetic
+BLT,0,makanan,synthetic
+2 Baju,3,belanja,synthetic
+2 Vitamin C,6,kesehatan,synthetic
+2xApple Juice,1,minuman,synthetic
+Telur Ceplo,0,makanan,synthetic
+JUS SEMANGKA,1,minuman,synthetic
+Fried Rice,0,makanan,synthetic
+Matcha Latte,1,minuman,synthetic
+3xMaxim,2,transportasi,synthetic
+CUCI BAJU,7,lain_lain,synthetic
+Kabel Dat,3,belanja,synthetic
+bbm,2,transportasi,synthetic
+2 Kolam Renang,5,hiburan,synthetic
+carpaccio,0,makanan,synthetic
+2xSabun,3,belanja,synthetic
+2xDokter,6,kesehatan,synthetic
+TOKOPEDIA,3,belanja,synthetic
+PERTALITE,2,transportasi,synthetic
+3xFestival,5,hiburan,synthetic
+2 Amoxicillin,6,kesehatan,synthetic
+2xBBQ Chicken,0,makanan,synthetic
+GRAPE JUICE,1,minuman,synthetic
+parkir motor,2,transportasi,synthetic
+isi bensin,2,transportasi,synthetic
+kaos,3,belanja,synthetic
+biaya kos,4,tagihan,synthetic
+2 Pempek,0,makanan,synthetic
+2xDimsum,0,makanan,synthetic
+top up genshin,5,hiburan,synthetic
+KONTRAKAN,4,tagihan,synthetic
+MINYAK KAYU PUTIH,6,kesehatan,synthetic
+1xTiket MRT,2,transportasi,synthetic
+Buku Nove,5,hiburan,synthetic
+JILID,7,lain_lain,synthetic
+1 Tokopedia,3,belanja,synthetic
+cukur,7,lain_lain,synthetic
+2xKacamata,6,kesehatan,synthetic
+obat sakit kepala,6,kesehatan,synthetic
+sorbet,0,makanan,synthetic
+BIAYA KOS,4,tagihan,synthetic
+2xRok,3,belanja,synthetic
+2xPulpen,3,belanja,synthetic
+TISU,3,belanja,synthetic
+es dawet,1,minuman,synthetic
+kopi instan,1,minuman,synthetic
+TTEOKBOKKI,0,makanan,synthetic
+RISOL,0,makanan,synthetic
+Pink Lemonade,1,minuman,synthetic
+Ice Cream,0,makanan,synthetic
+Paket Dat,4,tagihan,synthetic
+NONTON FILM,5,hiburan,synthetic
+TARO LATTE,1,minuman,synthetic
+konsultasi dokter,6,kesehatan,synthetic
+legalisir,7,lain_lain,synthetic
+2xLemon Tea,1,minuman,synthetic
+APPLE MUSIC,4,tagihan,synthetic
+donut,0,makanan,synthetic
+2xTopi,3,belanja,synthetic
+1 Tiket Kereta,2,transportasi,synthetic
+KOPI MOCHA,1,minuman,synthetic
+Nasi Warteg,0,makanan,synthetic
+1xOnion Ring,0,makanan,synthetic
+KLINIK,6,kesehatan,synthetic
+Dimsum,0,makanan,synthetic
+bayar listrik,4,tagihan,synthetic
+PRETZEL,0,makanan,synthetic
+parkir,2,transportasi,synthetic
+BADMINTON,5,hiburan,synthetic
+gorengan,0,makanan,synthetic
+Crepe,0,makanan,synthetic
+CLUB SANDWICH,0,makanan,synthetic
+Kopi Instan,1,minuman,synthetic
+APPLE JUICE,1,minuman,synthetic
+ojekonline,2,transportasi,synthetic
+cap cay,0,makanan,synthetic
+kimbap,0,makanan,synthetic
+Sausage Brea,0,makanan,synthetic
+vitamin c,6,kesehatan,synthetic
+adobe,4,tagihan,synthetic
+Latte,1,minuman,synthetic
+FESTIVAL,5,hiburan,synthetic
+Kop Instan,1,minuman,synthetic
+mouse,3,belanja,synthetic
+JAPCHAE,0,makanan,synthetic
+3xSedekah,7,lain_lain,synthetic
+2 Pulsa,4,tagihan,synthetic
+Martabak,0,makanan,synthetic
+2xEarphone,3,belanja,synthetic
+ice cream,0,makanan,synthetic
+2xApple Music,4,tagihan,synthetic
+kopi tubruk,1,minuman,synthetic
+1xNescafe,1,minuman,synthetic
+2xAdministrasi,4,tagihan,synthetic
+APOTEK,6,kesehatan,synthetic
+3xDompet,3,belanja,synthetic
+Token Listri,4,tagihan,synthetic
+COMMUTER LINE,2,transportasi,synthetic
+Ketoprak,0,makanan,synthetic
+BUBBLE TEA,1,minuman,synthetic
+Taks Online,2,transportasi,synthetic
+1xAngkot,2,transportasi,synthetic
+1xMultivitamin,6,kesehatan,synthetic
+garlic bread,0,makanan,synthetic
+Nasi Campur,0,makanan,synthetic
+es buah,1,minuman,synthetic
+belanja online,3,belanja,synthetic
+GORIDE,2,transportasi,synthetic
+1xBeef Bowl,0,makanan,synthetic
+Nasi Goreng Spesial,0,makanan,synthetic
+1xCinepolis,5,hiburan,synthetic
+earl grey,1,minuman,synthetic
+biaya transfer,7,lain_lain,synthetic
+KAOS,3,belanja,synthetic
+3xGnocchi,0,makanan,synthetic
+1 Taro Latte,1,minuman,synthetic
+Power Ban,3,belanja,synthetic
+TEMPURA,0,makanan,synthetic
+PARKIR,2,transportasi,synthetic
+1xGarlic Bread,0,makanan,synthetic
+pink lemonade,1,minuman,synthetic
+2 Obat Sakit Kepala,6,kesehatan,synthetic
+SPOTIFY,4,tagihan,synthetic
+Lemo Tea,1,minuman,synthetic
+1 Martabak,0,makanan,synthetic
+Nasi Padang,0,makanan,synthetic
+1xEs Buah,1,minuman,synthetic
+siomay,0,makanan,synthetic
+2 Bus,2,transportasi,synthetic
+Konsultasi Dokte,6,kesehatan,synthetic
+KONSULTASI DOKTER,6,kesehatan,synthetic
+GRABEXPRESS,7,lain_lain,synthetic
+2xTop Up Genshin,5,hiburan,synthetic
+SEWA KOS,4,tagihan,synthetic
+klinik,6,kesehatan,synthetic
+Ika Goreng,0,makanan,synthetic
+tagihan hp,4,tagihan,synthetic
+1 Biaya Periksa,6,kesehatan,synthetic
+KABEL DATA,3,belanja,synthetic
+map plastik,3,belanja,synthetic
+IKAN BAKAR,0,makanan,synthetic
+dompet,3,belanja,synthetic
+sabun,3,belanja,synthetic
+2 SPBU,2,transportasi,synthetic
+AMOXICILLIN,6,kesehatan,synthetic
+3xMaterai,7,lain_lain,synthetic
+1xFormulir,7,lain_lain,synthetic
+2 Orange Juice,1,minuman,synthetic
+Pake Data,4,tagihan,synthetic
+IURAN KELAS,7,lain_lain,synthetic
+MAXIMCAR,2,transportasi,synthetic
+Tiket Even,5,hiburan,synthetic
+3xFlashdisk,3,belanja,synthetic
+3xCGV,5,hiburan,synthetic
+2 Modul,3,belanja,synthetic
+2xLRT,2,transportasi,synthetic
+COOKIE,0,makanan,synthetic
+BUKU KULIAH,3,belanja,synthetic
+3xHotdog,0,makanan,synthetic
+1 Top Up PUBG,5,hiburan,synthetic
+Burger,0,makanan,synthetic
+DETERGEN,3,belanja,synthetic
+Lontong,0,makanan,synthetic
+Alat Musi,5,hiburan,synthetic
+Brown Suga,1,minuman,synthetic
+suplemen,6,kesehatan,synthetic
+ASURANSI,4,tagihan,synthetic
+brown sugar,1,minuman,synthetic
+SUPLEMEN,6,kesehatan,synthetic
+2 Lain-lain,7,lain_lain,synthetic
+Roti Baka,0,makanan,synthetic
+CAPPUCCINO,1,minuman,synthetic
+2xBilliard,5,hiburan,synthetic
+transjakarta,2,transportasi,synthetic
+obat maag,6,kesehatan,synthetic
+xxi,5,hiburan,synthetic
+iuran,4,tagihan,synthetic
+kopi aren,1,minuman,synthetic
+SAMPO,3,belanja,synthetic
+BAKSO,0,makanan,synthetic
+3xGym,5,hiburan,synthetic
+Soto,0,makanan,synthetic
+3xDokter,6,kesehatan,synthetic
+3xSalon,7,lain_lain,synthetic
+DATA INTERNET,4,tagihan,synthetic
+metromini,2,transportasi,synthetic
+2 Parkir,2,transportasi,synthetic
+Teh Boto,1,minuman,synthetic
+1xDisney Plus,4,tagihan,synthetic
+EARPHONE,3,belanja,synthetic
+2 Print,7,lain_lain,synthetic
+3xCinepolis,5,hiburan,synthetic
+kuota internet,4,tagihan,synthetic
+PAKET DATA,4,tagihan,synthetic
+2xFrappe,1,minuman,synthetic
+Tagiha Air,4,tagihan,synthetic
+espresso,1,minuman,synthetic
+YouTube Premiu,4,tagihan,synthetic
+Tar Latte,1,minuman,synthetic
+KOPI INSTAN,1,minuman,synthetic
+sicepat,7,lain_lain,synthetic
+1 Tteokbokki,0,makanan,synthetic
+servis motor,2,transportasi,synthetic
+PENGGARIS,3,belanja,synthetic
+INFAQ,7,lain_lain,synthetic
+Risol,0,makanan,synthetic
+1xGanti Oli,2,transportasi,synthetic
+DIMSUM,0,makanan,synthetic
+jus alpukat,1,minuman,synthetic
+2xRamune,1,minuman,synthetic
+PUSKESMAS,6,kesehatan,synthetic
+Dakgalbi,0,makanan,synthetic
+Kop Dalgona,1,minuman,synthetic
+Dokter Gig,6,kesehatan,synthetic
+STABILO,3,belanja,synthetic
+MILKSHAKE,1,minuman,synthetic
+1xSiCepat,7,lain_lain,synthetic
+Iced Latt,1,minuman,synthetic
+EARL GREY,1,minuman,synthetic
+boba,1,minuman,synthetic
+1xRumah Sakit,6,kesehatan,synthetic
+2 Cireng,0,makanan,synthetic
+2xPasta Gigi,3,belanja,synthetic
+JAKET,3,belanja,synthetic
+Biay Transfer,7,lain_lain,synthetic
+lemon tea,1,minuman,synthetic
+Peppermint Tea,1,minuman,synthetic
+sikat gigi,3,belanja,synthetic
+Tagiha HP,4,tagihan,synthetic
+2 Tiket Pesawat,2,transportasi,synthetic
+2 Iced Latte,1,minuman,synthetic
+kopi americano,1,minuman,synthetic
+1xTiket Event,5,hiburan,synthetic
+CHEESECAKE,0,makanan,synthetic
+Brown Suga Latte,1,minuman,synthetic
+OBAT BATUK,6,kesehatan,synthetic
+3xBaju,3,belanja,synthetic
+1 Charger,3,belanja,synthetic
+Vanill Latte,1,minuman,synthetic
+1xBioskop,5,hiburan,synthetic
+1xKopi Gula Aren,1,minuman,synthetic
+2 Pasta,0,makanan,synthetic
+lensa kontak,6,kesehatan,synthetic
+2xHotdog,0,makanan,synthetic
+3xNasi Bebek,0,makanan,synthetic
+dokter,6,kesehatan,synthetic
+COLD BREW,1,minuman,synthetic
+2xKomik,5,hiburan,synthetic
+obat diare,6,kesehatan,synthetic
+Minyak Kayu Puti,6,kesehatan,synthetic
+DISNEY PLUS,4,tagihan,synthetic
+TEH SUSU,1,minuman,synthetic
+3xApple Music,4,tagihan,synthetic
+2 Zakat,7,lain_lain,synthetic
+Ika Pinggang,3,belanja,synthetic
+ketoprak,0,makanan,synthetic
+1 Ramune,1,minuman,synthetic
+1xBBM,2,transportasi,synthetic
+BILLIARD,5,hiburan,synthetic
+Ala Musik,5,hiburan,synthetic
+detergen,3,belanja,synthetic
+internet bulanan,4,tagihan,synthetic
+SETRIKA,7,lain_lain,synthetic
+MUSHROOM SOUP,0,makanan,synthetic
+1xBlazer,3,belanja,synthetic
+CELANA,3,belanja,synthetic
+blazer,3,belanja,synthetic
+PULPEN,3,belanja,synthetic
+BROWN SUGAR,1,minuman,synthetic
+1 Netflix,4,tagihan,synthetic
+2 Top Up PUBG,5,hiburan,synthetic
+Cuci Baj,7,lain_lain,synthetic
+Kop Tubruk,1,minuman,synthetic
+LATTE,1,minuman,synthetic
+PAMERAN,5,hiburan,synthetic
+3xATM,7,lain_lain,synthetic
+pasta gigi,3,belanja,synthetic
+SOTO,0,makanan,synthetic
+Canv Pro,4,tagihan,synthetic
+nasi goreng spesial,0,makanan,synthetic
+3xPertamax,2,transportasi,synthetic
+billiard,5,hiburan,synthetic
+1 Voucher Game,5,hiburan,synthetic
+3xPulsa,4,tagihan,synthetic
+celana,3,belanja,synthetic
+tahu goreng,0,makanan,synthetic
+MAKAN SIANG,0,makanan,synthetic
+3xXXI,5,hiburan,synthetic
+tempe goreng,0,makanan,synthetic
+TART,0,makanan,synthetic
+1xKlinik,6,kesehatan,synthetic
+HOTDOG,0,makanan,synthetic
+2xAlat Musik,5,hiburan,synthetic
+bayar kos,4,tagihan,synthetic
+3xDonasi,7,lain_lain,synthetic
+soup,0,makanan,synthetic
+1 PCR,6,kesehatan,synthetic
+bensin,2,transportasi,synthetic
+Es Kelap Muda,1,minuman,synthetic
+textbook,3,belanja,synthetic
+ES TEH,1,minuman,synthetic
+1xSandal,3,belanja,synthetic
+Ikan Bakar,0,makanan,synthetic
+TAGIHAN WIFI,4,tagihan,synthetic
+1xLain-lain,7,lain_lain,synthetic
+1xBiaya Kos,4,tagihan,synthetic
+2xCanva Pro,4,tagihan,synthetic
+3xBPJS Kesehatan,4,tagihan,synthetic
+Lavender Latte,1,minuman,synthetic
+2 Headset,3,belanja,synthetic
+Ganache,0,makanan,synthetic
+Aya Bakar,0,makanan,synthetic
+2xBiaya Berobat,6,kesehatan,synthetic
+FRIES,0,makanan,synthetic
+ENERGEN,1,minuman,synthetic
+uang kos,4,tagihan,synthetic
+1 GoSend,7,lain_lain,synthetic
+Ikan Goren,0,makanan,synthetic
+2xEnergen,1,minuman,synthetic
+1xTahu Ikan Oma Giok,0,makanan,synthetic
+2xMinyak Kayu Putih,6,kesehatan,synthetic
+Garlic Bread,0,makanan,synthetic
+2xIuran,4,tagihan,synthetic
+3xSandwich,0,makanan,synthetic
+Mobil Onlin,2,transportasi,synthetic
+1xMobil Online,2,transportasi,synthetic
+2xTeh Manis,1,minuman,synthetic
+2xJajan,7,lain_lain,synthetic
+2 Tomato Soup,0,makanan,synthetic
+VANILLA LATTE,1,minuman,synthetic
+2 Alat Musik,5,hiburan,synthetic
+2xBaju,3,belanja,synthetic
+1 Nasi Pecel,0,makanan,synthetic
+GRABCAR,2,transportasi,synthetic
+Iuran Organisas,7,lain_lain,synthetic
+sampo,3,belanja,synthetic
+TAKOYAKI,0,makanan,synthetic
+SUNSCREEN,3,belanja,synthetic
+1xFrench Toast,0,makanan,synthetic
+1xFotokopi,7,lain_lain,synthetic
+2xPatungan,7,lain_lain,synthetic
+2 Spaghetti,0,makanan,synthetic
+2 Diamond ML,5,hiburan,synthetic
+patungan,7,lain_lain,synthetic
+spotify,4,tagihan,synthetic
+red velvet,0,makanan,synthetic
+2 Kabel Data,3,belanja,synthetic
+3xDamri,2,transportasi,synthetic
+2 Parkir Motor,2,transportasi,synthetic
+FRENCH TOAST,0,makanan,synthetic
+POCARI SWEAT,1,minuman,synthetic
+2xPCR,6,kesehatan,synthetic
+2xGanache,0,makanan,synthetic
+3xLampu,3,belanja,synthetic
+1 Mie Goreng,0,makanan,synthetic
+2 Milk Tea,1,minuman,synthetic
+SHOPEE,3,belanja,synthetic
+1xCek Darah,6,kesehatan,synthetic
+3xTop Up Genshin,5,hiburan,synthetic
+2 Cabut Gigi,6,kesehatan,synthetic
+3xRetribusi Parkir,2,transportasi,synthetic
+sunscreen,3,belanja,synthetic
+3xPotong Rambut,7,lain_lain,synthetic
+1xGrab,2,transportasi,synthetic
+1 Frappe,1,minuman,synthetic
+1 Es Kelapa Muda,1,minuman,synthetic
+americano,1,minuman,synthetic
+ICE CREAM,0,makanan,synthetic
+1 Buku Novel,5,hiburan,synthetic
+GNOCCHI,0,makanan,synthetic
+eclair,0,makanan,synthetic
+administrasi,4,tagihan,synthetic
+3xEarphone,3,belanja,synthetic
+ANGKOT,2,transportasi,synthetic
+kolam renang,5,hiburan,synthetic
+3xJajan,7,lain_lain,synthetic
+TIKET KRL,2,transportasi,synthetic
+tenis,5,hiburan,synthetic
+1xGrabExpress,7,lain_lain,synthetic
+Mie Ayam,0,makanan,synthetic
+SCAN,7,lain_lain,synthetic
+youtube premium,4,tagihan,synthetic
+2 YouTube Premium,4,tagihan,synthetic
+WRAP,0,makanan,synthetic
+Servis Moto,2,transportasi,synthetic
+obat flu,6,kesehatan,synthetic
+ROK,3,belanja,synthetic
+Buk Novel,5,hiburan,synthetic
+burger,0,makanan,synthetic
+2 Apotek,6,kesehatan,synthetic
+telur ceplok,0,makanan,synthetic
+1 Belanja Online,3,belanja,synthetic
+BUKU CATATAN,3,belanja,synthetic
+1 Paracetamol,6,kesehatan,synthetic
+2 Tiket Kereta,2,transportasi,synthetic
+FITNESS,5,hiburan,synthetic
+Caesar Salad,0,makanan,synthetic
+2xHoodie,3,belanja,synthetic
+TOP UP PUBG,5,hiburan,synthetic
+festival,5,hiburan,synthetic
+Popcorn,0,makanan,synthetic
+iuran organisasi,7,lain_lain,synthetic
+3xSandal,3,belanja,synthetic
+2xData Internet,4,tagihan,synthetic
+1 Microsoft 365,4,tagihan,synthetic
+gocar,2,transportasi,synthetic
+2 Hojicha,1,minuman,synthetic
+Obat Maa,6,kesehatan,synthetic
+TELUR DADAR,0,makanan,synthetic
+Biay Periksa,6,kesehatan,synthetic
+2 Es Kopi Susu,1,minuman,synthetic
+JUS MANGGA,1,minuman,synthetic
+pertalite,2,transportasi,synthetic
+3xPrint,7,lain_lain,synthetic
+cek darah,6,kesehatan,synthetic
+2xPie,0,makanan,synthetic
+retribusi parkir,2,transportasi,synthetic
+2 Paracetamol,6,kesehatan,synthetic
+ikan bakar,0,makanan,synthetic
+NASI GORENG KAMPUNG,0,makanan,synthetic
+BOWLING,5,hiburan,synthetic
+1 Apple Music,4,tagihan,synthetic
+3xEgg Tart,0,makanan,synthetic
+isi pulsa,4,tagihan,synthetic
+Ayam Penye,0,makanan,synthetic
+1 Jajan,7,lain_lain,synthetic
+3xTaman Bermain,5,hiburan,synthetic
+iced latte,1,minuman,synthetic
+Rice Bowl,0,makanan,synthetic
+baterai,3,belanja,synthetic
+Nasi Kunin,0,makanan,synthetic
+1 Print,7,lain_lain,synthetic
+lab kesehatan,6,kesehatan,synthetic
+1xKemeja,3,belanja,synthetic
+Lychee Drin,1,minuman,synthetic
+2 Uang Kos,4,tagihan,synthetic
+3xParkir,2,transportasi,synthetic
+1xGuardian,6,kesehatan,synthetic
+1 OjekOnline,2,transportasi,synthetic
+2xCaesar Salad,0,makanan,synthetic
+RUMAH SAKIT,6,kesehatan,synthetic
+1 WiFi,4,tagihan,synthetic
+MULTIVITAMIN,6,kesehatan,synthetic
+Egg Tar,0,makanan,synthetic
+2 Nescafe,1,minuman,synthetic
+1 Taman Bermain,5,hiburan,synthetic
+tiket pesawat,2,transportasi,synthetic
+PINK LEMONADE,1,minuman,synthetic
+Caramel Latt,1,minuman,synthetic
+jjajangmyeon,0,makanan,synthetic
+3xGuardian,6,kesehatan,synthetic
+TIKET PESAWAT,2,transportasi,synthetic
+3xSunscreen,3,belanja,synthetic
+3xIce Cream,0,makanan,synthetic
+1xRawon,0,makanan,synthetic
+1 Adobe,4,tagihan,synthetic
+1xBowling,5,hiburan,synthetic
+bus,2,transportasi,synthetic
+2 Buku Novel,5,hiburan,synthetic
+Gant Oli,2,transportasi,synthetic
+3xTahu Ikan Oma Giok,0,makanan,synthetic
+1 Steam,5,hiburan,synthetic
+LASAGNA,0,makanan,synthetic
+oolong tea,1,minuman,synthetic
+TOP UP GAME,5,hiburan,synthetic
+PARKIR MOTOR,2,transportasi,synthetic
+1 Vitamin D,6,kesehatan,synthetic
+2xNachos,0,makanan,synthetic
+2xAsuransi,4,tagihan,synthetic
+Nasi Baka,0,makanan,synthetic
+french toast,0,makanan,synthetic
+2xTokopedia,3,belanja,synthetic
+GELATO,0,makanan,synthetic
+1xStempel,7,lain_lain,synthetic
+1 Cabut Gigi,6,kesehatan,synthetic
+NUGGET,0,makanan,synthetic
+Makan Sian,0,makanan,synthetic
+steak,0,makanan,synthetic
+TAHU TEMPE,0,makanan,synthetic
+RED VELVET,0,makanan,synthetic
+2xVanilla Latte,1,minuman,synthetic
+2xPink Lemonade,1,minuman,synthetic
+wonton,0,makanan,synthetic
+PEMBALUT,3,belanja,synthetic
+3xIsi Bensin,2,transportasi,synthetic
+3xProfiterole,0,makanan,synthetic
+modul,3,belanja,synthetic
+1 Billiard,5,hiburan,synthetic
+3xClub Sandwich,0,makanan,synthetic
+2xOngkir,7,lain_lain,synthetic
+3xTiket MRT,2,transportasi,synthetic
+3xFried Rice,0,makanan,synthetic
+2 Nasi Liwet,0,makanan,synthetic
+hoodie,3,belanja,synthetic
+BANANA BREAD,0,makanan,synthetic
+BIAYA PENDAFTARAN,7,lain_lain,synthetic
+NESCAFE,1,minuman,synthetic
+KIMBAP,0,makanan,synthetic
+badminton,5,hiburan,synthetic
+ONION RING,0,makanan,synthetic
+sandal,3,belanja,synthetic
+2xBiaya Transfer,7,lain_lain,synthetic
+1xMango Drink,1,minuman,synthetic
+taksi online,2,transportasi,synthetic
+2 Parfait,0,makanan,synthetic
+BROWNIE,0,makanan,synthetic
+WAFFLE,0,makanan,synthetic
+Parki Mobil,2,transportasi,synthetic
+1 Tagihan Telepon,4,tagihan,synthetic
+Es Kelapa Mud,1,minuman,synthetic
+2 Burger,0,makanan,synthetic
+nasi box,0,makanan,synthetic
+Pisan Goreng,0,makanan,synthetic
+2xYouTube Premium,4,tagihan,synthetic
+1 Nugget,0,makanan,synthetic
+BBQ CHICKEN,0,makanan,synthetic
+NETFLIX,4,tagihan,synthetic
+1xAntasida,6,kesehatan,synthetic
+ovaltine,1,minuman,synthetic
+2 Tiket MRT,2,transportasi,synthetic
+1 Softlens,6,kesehatan,synthetic
+softlens,6,kesehatan,synthetic
+2 Deodoran,3,belanja,synthetic
+2 Pasta Gigi,3,belanja,synthetic
+MATCHA,1,minuman,synthetic
+3xSampo,3,belanja,synthetic
+MARTABAK,0,makanan,synthetic
+gelang,3,belanja,synthetic
+1 Token Listrik,4,tagihan,synthetic
+2 Buku Catatan,3,belanja,synthetic
+voucher game,5,hiburan,synthetic
+TOP UP GENSHIN,5,hiburan,synthetic
+Ayam Goreng,0,makanan,synthetic
+1 Rawon,0,makanan,synthetic
+HEADSET,3,belanja,synthetic
+transfer,7,lain_lain,synthetic
+2xIkat Pinggang,3,belanja,synthetic
+Greek Sala,0,makanan,synthetic
+1 Cuci Baju,7,lain_lain,synthetic
+1xMilkshake,1,minuman,synthetic
+Buk Catatan,3,belanja,synthetic
+3xAmoxicillin,6,kesehatan,synthetic
+Biaya Pendaftara,7,lain_lain,synthetic
+1 Zakat,7,lain_lain,synthetic
+peach tea,1,minuman,synthetic
+AIR KELAPA,1,minuman,synthetic
+1 Sweater,3,belanja,synthetic
+2xKaraoke,5,hiburan,synthetic
+1 Kacamata,6,kesehatan,synthetic
+GULAI,0,makanan,synthetic
+1 JNE,7,lain_lain,synthetic
+2 Bayar Listrik,4,tagihan,synthetic
+POPCORN,0,makanan,synthetic
+3xPCR,6,kesehatan,synthetic
+Teh Sus,1,minuman,synthetic
+kopi susu,1,minuman,synthetic
+TAHU IKAN OMA GIOK,0,makanan,synthetic
+First Medi,4,tagihan,synthetic
+earphone,3,belanja,synthetic
+3xJus Melon,1,minuman,synthetic
+1xLampu,3,belanja,synthetic
+tiramisu,0,makanan,synthetic
+Cold Bre,1,minuman,synthetic
+1xKuota Internet,4,tagihan,synthetic
+1 Nasi Goreng Spesial,0,makanan,synthetic
+NASI BAKAR,0,makanan,synthetic
+3xPaket Hemat,0,makanan,synthetic
+Chips,0,makanan,synthetic
+MODUL,3,belanja,synthetic
+2xScan,7,lain_lain,synthetic
+2xBiaya Kos,4,tagihan,synthetic
+Biay Admin,4,tagihan,synthetic
+1 Ayam Geprek,0,makanan,synthetic
+Pancake,0,makanan,synthetic
+1 Tiket Konser,5,hiburan,synthetic
+2 Flashdisk,3,belanja,synthetic
+2xMicrosoft 365,4,tagihan,synthetic
+Oba Maag,6,kesehatan,synthetic
+2 Lychee Drink,1,minuman,synthetic
+ES DAWET,1,minuman,synthetic
+2 Es Kelapa Muda,1,minuman,synthetic
+LYCHEE DRINK,1,minuman,synthetic
+1 Biaya Admin,4,tagihan,synthetic
+NASI AYAM,0,makanan,synthetic
+1 Headset,3,belanja,synthetic
+2xParkir Mobil,2,transportasi,synthetic
+2 Wahana,5,hiburan,synthetic
+Tama Bermain,5,hiburan,synthetic
+1 BBM,2,transportasi,synthetic
+3xMatcha Latte,1,minuman,synthetic
+2 Tenis,5,hiburan,synthetic
+BIHUN GORENG,0,makanan,synthetic
+2xKemeja,3,belanja,synthetic
+1 Tagihan WiFi,4,tagihan,synthetic
+Le Minera,1,minuman,synthetic
+2xNasi Goreng,0,makanan,synthetic
+Es Campu,1,minuman,synthetic
+2xKonsultasi Dokter,6,kesehatan,synthetic
+mizone,1,minuman,synthetic
+SPARKLING WATER,1,minuman,synthetic
+2xPLN,4,tagihan,synthetic
+1xCaesar Salad,0,makanan,synthetic
+Disney Plu,4,tagihan,synthetic
+1 Kereta Api,2,transportasi,synthetic
+1 Shopee,3,belanja,synthetic
+2xTambal Gigi,6,kesehatan,synthetic
+jus semangka,1,minuman,synthetic
+2xMocha,1,minuman,synthetic
+BROWN SUGAR LATTE,1,minuman,synthetic
+2xSpidol,3,belanja,synthetic
+Tike Bioskop,5,hiburan,synthetic
+2 GoSend,7,lain_lain,synthetic
+BATAGOR,0,makanan,synthetic
+1xLensa Kontak,6,kesehatan,synthetic
+2 Kopi Aren,1,minuman,synthetic
+2 Potong Rambut,7,lain_lain,synthetic
+1xRisol,0,makanan,synthetic
+Nasi Ayam Gepre,0,makanan,synthetic
+Mil Tea,1,minuman,synthetic
+1xDokter Gigi,6,kesehatan,synthetic
+1xParacetamol,6,kesehatan,synthetic
+2xBihun Goreng,0,makanan,synthetic
+2xTelur Ceplok,0,makanan,synthetic
+2xKereta Api,2,transportasi,synthetic
+1xDress,3,belanja,synthetic
+Bubbl Tea,1,minuman,synthetic
+2xGalbi,0,makanan,synthetic
+TAGIHAN TELEPON,4,tagihan,synthetic
+2xTeh Tarik,1,minuman,synthetic
+Teh Tari,1,minuman,synthetic
+2 BPJS Kesehatan,4,tagihan,synthetic
+Sew Kos,4,tagihan,synthetic
+jaket,3,belanja,synthetic
+2 Jilid,7,lain_lain,synthetic
+3xRumah Sakit,6,kesehatan,synthetic
+rawon,0,makanan,synthetic
+AYAM GORENG,0,makanan,synthetic
+MIKROLET,2,transportasi,synthetic
+commuter line,2,transportasi,synthetic
+KEMEJA,3,belanja,synthetic
+1xHeadset,3,belanja,synthetic
+2 Taman Bermain,5,hiburan,synthetic
+1xHoodie,3,belanja,synthetic
+apotek,6,kesehatan,synthetic
+CROSTINI,0,makanan,synthetic
+1xEs Kopi Susu,1,minuman,synthetic
+1xSalon,7,lain_lain,synthetic
+sandwich,0,makanan,synthetic
+2xTas,3,belanja,synthetic
+BUKU TULIS,3,belanja,synthetic
+2xTiket Masuk,5,hiburan,synthetic
+KOLAM RENANG,5,hiburan,synthetic
+ROTI BAKAR,0,makanan,synthetic
+3xKopi Instan,1,minuman,synthetic
+2xMobil Online,2,transportasi,synthetic
+TIKET BIOSKOP,5,hiburan,synthetic
+1xPCR,6,kesehatan,synthetic
+sewa kos,4,tagihan,synthetic
+Pecel Lele,0,makanan,synthetic
+Uan Kos,4,tagihan,synthetic
+1 Tambal Gigi,6,kesehatan,synthetic
+1xBiaya Admin,4,tagihan,synthetic
+GREEK SALAD,0,makanan,synthetic
+1 Masker,6,kesehatan,synthetic
+kereta api,2,transportasi,synthetic
+WIFI,4,tagihan,synthetic
+Kopi Susu Kolone,1,minuman,synthetic
+2 Paket Nasi Ayam,0,makanan,synthetic
+Kopi Gula Are,1,minuman,synthetic
+Mozzarell Stick,0,makanan,synthetic
+spbu,2,transportasi,synthetic
+strawberry drink,1,minuman,synthetic
+3xBuku Novel,5,hiburan,synthetic
+lampu,3,belanja,synthetic
+milkshake,1,minuman,synthetic
+1xEarphone,3,belanja,synthetic
+3xE-Toll,2,transportasi,synthetic
+3xLasagna,0,makanan,synthetic
+1 Makan Malam,0,makanan,synthetic
+Nas Liwet,0,makanan,synthetic
+2 Tiket Event,5,hiburan,synthetic
+Ric Bowl,0,makanan,synthetic
+2 Netflix,4,tagihan,synthetic
+setrika,7,lain_lain,synthetic
+air kelapa,1,minuman,synthetic
+2xBayar Kos,4,tagihan,synthetic
+2 Cold Brew,1,minuman,synthetic
+Paket Nasi Ayam,0,makanan,synthetic
+kopi gula aren,1,minuman,synthetic
+Kuot Internet,4,tagihan,synthetic
+BOBA,1,minuman,synthetic
+2xParacetamol,6,kesehatan,synthetic
+mie goreng,0,makanan,synthetic
+3xKRL,2,transportasi,synthetic
+3xIsi Pulsa,4,tagihan,synthetic
+1 Servis Motor,2,transportasi,synthetic
+1xTeh Susu,1,minuman,synthetic
+Chicke Bowl,0,makanan,synthetic
+2xLegalisir,7,lain_lain,synthetic
+Ice Latte,1,minuman,synthetic
+2xMaxim,2,transportasi,synthetic
+3xTiket Bioskop,5,hiburan,synthetic
+2xAmoxicillin,6,kesehatan,synthetic
+1 Baterai,3,belanja,synthetic
+1 Scan,7,lain_lain,synthetic
+kopi cappuccino,1,minuman,synthetic
+ICED LATTE,1,minuman,synthetic
+biaya berobat,6,kesehatan,synthetic
+2 Hazelnut Latte,1,minuman,synthetic
+KOPI SUSU,1,minuman,synthetic
+3xTagihan WiFi,4,tagihan,synthetic
+ongkir,7,lain_lain,synthetic
+ibuprofen,6,kesehatan,synthetic
+Kop Aren,1,minuman,synthetic
+3xLatte,1,minuman,synthetic
+PANCAKE,0,makanan,synthetic
+Bakso,0,makanan,synthetic
+waffle,0,makanan,synthetic
+2 Tiket Bioskop,5,hiburan,synthetic
+Rumah Saki,6,kesehatan,synthetic
+1 Materai,7,lain_lain,synthetic
+2xLensa Kontak,6,kesehatan,synthetic
+Kimia Farm,6,kesehatan,synthetic
+grab,2,transportasi,synthetic
+1 GoRide,2,transportasi,synthetic
+mango drink,1,minuman,synthetic
+3xJjajangmyeon,0,makanan,synthetic
+TEH MANIS,1,minuman,synthetic
+POWER BANK,3,belanja,synthetic
+CIRENG,0,makanan,synthetic
+2xZakat,7,lain_lain,synthetic
+1 PDAM,4,tagihan,synthetic
+2 Suplemen,6,kesehatan,synthetic
+ojek,2,transportasi,synthetic
+nasi putih,0,makanan,synthetic
+1xKaos,3,belanja,synthetic
+2xCek Darah,6,kesehatan,synthetic
+2xFotokopi,7,lain_lain,synthetic
+1xTop Up PUBG,5,hiburan,synthetic
+French Toas,0,makanan,synthetic
+1xBanana Bread,0,makanan,synthetic
+PASTA GIGI,3,belanja,synthetic
+2xAnteraja,7,lain_lain,synthetic
+Dokte Gigi,6,kesehatan,synthetic
+SAUSAGE BREAD,0,makanan,synthetic
+2 Mie Ayam,0,makanan,synthetic
+vanilla latte,1,minuman,synthetic
+TIKET MRT,2,transportasi,synthetic
+1 Festival,5,hiburan,synthetic
+3xTiket Pesawat,2,transportasi,synthetic
+Iura Kelas,7,lain_lain,synthetic
+data internet,4,tagihan,synthetic
+2 Obat Flu,6,kesehatan,synthetic
+3xBiaya Periksa,6,kesehatan,synthetic
+PRINT,7,lain_lain,synthetic
+2 Infaq,7,lain_lain,synthetic
+1xObat Sakit Kepala,6,kesehatan,synthetic
+3xRamune,1,minuman,synthetic
+2 Es Teh,1,minuman,synthetic
+Diamon ML,5,hiburan,synthetic
+2 Administrasi,4,tagihan,synthetic
+YAKULT,1,minuman,synthetic
+paket nasi ayam,0,makanan,synthetic
+Caesar Sala,0,makanan,synthetic
+Tagihan WiF,4,tagihan,synthetic
+3xFried Noodle,0,makanan,synthetic
+1xVitamin C,6,kesehatan,synthetic
+3xSorbet,0,makanan,synthetic
+greek salad,0,makanan,synthetic
+2 Obat Maag,6,kesehatan,synthetic
+buku kuliah,3,belanja,synthetic
+Nasi Goreng Kampun,0,makanan,synthetic
+Tike KRL,2,transportasi,synthetic
+tagihan air,4,tagihan,synthetic
+2xSate Kambing,0,makanan,synthetic
+2xKopi Aren,1,minuman,synthetic
+1 Kwetiau,0,makanan,synthetic
+mobil online,2,transportasi,synthetic
+canva pro,4,tagihan,synthetic
+3xBioskop,5,hiburan,synthetic
+fitness,5,hiburan,synthetic
+2 XXI,5,hiburan,synthetic
+3xHoodie,3,belanja,synthetic
+2 Mineral Water,1,minuman,synthetic
+2 Nasi Goreng Seafood,0,makanan,synthetic
+1xKeyboard,3,belanja,synthetic
+1 Dokter,6,kesehatan,synthetic
+VITAMIN D,6,kesehatan,synthetic
+3xPLN,4,tagihan,synthetic
+3xAngkot,2,transportasi,synthetic
+3xFries,0,makanan,synthetic
+3xGoRide,2,transportasi,synthetic
+AYAM PENYET,0,makanan,synthetic
+2xKlinik,6,kesehatan,synthetic
+3xBensin,2,transportasi,synthetic
+OBAT MAAG,6,kesehatan,synthetic
+Top Up PUB,5,hiburan,synthetic
+nasi ayam geprek,0,makanan,synthetic
+3xSmoothie,1,minuman,synthetic
+3xSPBU,2,transportasi,synthetic
+Tah Tempe,0,makanan,synthetic
+2 Pie,0,makanan,synthetic
+2 Pembalut,3,belanja,synthetic
+tiket kereta,2,transportasi,synthetic
+Tike Event,5,hiburan,synthetic
+1 Air Mineral,1,minuman,synthetic
+1 First Media,4,tagihan,synthetic
+LEMON TEA,1,minuman,synthetic
+2 Earphone,3,belanja,synthetic
+1 Stempel,7,lain_lain,synthetic
+kupat tahu,0,makanan,synthetic
+1xKolam Renang,5,hiburan,synthetic
+2xKopi Espresso,1,minuman,synthetic
+Earl Gre,1,minuman,synthetic
+ISI PULSA,4,tagihan,synthetic
+KOPI TUBRUK,1,minuman,synthetic
+biaya pendaftaran,7,lain_lain,synthetic
+1 Multivitamin,6,kesehatan,synthetic
+3xTiket Bus,2,transportasi,synthetic
+topi,3,belanja,synthetic
+1xBelanja Online,3,belanja,synthetic
+2 Jaket,3,belanja,synthetic
+Chicken Bow,0,makanan,synthetic
+2xKimia Farma,6,kesehatan,synthetic
+JJAJANGMYEON,0,makanan,synthetic
+crostini,0,makanan,synthetic
+telur dadar,0,makanan,synthetic
+1 Donasi,7,lain_lain,synthetic
+3xNasi Padang,0,makanan,synthetic
+CINEPOLIS,5,hiburan,synthetic
+2xTaro Latte,1,minuman,synthetic
+2 Pink Lemonade,1,minuman,synthetic
+TAMAN BERMAIN,5,hiburan,synthetic
+1 Tagihan HP,4,tagihan,synthetic
+2 Konsultasi Dokter,6,kesehatan,synthetic
+Tike MRT,2,transportasi,synthetic
+2 Rapid Test,6,kesehatan,synthetic
+3xUC PUBG,5,hiburan,synthetic
+1 Lensa Kontak,6,kesehatan,synthetic
+1xKimia Farma,6,kesehatan,synthetic
+peppermint tea,1,minuman,synthetic
+ES KELAPA MUDA,1,minuman,synthetic
+taman bermain,5,hiburan,synthetic
+Bihu Goreng,0,makanan,synthetic
+2xYakult,1,minuman,synthetic
+1 Jus Jambu,1,minuman,synthetic
+Vouche Game,5,hiburan,synthetic
+ISI BENSIN,2,transportasi,synthetic
+1xSmoothie,1,minuman,synthetic
+1xBayar Listrik,4,tagihan,synthetic
+Past Gigi,3,belanja,synthetic
+MOZZARELLA STICK,0,makanan,synthetic
+BRUSCHETTA,0,makanan,synthetic
+2 Iuran,4,tagihan,synthetic
+club sandwich,0,makanan,synthetic
+1xKopi Dalgona,1,minuman,synthetic
+1xTisu,3,belanja,synthetic
+2 Dokter,6,kesehatan,synthetic
+Kopi Tubru,1,minuman,synthetic
+Cireng,0,makanan,synthetic
+2 Brown Sugar Latte,1,minuman,synthetic
+1xTagihan HP,4,tagihan,synthetic
+1xKacamata,6,kesehatan,synthetic
+1xTas,3,belanja,synthetic
+Cheesecake,0,makanan,synthetic
+tahu ikan oma giok,0,makanan,synthetic
+2 Anteraja,7,lain_lain,synthetic
+2 Biaya Pendaftaran,7,lain_lain,synthetic
+2 GrabCar,2,transportasi,synthetic
+1 Biaya Berobat,6,kesehatan,synthetic
+Mobi Online,2,transportasi,synthetic
+3xNasi Box,0,makanan,synthetic
+1xKRL,2,transportasi,synthetic
+1 Soup,0,makanan,synthetic
+2xTiket Wisata,5,hiburan,synthetic
+DIAMOND ML,5,hiburan,synthetic
+kopi latte,1,minuman,synthetic
+Kupat Tah,0,makanan,synthetic
+2 Badminton,5,hiburan,synthetic
+Nas Ayam Kremes,0,makanan,synthetic
+2 Salon,7,lain_lain,synthetic
+2 Pameran,5,hiburan,synthetic
+Minya Kayu Putih,6,kesehatan,synthetic
+INDIHOME,4,tagihan,synthetic
+2xSuplemen,6,kesehatan,synthetic
+ES KOPI SUSU,1,minuman,synthetic
+2xKetoprak,0,makanan,synthetic
+1xCGV,5,hiburan,synthetic
+JAJAN,7,lain_lain,synthetic
+KEBAB,0,makanan,synthetic
+Toke Listrik,4,tagihan,synthetic
+3xJNT,7,lain_lain,synthetic
+2xPrint,7,lain_lain,synthetic
+2xGrab,2,transportasi,synthetic
+HANSAPLAST,6,kesehatan,synthetic
+3xMikrolet,2,transportasi,synthetic
+club soda,1,minuman,synthetic
+PERTAMAX,2,transportasi,synthetic
+Kuota Interne,4,tagihan,synthetic
+3xFrench Toast,0,makanan,synthetic
+2xJus Semangka,1,minuman,synthetic
+1 Nonton Film,5,hiburan,synthetic
+Bayar Listri,4,tagihan,synthetic
+Commuter Lin,2,transportasi,synthetic
+TIKET EVENT,5,hiburan,synthetic
+cuci baju,7,lain_lain,synthetic
+2xTop Up FF,5,hiburan,synthetic
+3xMultivitamin,6,kesehatan,synthetic
+1 Lain-lain,7,lain_lain,synthetic
+Frie Noodle,0,makanan,synthetic
+bihun goreng,0,makanan,synthetic
+1xSikat Gigi,3,belanja,synthetic
+3xTeh Susu,1,minuman,synthetic
+1 Teh Susu,1,minuman,synthetic
+1 Topi,3,belanja,synthetic
+1 Amoxicillin,6,kesehatan,synthetic
+RETRIBUSI PARKIR,2,transportasi,synthetic
+PEACH TEA,1,minuman,synthetic
+2 Steak,0,makanan,synthetic
+3xIbuprofen,6,kesehatan,synthetic
+cinepolis,5,hiburan,synthetic
+CHIPS,0,makanan,synthetic
+1 Anteraja,7,lain_lain,synthetic
+3xJilid,7,lain_lain,synthetic
+2xPisang Goreng,0,makanan,synthetic
+3xPameran,5,hiburan,synthetic
+gym,5,hiburan,synthetic
+1 Strawberry Drink,1,minuman,synthetic
+1xKopi Espresso,1,minuman,synthetic
+1xAlat Musik,5,hiburan,synthetic
+1xBadminton,5,hiburan,synthetic
+Parki Motor,2,transportasi,synthetic
+2xRed Velvet,0,makanan,synthetic
+2 Salad,0,makanan,synthetic
+2xSandal,3,belanja,synthetic
+Nasi Campur Bali,0,makanan,cord_v1
+Bbk Bengil Nasi,0,makanan,cord_v1
+MilkShake Starwb,1,minuman,cord_v1
+Ice Lemon Tea,1,minuman,cord_v1
+Nasi Ayam Dewata,0,makanan,cord_v1
+Free Ice Tea,1,minuman,cord_v1
+Organic Green Sa,7,lain_lain,cord_v1
+Ice Tea,1,minuman,cord_v1
+Ice Orange,1,minuman,cord_v1
+Ayam Suir Bali,0,makanan,cord_v1
+Tahu Telor Asin,0,makanan,cord_v1
+Nasi Goreng Samb,0,makanan,cord_v1
+Bbk Panggang Sam,0,makanan,cord_v1
+Ayam Sambal Hija,0,makanan,cord_v1
+Hot Tea,1,minuman,cord_v1
+Ice Kopi,1,minuman,cord_v1
+Bebek Street,7,lain_lain,cord_v1
+Ice Tea Tawar,1,minuman,cord_v1
+SPGTHY BOLOGNASE,7,lain_lain,cord_v1
+PEPPER AUS,7,lain_lain,cord_v1
+WAGYU RIBEYE,7,lain_lain,cord_v1
+ICED LEMON TEA,1,minuman,cord_v1
+FUSION TEA LYCHE,1,minuman,cord_v1
+NUTTELA BROWNIES,1,minuman,cord_v1
+HAKAU UDANG,0,makanan,cord_v1
+SIAO MAI BABI,0,makanan,cord_v1
+CEKER AYAM,0,makanan,cord_v1
+BAKPAO BKR C CRISPY,7,lain_lain,cord_v1
+TAHU GORENG CRISPY,0,makanan,cord_v1
+Bintang Bremer,7,lain_lain,cord_v1
+Chicken H-H,0,makanan,cord_v1
+Ades,1,minuman,cord_v1
+BASO BIHUN,0,makanan,cord_v1
+Spaghetti ChickPesto,1,minuman,cord_v1
+BangBang Chick Wings,7,lain_lain,cord_v1
+Iced Cappuccino,1,minuman,cord_v1
+Gypsy Gelato Ice Tea,1,minuman,cord_v1
+BASO TAHU,0,makanan,cord_v1
+ES JERUK,1,minuman,cord_v1
+PKT AYAM,0,makanan,cord_v1
+Kimchi P,7,lain_lain,cord_v1
+Fre ice grentea,1,minuman,cord_v1
+THAI ICED TEA,1,minuman,cord_v1
+Viet Milk Coffee,1,minuman,cord_v1
+Nila Bakar/Goreng,0,makanan,cord_v1
+Sop Gurame,0,makanan,cord_v1
+Teh Poci,1,minuman,cord_v1
+NASI + AYAM KATSU TER...,0,makanan,cord_v1
+TEH PANAS,1,minuman,cord_v1
+ES TEH MANIS,1,minuman,cord_v1
+CH CORDON BLEU NASI,0,makanan,cord_v1
+BLACK PEPPER MEATBALL,0,makanan,cord_v1
+GREEN TEA WITH CRUMBLE,1,minuman,cord_v1
+EARL GREY MILK TEA,1,minuman,cord_v1
+ORIGINAL BREWED TEA,1,minuman,cord_v1
+4005-Maple glazed,7,lain_lain,cord_v1
+6001-Plastic Bag Small,3,belanja,cord_v1
+QUARTO FORMANGGI PASTA,0,makanan,cord_v1
+- TICKET CP,2,transportasi,cord_v1
+RB. COKLAT BAR,1,minuman,cord_v1
+RB. CREPES TUNA,1,minuman,cord_v1
+RB. SISIR PANDAN,7,lain_lain,cord_v1
+KING DEAL FISH,0,makanan,cord_v1
+UDANG RE,0,makanan,cord_v1
+AYM GR JUN NJAN,7,lain_lain,cord_v1
+SAPO TH SEAFOOD,7,lain_lain,cord_v1
+POCAI 3,7,lain_lain,cord_v1
+GURAME FILLET M ASAM MANIS,7,lain_lain,cord_v1
+BIHUN GORENG JJ,0,makanan,cord_v1
+ICED TEA,1,minuman,cord_v1
+NASI PUTIH,0,makanan,cord_v1
+BUBUR UNGU,0,makanan,cord_v1
+SENDOK BEBEK,3,belanja,cord_v1
+WAJIK,7,lain_lain,cord_v1
+CENTIK MANIS,7,lain_lain,cord_v1
+PLASTIK SEDANG,3,belanja,cord_v1
+1001-Choco Bun,0,makanan,cord_v1
+2001-Hokkaido Milk Toast,1,minuman,cord_v1
+6002-Plastic Bag Medium,3,belanja,cord_v1
+Ice t grentea,1,minuman,cord_v1
+S-Lemon Macchiato,1,minuman,cord_v1
+1032-Double Cheddar,7,lain_lain,cord_v1
+CRISPY CHOCO,7,lain_lain,cord_v1
+Pepenero Pastel,7,lain_lain,cord_v1
+MEGA,7,lain_lain,cord_v1
+A.MINERAL BOTOL,1,minuman,cord_v1
+AMBUSH DBL CHS BURG,2,transportasi,cord_v1
+AMBUSH CHS BURGER,0,makanan,cord_v1
+TAKE AWAY CHARGE,7,lain_lain,cord_v1
+VANDOOLEN,7,lain_lain,cord_v1
+PLASTIK 25,3,belanja,cord_v1
+"Chicken HCC, 1Pcs",0,makanan,cord_v1
+Colonel Burger,0,makanan,cord_v1
+AREM - AREM,7,lain_lain,cord_v1
+LEMPER,7,lain_lain,cord_v1
+PLASTIK KECIL,3,belanja,cord_v1
+OMA NASI KUNING CAKALANG MANI,0,makanan,cord_v1
+Cuka Apel Moringa,7,lain_lain,cord_v1
+GONG GIBAB,7,lain_lain,cord_v1
+BO SSAM,7,lain_lain,cord_v1
+HAEMUL DENJANG JJIGAE,7,lain_lain,cord_v1
+MULNAENGMYO N,7,lain_lain,cord_v1
+MINI CHOCO,0,makanan,cord_v1
+DumDum Thai Iced Green Tea,1,minuman,cord_v1
+H COUPLE SEA,7,lain_lain,cord_v1
+BURGER CHIC DECKER,0,makanan,cord_v1
+Home Made Lemonade,1,minuman,cord_v1
+KOREAN CURRY M,7,lain_lain,cord_v1
+ALMOND CHOCO CREAMCHEESE,1,minuman,cord_v1
+Nutella Cheese,1,minuman,cord_v1
+Toblerone BanCheese,1,minuman,cord_v1
+CHOCO PUFF,7,lain_lain,cord_v1
+CREAMY BEEF CLS FTC,0,makanan,cord_v1
+NEW ORIENTAL CHK RICE,1,minuman,cord_v1
+LIPTON PITCHER,7,lain_lain,cord_v1
+SC/P SUPER SUPREME,7,lain_lain,cord_v1
+CB/P BLACK PEPP BEEF,0,makanan,cord_v1
+1,7,lain_lain,cord_v1
+Large *Plastik Kcl,3,belanja,cord_v1
+BASO TAHU BIHUN,0,makanan,cord_v1
+ICED TT,1,minuman,cord_v1
+Jamur Crispy,3,belanja,cord_v1
+Sambel Kecap,7,lain_lain,cord_v1
+Sweet Plum Potato,7,lain_lain,cord_v1
+CHO MOUSSE,7,lain_lain,cord_v1
+GRAPE JELLY,7,lain_lain,cord_v1
+Kopi Susu Sudirman,1,minuman,cord_v1
+Chocolate Twist,1,minuman,cord_v1
+RTD Kunyit,7,lain_lain,cord_v1
+Tepung Jagung,7,lain_lain,cord_v1
+SHOPPING BAG ROTI'O' 370/M,0,makanan,cord_v1
+KFC Winger HC,7,lain_lain,cord_v1
+Rice,1,minuman,cord_v1
+THAI ICED TEA (L),1,minuman,cord_v1
+PL. MUFFIN BLUEBERRY,7,lain_lain,cord_v1
+RB. ABON AYAM,0,makanan,cord_v1
+RB. COKLAT COFFEE,1,minuman,cord_v1
+RB. RED BEAN,7,lain_lain,cord_v1
+ROTI KEJU COKLAT,1,minuman,cord_v1
+ROTI MAHKOTA/RING,0,makanan,cord_v1
+ROTI KACANG MERAH,0,makanan,cord_v1
+ROTI COKLAT,1,minuman,cord_v1
+CHICKEN KATSU,0,makanan,cord_v1
+TORI NASU HASAMI AGE,0,makanan,cord_v1
+Mineral Water (S),1,minuman,cord_v1
+Pocky Chocolate,1,minuman,cord_v1
+Nerds Strw Grape,7,lain_lain,cord_v1
+Nerds Trop Punch,7,lain_lain,cord_v1
+Nerds Watermelon,1,minuman,cord_v1
+TRIPPLE CHEESE,1,minuman,cord_v1
+RALPH BREAKS THE INTERNET : WR,4,tagihan,cord_v1
+PIS COK KEJU,7,lain_lain,cord_v1
+COKLAT KEJU,1,minuman,cord_v1
+BANANA KISMIS,0,makanan,cord_v1
+BOTOL(MOMOGI BOTOL KACA ASI),2,transportasi,cord_v1
+SPECTRA BREAST DISPOSABLE PADS (IRIS) / BP-0001 (BREASTPADS),7,lain_lain,cord_v1
+MUSTELA BABY OIL 100ML,7,lain_lain,cord_v1
+SATE PADANG,0,makanan,cord_v1
+GULAI CUMI,0,makanan,cord_v1
+DENDENG BALADO,7,lain_lain,cord_v1
+KERUPUK KULIT,7,lain_lain,cord_v1
+RENDANG DAGING,0,makanan,cord_v1
+GULAI HATI,7,lain_lain,cord_v1
+MUJAIR BAKAR,1,minuman,cord_v1
+GULAI OTAK,7,lain_lain,cord_v1
+AYAM BAKAR,0,makanan,cord_v1
+SAMBAL TRI BELAH,7,lain_lain,cord_v1
+LALAP SEGAR,7,lain_lain,cord_v1
+AYAM POP,0,makanan,cord_v1
+GULAI TUNJANG,7,lain_lain,cord_v1
+TEH,1,minuman,cord_v1
+TERONG BELANDA,7,lain_lain,cord_v1
+TEH TELUR,1,minuman,cord_v1
+PUDING,7,lain_lain,cord_v1
+ISI CAMPUR,7,lain_lain,cord_v1
+AQUA BOTOL,1,minuman,cord_v1
+Popcorn Salt Bucket,7,lain_lain,cord_v1
+Berry Many-Low (P),7,lain_lain,cord_v1
+500 days of summer (P),7,lain_lain,cord_v1
+sun kissed (P),7,lain_lain,cord_v1
+PLASTIC BAG,3,belanja,cord_v1
+SAUSAGE DONUT,0,makanan,cord_v1
+CHOCO DONUT PRETZEL,0,makanan,cord_v1
+CAPTAIN HOOK,7,lain_lain,cord_v1
+PIRATES TREASURE,1,minuman,cord_v1
+GREEN TEA LATTE (L),1,minuman,cord_v1
+2011-Whole wheat Katamari,7,lain_lain,cord_v1
+CHEESE JOHN,1,minuman,cord_v1
+APPLE CREAMCHEESE PASTRY,1,minuman,cord_v1
+PAKET DOSIRAK 3,7,lain_lain,cord_v1
+PAKET CHICKEN 3,0,makanan,cord_v1
+JAPCHE,7,lain_lain,cord_v1
+KOREAN LEMONADE,1,minuman,cord_v1
+KOREAN COLD TEA,1,minuman,cord_v1
+PAKET BULGOGI 3,7,lain_lain,cord_v1
+BANANA MLK+MATCHA PU,1,minuman,cord_v1
+KRN FRIED CHICKN HNY,0,makanan,cord_v1
+TAKOYAKI 12PCS,7,lain_lain,cord_v1
+KP BRANDING L,7,lain_lain,cord_v1
+M/POKO STD XXL5,7,lain_lain,cord_v1
+FOOT 6,7,lain_lain,cord_v1
+CIPAIN PATCH 4S,7,lain_lain,cord_v1
+ALMOND CREAM CHEESE,1,minuman,cord_v1
+Silky Green Tea,1,minuman,cord_v1
+Silky Hazelnut,7,lain_lain,cord_v1
+REDBEAN BREAD,7,lain_lain,cord_v1
+YOGURT STRAWBERRY,7,lain_lain,cord_v1
+ICED White,1,minuman,cord_v1
+Mexican Baked Rice,1,minuman,cord_v1
+Large 1,7,lain_lain,cord_v1
+Pastry Keju,7,lain_lain,cord_v1
+Round Wagyu (1gr),7,lain_lain,cord_v1
+Wagyu Rice Box,1,minuman,cord_v1
+BUNCIS MUDA TE,0,makanan,cord_v1
+DEPT02,7,lain_lain,cord_v1
+KUE PILUS ASIN,7,lain_lain,cord_v1
+KACANG MEDAN,7,lain_lain,cord_v1
+ALMOND CHOCO CREAM CHEESE,1,minuman,cord_v1
+CHOCO CUSTARD PASTRY,7,lain_lain,cord_v1
+CARAMEL PASTRY,7,lain_lain,cord_v1
+ORIGINAL,7,lain_lain,cord_v1
+APPLE CINN,7,lain_lain,cord_v1
+NUMER CANDLE NO.1,7,lain_lain,cord_v1
+NUMER CANDLE NO.2,7,lain_lain,cord_v1
+GANACHE MOUSSE PIECE,0,makanan,cord_v1
+4002-Chocolate Orange Peel,1,minuman,cord_v1
+ORIGINAL NO SALT,7,lain_lain,cord_v1
+WALL'S FEAST CKLT.65,7,lain_lain,cord_v1
+CMPN TROPICANA.CHO75,7,lain_lain,cord_v1
+MAGNUM WHT ALMND 80,7,lain_lain,cord_v1
+S-Ovaltine Macchiat,7,lain_lain,cord_v1
+S-Hazelnut Milk Tea,1,minuman,cord_v1
+SAM DA SOO MINERAL WATER,1,minuman,cord_v1
+ES CHOCO GREEN TEA,1,minuman,cord_v1
+IKAN GURAME MED SOP IKAN,0,makanan,cord_v1
+CUMI GR JUNJAN =*MEDIUM*=,0,makanan,cord_v1
+CUMI GR TEPUNG =*MEDIUM*=,0,makanan,cord_v1
+AGSIO TH PC JMR =*MEDIUM*=,7,lain_lain,cord_v1
+POCAI BWG PUTIH =*MEDIUM*=,7,lain_lain,cord_v1
+LUMPIA UDG PREM =*MEDIUM*=,7,lain_lain,cord_v1
+HOT TEA,1,minuman,cord_v1
+AQUA,1,minuman,cord_v1
+NASI GORENG,0,makanan,cord_v1
+BAKPIA KACANG H,7,lain_lain,cord_v1
+Roast Beef Crepes,1,minuman,cord_v1
+Cheezemania,7,lain_lain,cord_v1
+Mamamia,0,makanan,cord_v1
+M-Ice Cream Milk Te,1,minuman,cord_v1
+1069-ROTI KEJU COKLAT,1,minuman,cord_v1
+1037-ROTI MAHKOTA/RING,0,makanan,cord_v1
+1022-ROTI KACANG MERAH,0,makanan,cord_v1
+1001-ROTI COKLAT,1,minuman,cord_v1
+OCHA,7,lain_lain,cord_v1
+CHIC NAMBAN BENTO,7,lain_lain,cord_v1
+Fish Ball,0,makanan,cord_v1
+Fried Siomay,0,makanan,cord_v1
+ICED CM,1,minuman,cord_v1
+Puyo 6 (Package),7,lain_lain,cord_v1
+Kupon 9,7,lain_lain,cord_v1
+Kupon 1,7,lain_lain,cord_v1
+LARGE ICED LEMON TEA,1,minuman,cord_v1
+RTD Relaxing Drink,1,minuman,cord_v1
+RTD Rosella Aloevera,7,lain_lain,cord_v1
+RTD Madu Aloevera,7,lain_lain,cord_v1
+RTD Lemongrass Aloe,1,minuman,cord_v1
+Pdg Madness,1,minuman,cord_v1
+BCT,7,lain_lain,cord_v1
+CINNAMON SUGAR,7,lain_lain,cord_v1
+SAM DA S00 MINERAL WATER,1,minuman,cord_v1
+TWIST DONUT,0,makanan,cord_v1
+Common Law,7,lain_lain,cord_v1
+Tigger Roll,7,lain_lain,cord_v1
+Ketoprak SPC,0,makanan,cord_v1
+UDG GR TLUR ASIN,7,lain_lain,cord_v1
+CUMI GR JUNJAN,0,makanan,cord_v1
+OYONG 3 TELOR,7,lain_lain,cord_v1
+GURAME FILLET M,7,lain_lain,cord_v1
+CHINESE TE,1,minuman,cord_v1
+CRYSANTNUM,7,lain_lain,cord_v1
+Round Wagyu ( 1gr ),7,lain_lain,cord_v1
+TT,7,lain_lain,cord_v1
+CHEEZY DOG BITES,1,minuman,cord_v1
+Cheese Tart,1,minuman,cord_v1
+EGG TART,7,lain_lain,cord_v1
+ZAI.Milk Choco Egg Avenger60gr,1,minuman,cord_v1
+ZAI.Milk Choco Egg Frozen 60gr,1,minuman,cord_v1
+TWIST STRAWBERRY DONUT,0,makanan,cord_v1
+TLJ CROQUETTE,7,lain_lain,cord_v1
+POTATO PEPPER BAGEL,3,belanja,cord_v1
+IKAN GABUS FRESH,1,minuman,cord_v1
+IKAN BUMBU KUNING,0,makanan,cord_v1
+OCTOPUS SATAY,7,lain_lain,cord_v1
+FA-Cookies Mix 200 gr,1,minuman,cord_v1
+FA-Polycello Bag 200 gr,3,belanja,cord_v1
+BACON SHIMEJI SPAGHE,5,hiburan,cord_v1
+CHICKEN KATSUDON,0,makanan,cord_v1
+WELL TORI KARAAGE MU,7,lain_lain,cord_v1
+WELL CHICKEN KATSU C,0,makanan,cord_v1
+CLASSIC TOMATO,7,lain_lain,cord_v1
+RENDANG OMURICE,1,minuman,cord_v1
+#F11 CREAM HAMBURG 0,7,lain_lain,cord_v1
+Sesame Toast,1,minuman,cord_v1
+Seafood Tempura BBQ,7,lain_lain,cord_v1
+Sweet Plum Potato*,7,lain_lain,cord_v1
+HOME CHARGER+KABEL 138 IP5 TS C,3,belanja,cord_v1
+Pillow Choco,7,lain_lain,cord_v1
+Pillow Cheese,1,minuman,cord_v1
+Pillow Kombi,7,lain_lain,cord_v1
+Iced Mochaccino,1,minuman,cord_v1
+Rice Organik,1,minuman,cord_v1
+1pc Chicken OR,0,makanan,cord_v1
+YANG YUM GUI,7,lain_lain,cord_v1
+SOONDUBU CHIGE,7,lain_lain,cord_v1
+JAP CHAE,7,lain_lain,cord_v1
+MAKOLI,7,lain_lain,cord_v1
+GOCHUJANG,7,lain_lain,cord_v1
+BIBIMBAB,7,lain_lain,cord_v1
+CHOCO ALMOND,7,lain_lain,cord_v1
+#PKTPOLSBTSPON2S,7,lain_lain,cord_v1
+BENECOL LYCHEE 2S,7,lain_lain,cord_v1
+REGAL MARIE 125 GR,7,lain_lain,cord_v1
+7 UP CAN 330 ML,7,lain_lain,cord_v1
+SAKATONIK LVR 10S,7,lain_lain,cord_v1
+DUA BELIBIS SBL135,7,lain_lain,cord_v1
+DAUN SEREH,7,lain_lain,cord_v1
+WACOM BAMBOO PEN,7,lain_lain,cord_v1
+GIGA,7,lain_lain,cord_v1
+4-Chunks,7,lain_lain,cord_v1
+BOLU KUKUS PX,7,lain_lain,cord_v1
+S-Matcha Macchiato,1,minuman,cord_v1
+KFC DAY,7,lain_lain,cord_v1
+CHARGE TA,7,lain_lain,cord_v1
+DEPT04,7,lain_lain,cord_v1
+DEPT01,7,lain_lain,cord_v1
+PAKET CHICKEN 4,0,makanan,cord_v1
+PR ORIGINAL 150gr,7,lain_lain,cord_v1
+Butter croissant,7,lain_lain,cord_v1
+Almond Croissant,7,lain_lain,cord_v1
+Mini Chocolate Donut,1,minuman,cord_v1
+Arem Arem,7,lain_lain,cord_v1
+A Chicken,0,makanan,cord_v1
+RISOL ROGUT,7,lain_lain,cord_v1
+MIKA KCL,0,makanan,cord_v1
+Choco Cheese,1,minuman,cord_v1
+CARAMELALMOND,7,lain_lain,cord_v1
+Coffee Rocksalt [R],1,minuman,cord_v1
+ICED NUTELLA LATTE [R],1,minuman,cord_v1
+ICED MOCHA LATTE [R],1,minuman,cord_v1
+XXL Crspy Chicken,0,makanan,cord_v1
+MANUKA HONEY,7,lain_lain,cord_v1
+Ice Kokofie,1,minuman,cord_v1
+HAZELNUT ALM,7,lain_lain,cord_v1
+CAPPUCINO CI,7,lain_lain,cord_v1
+TIRAMISU CIN,0,makanan,cord_v1
+Spaghetti Bini Muda (Bol ognese) - DINE IN,1,minuman,cord_v1
+French Fries - DINE IN,1,minuman,cord_v1
+Mineral Water - DINE IN,1,minuman,cord_v1
+MIE KOCOK,0,makanan,cord_v1
+GARISH PC,7,lain_lain,cord_v1
+PLASTIK BAG;: 000 PC,3,belanja,cord_v1
+109.NG NANAS,7,lain_lain,cord_v1
+DE13.PSANG IJO MDM,7,lain_lain,cord_v1
+CT12.BLK JELY KPI IC,7,lain_lain,cord_v1
+CHOCO CHIP,7,lain_lain,cord_v1
+CHOCO BANANA,7,lain_lain,cord_v1
+CHOCBAN CUP,7,lain_lain,cord_v1
+SAUSAGE AND SALAMI,0,makanan,cord_v1
+GREEN MONSIEUR,7,lain_lain,cord_v1
+ROASTED MT ( R ),7,lain_lain,cord_v1
+Peanut & Cheese,1,minuman,cord_v1
+PAIN AU CHOCOLATE,1,minuman,cord_v1
+APPLE PIE,0,makanan,cord_v1
+[RICHE] WHITE SKIMM,7,lain_lain,cord_v1
+ALMOND CROSSIANT,7,lain_lain,cord_v1
+Double Choco Crispy,7,lain_lain,cord_v1
+Smoke Beef + Aqua,1,minuman,cord_v1
+PREMIUM TOAST PAN BREAD,0,makanan,cord_v1
+GOCHUJANG SAMGYEOPSAL,7,lain_lain,cord_v1
+LAY'S NORI SEAWD 55G,7,lain_lain,cord_v1
+QTELA KRP/TMPE ORI55,7,lain_lain,cord_v1
+SOSRO TEH BOTOL 350,1,minuman,cord_v1
+PUCUK/H TEH L/SGR350,1,minuman,cord_v1
+AQUA AIR MINERAL 600,1,minuman,cord_v1
+PEDULI DISABILITAS,3,belanja,cord_v1
+Kupon 7,7,lain_lain,cord_v1
+MINERAL WATER,1,minuman,cord_v1
+BAK MANDI (BAK MANDI TAIWAN BESAR),1,minuman,cord_v1
+TATAKAN MANDI (JARING MANDI JALA) -,7,lain_lain,cord_v1
+BAJU ATASAN(PETITE MIMI ROMPER 3D FOREST / RM0003),1,minuman,cord_v1
+ACCESORIES(SUN BABES PENUTUP MATA),1,minuman,cord_v1
+KAPAS (KAPAS MEDISOFT COTTON BALL 120),7,lain_lain,cord_v1
+JOIE KUBBIE(BABY BOX),7,lain_lain,cord_v1
+BUDS CALMING TUMMY RUB CREAM 30ML(TOILETRIES),1,minuman,cord_v1
+BUDS PRECIOUS NEWBORN CREAM 75ML(TOILETRIES),1,minuman,cord_v1
+BUDS PRECIOUS NEWBORN HEAD TO TOE CLEANSER 250ML(TOILETRIES),1,minuman,cord_v1
+CRISPY APPLE RAISIN PASTR,7,lain_lain,cord_v1
+PEPPERONI,7,lain_lain,cord_v1
+CK.MANTAP A,7,lain_lain,cord_v1
+CHEESE B,1,minuman,cord_v1
+TAKE AWAY,7,lain_lain,cord_v1
+TARO,7,lain_lain,cord_v1
+1216 DPR BATB SD ENCHANTED ROS,7,lain_lain,cord_v1
+"1216 GGM 12"" TTN HERO YONDU",7,lain_lain,cord_v1
+"0217 GGM 12"" TITAN HERO GAMORA",7,lain_lain,cord_v1
+BASO KUAH,0,makanan,cord_v1
+CHICKEN KATSU CURRY UDON,0,makanan,cord_v1
+AYAM,0,makanan,cord_v1
+DONAT AYAM,0,makanan,cord_v1
+ROTI SISIR,0,makanan,cord_v1
+BANANA SPLIT,7,lain_lain,cord_v1
+DONATCOKLAT,1,minuman,cord_v1
+TIGER ROLL PTG,7,lain_lain,cord_v1
+MARMER CAKE PTG,0,makanan,cord_v1
+BOLU HAWAI PTNG,7,lain_lain,cord_v1
+BANANA CAKE PTG,0,makanan,cord_v1
+MANDARIN CAKE PTG,0,makanan,cord_v1
+LAPIS SURABAYA PTG,7,lain_lain,cord_v1
+CAKE PITA,0,makanan,cord_v1
+PLASTIK TENTENG KECIL,3,belanja,cord_v1
+Lemon Tea (L).,1,minuman,cord_v1
+Popcorn Salt (S).,7,lain_lain,cord_v1
+TROPICAL PUNCH,7,lain_lain,cord_v1
+SOUP 50%,0,makanan,cord_v1
+SALAD BAR 50%,0,makanan,cord_v1
+TWIST ORANGE CHOCO DONUT,0,makanan,cord_v1
+CHOCOLATE TWIST,1,minuman,cord_v1
+REAL CHOCOLATE ROLL,1,minuman,cord_v1
+CHOCOLATE SOBORO,1,minuman,cord_v1
+5001-Corn Flakes Cookies,1,minuman,cord_v1
+4003-Blueberry Fuji,7,lain_lain,cord_v1
+Coke (L),7,lain_lain,cord_v1
+Extra Jelly Lychee,7,lain_lain,cord_v1
+Popcorn Salt (M),7,lain_lain,cord_v1
+THAI ICED COFFEE,1,minuman,cord_v1
+THAI ICED GREEN TEA,1,minuman,cord_v1
+RAMES AYAM,1,minuman,cord_v1
+Dendeng PDS,7,lain_lain,cord_v1
+CAPPUCINO CARAMEL,7,lain_lain,cord_v1
+Grilled Dorry Fish,0,makanan,cord_v1
+Set Menu Family,0,makanan,cord_v1
+Teppan Seafood Udon,0,makanan,cord_v1
+EDAMAME,7,lain_lain,cord_v1
+df shllt by not250,7,lain_lain,cord_v1
+CF BUNCIS ORG,0,makanan,cord_v1
+CABE KERITING CURA,7,lain_lain,cord_v1
+TOMAT CURAH,7,lain_lain,cord_v1
+JERUK NIPIS,1,minuman,cord_v1
+CUMI BANGKA,0,makanan,cord_v1
+KING DEAL CHEESE BURGER R,1,minuman,cord_v1
+1 PC BIC,7,lain_lain,cord_v1
+POTATO SAUSAGE BREAD,7,lain_lain,cord_v1
+OREO GREEN TEA SPREAD,1,minuman,cord_v1
+WHITE CHOCO BANANA SPREAD,7,lain_lain,cord_v1
+APUCINO MEDIUM,7,lain_lain,cord_v1
+CIRENG PANDAWA,7,lain_lain,cord_v1
+BASO TAHU KWETIAU,0,makanan,cord_v1
+PKT TELOR/PERKEDEL,7,lain_lain,cord_v1
+DENDENG,7,lain_lain,cord_v1
+SBL GR TERI,7,lain_lain,cord_v1
+NESTLE 330 ML,1,minuman,cord_v1
+2005-CHEESE JOHN,1,minuman,cord_v1
+SBL GR UDANG SPC,0,makanan,cord_v1
+SAMGYOPSAL,7,lain_lain,cord_v1
+OGYOPSAL,7,lain_lain,cord_v1
+YUKHWE,7,lain_lain,cord_v1
+RICE,1,minuman,cord_v1
+JABCHAE BEEF,0,makanan,cord_v1
+OCHA DINGIN,7,lain_lain,cord_v1
+SUNDUBU,7,lain_lain,cord_v1
+NASI KUNING,0,makanan,cord_v1
+CENTIKPLANCI,7,lain_lain,cord_v1
+MIKA KECIL,0,makanan,cord_v1
+SENDOK MAKAN,3,belanja,cord_v1
+GARPU,3,belanja,cord_v1
+HOT OCHA,1,minuman,cord_v1
+JYO HARAMI 30%,0,makanan,cord_v1
+WAKI SALAD,0,makanan,cord_v1
+MARBLED SIRLOIN STEAK 200gr,1,minuman,cord_v1
+FRANKFRUT SAUSAGE ROLL,7,lain_lain,cord_v1
+NS MINI STICK,0,makanan,cord_v1
+GERRY SM CHEESE110,1,minuman,cord_v1
+DECOLGEN TABLET 4S,7,lain_lain,cord_v1
+FIXALL HK 26521,7,lain_lain,cord_v1
+YELLOW,7,lain_lain,cord_v1
+VANBALL,7,lain_lain,cord_v1
+BANANA DONUT,0,makanan,cord_v1
+DARK CHOCOLATE MUFFIN,1,minuman,cord_v1
+[MD] MINI CASTELLA CHOCOL,0,makanan,cord_v1
+PREMIUM MILK PAN BREAD,1,minuman,cord_v1
+KAYA BUN,0,makanan,cord_v1
+TLJ HOTDOG,1,minuman,cord_v1
+"RB, Abon Sam",7,lain_lain,cord_v1
+Salad Deluxe,0,makanan,cord_v1
+Perkedel,7,lain_lain,cord_v1
+"Chicken HCC, 1PCS",0,makanan,cord_v1
+STIX CINNAMON,7,lain_lain,cord_v1
+BULGOGI JEONGSIK,7,lain_lain,cord_v1
+EL KEUN HWANGTAE,7,lain_lain,cord_v1
+SUNDUBU(TUKBEGI) GYERAN CIM,7,lain_lain,cord_v1
+BLACK PRAWN PASTA,0,makanan,cord_v1
+CARBONARA,7,lain_lain,cord_v1
+THAI GREEN TEA ICE,1,minuman,cord_v1
+SpcPrice Caudburry,1,minuman,cord_v1
+),7,lain_lain,cord_v1
+>,7,lain_lain,cord_v1
+FL-Xmas 30 Off,7,lain_lain,cord_v1
+Ayam goreng+Sayur asem,0,makanan,cord_v1
+Nasi Uduk Ayam,0,makanan,cord_v1
+Nasi Rawon,0,makanan,cord_v1
+Teh Tawar Dingin,1,minuman,cord_v1
+Sayur Asem,0,makanan,cord_v1
+NEW BEEF SPAGHETTI,0,makanan,cord_v1
+P/P AMERICAN FAV,7,lain_lain,cord_v1
+PAKET HAPPY HOUR,7,lain_lain,cord_v1
+RTD Jahe,7,lain_lain,cord_v1
+BITTERBALLEN,7,lain_lain,cord_v1
+MOZZARELA STICK,7,lain_lain,cord_v1
+NOUGAT ICE CREAM,1,minuman,cord_v1
+SAUCYS BROOD,7,lain_lain,cord_v1
+AMANDEL BROOD,7,lain_lain,cord_v1
+BOKKEPOOTJES,1,minuman,cord_v1
+Mie Jumbo Pst/bakso,0,makanan,cord_v1
+Bakmie Pst/ Bakso,0,makanan,cord_v1
+Liang Teh,1,minuman,cord_v1
+Es /hagat Jeruk,1,minuman,cord_v1
+Krupuk Babi Bungkus,0,makanan,cord_v1
+PEACH PASTRY,7,lain_lain,cord_v1
+ROYAL CHEESE TART,1,minuman,cord_v1
+JASMINE,0,makanan,cord_v1
+P. RIBS SP (R),7,lain_lain,cord_v1
+PORK TENDER (L),7,lain_lain,cord_v1
+TAIL STOMACH (S),7,lain_lain,cord_v1
+P. INTESTINE (R),1,minuman,cord_v1
+CAKWE (L),7,lain_lain,cord_v1
+WHITE RICE,1,minuman,cord_v1
+PLAIN CONGEE,7,lain_lain,cord_v1
+Fanta Stwbry (L),1,minuman,cord_v1
+UDANG REBUS (M),0,makanan,cord_v1
+ANGSIO TH PC JMR,7,lain_lain,cord_v1
+AYAM GR KERING,0,makanan,cord_v1
+NASI GORENG NJUN,0,makanan,cord_v1
+SUP BURUNG DARA,7,lain_lain,cord_v1
+CHINESE TEA KWAN'IM,1,minuman,cord_v1
+TUNA & CHEDDAR,7,lain_lain,cord_v1
+ONION RINGS,7,lain_lain,cord_v1
+AQUA BTL,1,minuman,cord_v1
+1GA+2CK+RW+RB12,7,lain_lain,cord_v1
+Astor Stick Cokelat 40gr,7,lain_lain,cord_v1
+green tea,1,minuman,cord_v1
+NASI UDUK SATE BUNTEL,0,makanan,cord_v1
+NASI BALI (EMPAL),0,makanan,cord_v1
+Benedict Burrito,7,lain_lain,cord_v1
+Lychee Ice Tea,1,minuman,cord_v1
+Soup Of The Day,0,makanan,cord_v1
+Strawberry jc,7,lain_lain,cord_v1
+Viet Latte,1,minuman,cord_v1
+SOGOGI JAPCHAE,7,lain_lain,cord_v1
+GYERAN MARI,7,lain_lain,cord_v1
+JEK SEOK TEOK POKI (S),7,lain_lain,cord_v1
+* MINERAL WATER,1,minuman,cord_v1
+EL KEUN HWANGTAE SUNDUBU (TUKBEGI),7,lain_lain,cord_v1
+DAK GANG JEONG,7,lain_lain,cord_v1
+YANG NYEOM SAM GYEOP SAL,7,lain_lain,cord_v1
+PREMIUM YANGNYEOM GALBISAL,0,makanan,cord_v1
+JEKSEOK YANG NYEOM GUI,7,lain_lain,cord_v1
+S-Fresh Lemon Lime,1,minuman,cord_v1
+SOP AYM BNG,0,makanan,cord_v1
+TEH TARIK P,1,minuman,cord_v1
+RB. COKLAT BUN,1,minuman,cord_v1
+RB. CREPES CHICKEN,1,minuman,cord_v1
+NESTLE 600 M1,1,minuman,cord_v1
+SINGLE Cone,7,lain_lain,cord_v1
+ELEPHANT READ BEAN,7,lain_lain,cord_v1
+chapsal twister donnut,7,lain_lain,cord_v1
+DOUBLE CHICK BREAST,7,lain_lain,cord_v1
+IPED MANDARIN,7,lain_lain,cord_v1
+Hokkaido,7,lain_lain,cord_v1
+TOAST BREAD,0,makanan,cord_v1
+- Gyro Platter Large,1,minuman,cord_v1
+TEH BTL ES,1,minuman,cord_v1
+TEH TELOR,1,minuman,cord_v1
+CORDON BLEU,7,lain_lain,cord_v1
+TRIPPLE CHEESF,1,minuman,cord_v1
+Mineral Water (S).,1,minuman,cord_v1
+Ayam Garang Asem,0,makanan,cord_v1
+Ayam. Kremes,1,minuman,cord_v1
+Nila Penyet + Nasi,0,makanan,cord_v1
+Nasi Goreng Gila,0,makanan,cord_v1
+Nasi Goreng Rawon,0,makanan,cord_v1
+Mendoan,7,lain_lain,cord_v1
+Teh Tawar Panas,1,minuman,cord_v1
+Jamur Kuping,3,belanja,cord_v1
+Caisim Kecil,7,lain_lain,cord_v1
+Lapchiong,7,lain_lain,cord_v1
+Otak-otak Singapore,7,lain_lain,cord_v1
+Bihun (MLY),7,lain_lain,cord_v1
+CHOCOLATE SUNDAE,1,minuman,cord_v1
+REGULAR FRIES,1,minuman,cord_v1
+TakeAway Charge,7,lain_lain,cord_v1
+KUE CUBIT OVO/ SKIPPY,7,lain_lain,cord_v1
+DODOT KAKEK,7,lain_lain,cord_v1
+DODOT CUCU COKLAT,1,minuman,cord_v1
+CHOCOLATE MILK SHAKE,1,minuman,cord_v1
+T. TARIK GREENTEA DINGIN,1,minuman,cord_v1
+ICED CAPPUCINO JELLY,1,minuman,cord_v1
+TEH PAHIT PANAS,1,minuman,cord_v1
+[RICHE] BLACK SAKURA,7,lain_lain,cord_v1
+Soto Daging,0,makanan,cord_v1
+Teh Tawar Hangat,1,minuman,cord_v1
+PAKET SUPER MANTAP 2A RAACHA,7,lain_lain,cord_v1
+1009-Roti Kelapa,0,makanan,cord_v1
+1245-Plastik Tentengan Kecil,3,belanja,cord_v1
+Dom Cha Vire Sls,7,lain_lain,cord_v1
+P J Cotes du,1,minuman,cord_v1
+AQUA 600ML,1,minuman,cord_v1
+BIHUN GORENG SPECIAL,0,makanan,cord_v1
+BIHUN MASAK KUAH,7,lain_lain,cord_v1
+ES ALPUKAT,1,minuman,cord_v1
+ES THE TAWAR,1,minuman,cord_v1
+IFUMIE,0,makanan,cord_v1
+JUICE ALPUKAT,1,minuman,cord_v1
+JUICE STRAWBERRY,1,minuman,cord_v1
+KWETIAW SIRAM SAPI,0,makanan,cord_v1
+KWETIAW SIRAM SEA,7,lain_lain,cord_v1
+KWETIAW GORENG SAPI,0,makanan,cord_v1
+KWETIAW GORENG SEA,0,makanan,cord_v1
+MIE GORENG SPECIAL,0,makanan,cord_v1
+MPEKMPEK K SELAM,7,lain_lain,cord_v1
+MPEKMPEK LENJER,7,lain_lain,cord_v1
+NASI GORENG SPECIAL,0,makanan,cord_v1
+TEH MANIS PANAS,1,minuman,cord_v1
+TEH TAWAR,1,minuman,cord_v1
+YAMIN BASO SAPI,0,makanan,cord_v1
+YAMIN PANGSIT REBUS,0,makanan,cord_v1
+SPECIALTY COMBO,7,lain_lain,cord_v1
+BOTTLED WATER,1,minuman,cord_v1
+STIX ECLAIRS,1,minuman,cord_v1
+PAKET DOSIRAK 1,7,lain_lain,cord_v1
+Choco Peanut,7,lain_lain,cord_v1
+Mineral water (s),1,minuman,cord_v1
+Blend GT (M),7,lain_lain,cord_v1
+Extra Ice Cream,1,minuman,cord_v1
+French Fries + FF,1,minuman,cord_v1
+Banana Cho + NuTea,1,minuman,cord_v1
+3002-Kyoto Choco Mochi,7,lain_lain,cord_v1
+1019-Choco Banana,7,lain_lain,cord_v1
+CUSTARD SOBORO,7,lain_lain,cord_v1
+Chicken Kazan Curry,0,makanan,cord_v1
+Chicken Karamiso Special,0,makanan,cord_v1
+Chicken Shio Special,0,makanan,cord_v1
+Beef Set A,0,makanan,cord_v1
+CHOCO TIME,7,lain_lain,cord_v1
+LONTONG CAP GO MEH,0,makanan,cord_v1
+NASI LIWET (SATE BUNTEL AYAM),0,makanan,cord_v1
+TEH JAWA,1,minuman,cord_v1
+BAGUETTE,3,belanja,cord_v1
+Angus Striploin,7,lain_lain,cord_v1
+Chicken Steak,1,minuman,cord_v1
+CK Redvelvet,7,lain_lain,cord_v1
+Creamed Spinach,7,lain_lain,cord_v1
+F Squeeze Orange,7,lain_lain,cord_v1
+House Blend,7,lain_lain,cord_v1
+Ice Tea Peach,1,minuman,cord_v1
+Ice Tea Rasp,1,minuman,cord_v1
+Jasmine Tea,1,minuman,cord_v1
+Roasted Chicken,0,makanan,cord_v1
+Salmon,7,lain_lain,cord_v1
+Salmon Seaweed Bowl,7,lain_lain,cord_v1
+3180-Soes Marmer,1,minuman,cord_v1
+1006-Roti Molen,0,makanan,cord_v1
+1244-Plastik Tentengan Sedang,3,belanja,cord_v1
+CHEESE TIME,1,minuman,cord_v1
+medium tub,7,lain_lain,cord_v1
+AOP Seafood,7,lain_lain,cord_v1
+Omurice Katsu Curry,1,minuman,cord_v1
+Earl Gray Tea,1,minuman,cord_v1
+SPICY WOSAM R,7,lain_lain,cord_v1
+1 MIE UP BSR C,0,makanan,cord_v1
+Fanta Strwbry (L),1,minuman,cord_v1
+XXI Java Tea Spc,1,minuman,cord_v1
+Caramel Medium,7,lain_lain,cord_v1
+Butter Milk Popcorn,1,minuman,cord_v1
+ORIGINAL 6 PCS,7,lain_lain,cord_v1
+KWT GR MGMSP,7,lain_lain,cord_v1
+TEH HANGAT,1,minuman,cord_v1
+CF NASI PUTIH,0,makanan,cord_v1
+CF BBQ CHKN WING,7,lain_lain,cord_v1
+FILLET DORI,7,lain_lain,cord_v1
+KERUPUK KERING,7,lain_lain,cord_v1
+Kwetiaw Ayam Jamur,0,makanan,cord_v1
+1/2 OTAK-OTAK,7,lain_lain,cord_v1
+Es Cincau,1,minuman,cord_v1
+CRANBERRY WALNUT (S),7,lain_lain,cord_v1
+BLACK CHEESE HOTDOG,1,minuman,cord_v1
+Lemon Tea (L),1,minuman,cord_v1
+Iced Sleepy Coffee,1,minuman,cord_v1
+PKT LELEH AYM GEPRK,7,lain_lain,cord_v1
+PKT MIE LELEH,0,makanan,cord_v1
+ES TEH TAWAR,1,minuman,cord_v1
+Lychee Tea,1,minuman,cord_v1
+FROZEN CAPUCINO,7,lain_lain,cord_v1
+NS BISTIK AYM TP,7,lain_lain,cord_v1
+NS+AYAM GR RICA,0,makanan,cord_v1
+KWETIAUW AYM SRM,7,lain_lain,cord_v1
+BANANA RHUM RAISIN,7,lain_lain,cord_v1
+PRAWN & SPINACH PASTA,0,makanan,cord_v1
+TRAD KY TOAST CARTE,0,makanan,cord_v1
+<AYA BUN,0,makanan,cord_v1
+CRISPY REAL CHEESE,1,minuman,cord_v1
+Lumpia Klt Tahu (3),0,makanan,cord_v1
+SM Udang & Aym (4),0,makanan,cord_v1
+XLB Kptg&Aym(4),7,lain_lain,cord_v1
+Brokoli Bwg Putih,7,lain_lain,cord_v1
+Mie Sup WT (U & A),0,makanan,cord_v1
+The Roselle,7,lain_lain,cord_v1
+VALUE MEAL 1,7,lain_lain,cord_v1
+Yakiniku Rice Organic,1,minuman,cord_v1
+Mocca Float,7,lain_lain,cord_v1
+ES ILAT BOYO,1,minuman,cord_v1
+SAMBEL TOMAT SEG,7,lain_lain,cord_v1
+SAYAP AYAM,0,makanan,cord_v1
+TEA TAWAR,1,minuman,cord_v1
+Soft Ori 3 Top,7,lain_lain,cord_v1
+Avocado with Rock Salt and Cocoa Cream [R],7,lain_lain,cord_v1
+Rock salt and Cheese [R] Coffee,1,minuman,cord_v1
+VALUE MEAL 2,7,lain_lain,cord_v1
+Nats Bitter Choco cake,0,makanan,cord_v1
+Es Kopi Susu Pandan,1,minuman,cord_v1
+Extra Whipping Cream,7,lain_lain,cord_v1
+Iced Coffee Latte,1,minuman,cord_v1
+Iced Sugar Cane,1,minuman,cord_v1
+Sparkling Mango Mojito,5,hiburan,cord_v1
+Iced Coffee,1,minuman,cord_v1
+GJ ROASTED MT ( R ),7,lain_lain,cord_v1
+GALBI TANG,7,lain_lain,cord_v1
+NASI(GONGGI BAB),0,makanan,cord_v1
+Peach Iced Tea,1,minuman,cord_v1
+Mango Mint Iced Tea,1,minuman,cord_v1
+Nannys Customer Fries,1,minuman,cord_v1
+Robert Olio Mushroom Spaghetti,5,hiburan,cord_v1
+Emily's Shrimp Scampi Fettucine,0,makanan,cord_v1
+MULNAENGMYON,7,lain_lain,cord_v1
+BEEF CURRY UDON,0,makanan,cord_v1
+LM Dmplg Chli Sc,7,lain_lain,cord_v1
+LM Poach Marble Beef,0,makanan,cord_v1
+XLB Org Pork 6x,7,lain_lain,cord_v1
+Oolong Jasmine Cup,0,makanan,cord_v1
+Tea,1,minuman,cord_v1
+KAKIAGE TEMPURA,7,lain_lain,cord_v1
+COLD OCHA,7,lain_lain,cord_v1
+REAL GANACHE,7,lain_lain,cord_v1
+Honey Mandarin,7,lain_lain,cord_v1
+HZ CHOCO MT (L) TOPPING,7,lain_lain,cord_v1
+MANGO GT (L),7,lain_lain,cord_v1
+CKM 1 OR,7,lain_lain,cord_v1
+Sundae,7,lain_lain,cord_v1
+Croisant Mini (NAM),0,makanan,cord_v1
+Bento Barbeque,7,lain_lain,cord_v1
+Lychee Float,7,lain_lain,cord_v1
+3001-Sakura Mochi,7,lain_lain,cord_v1
+Grande,7,lain_lain,cord_v1
+Lemon grass tea (Dine in),1,minuman,cord_v1
+Cheese Tea Hokkaido Melon,1,minuman,cord_v1
+SWEEAT ICE TEA,1,minuman,cord_v1
+OREO MILK BLEND,1,minuman,cord_v1
+FRIED RC SFOOD,0,makanan,cord_v1
+SHISHA,7,lain_lain,cord_v1
+MASHED POTATO,7,lain_lain,cord_v1
+XXL Crispy Chicken,0,makanan,cord_v1
+Original Hugarian Ku,7,lain_lain,cord_v1
+RB. AI-AI CHOCO,7,lain_lain,cord_v1
+Combo 1,7,lain_lain,cord_v1
+LEMONADE22OZ,1,minuman,cord_v1
+CHOCOLATE ICE CREAM,1,minuman,cord_v1
+MOCCA ICE CREAM,1,minuman,cord_v1
+WAKI PLATTER FOR 4-5,1,minuman,cord_v1
+CHAPJEA,7,lain_lain,cord_v1
+KALBI PLATTER 2-3,1,minuman,cord_v1
+escargot florentine,1,minuman,cord_v1
+Zurich Geschnitzel,1,minuman,cord_v1
+Valdostana,7,lain_lain,cord_v1
+Chicken Herb Crust,0,makanan,cord_v1
+Lasagna Di Carne,0,makanan,cord_v1
+Lemon Jc,1,minuman,cord_v1
+Apple Pie,0,makanan,cord_v1
+hot tea,1,minuman,cord_v1
+hot lemon tea,1,minuman,cord_v1
+Seaweed Chicken,0,makanan,cord_v1
+"ROTI ""0""",0,makanan,cord_v1
+SHOPPING BAG ROTI'O' 370/,0,makanan,cord_v1
+Bakmi Ayam Spc Ng,0,makanan,cord_v1
+Box Bakmie (M),0,makanan,cord_v1
+Bakmi Ultah,0,makanan,cord_v1
+Box Yi Fu Mie (L),0,makanan,cord_v1
+PILLOW COKLAT,1,minuman,cord_v1
+PILLOW DURIAN,7,lain_lain,cord_v1
+KCS 1,7,lain_lain,cord_v1
+WHOP JR 15K,7,lain_lain,cord_v1
+CHANGE TO CHICKEN BOX,0,makanan,cord_v1
+BULGOGI SET,7,lain_lain,cord_v1
+(TW) MIE GORENG AYAM,0,makanan,cord_v1
+(TW)NASI GORENG,0,makanan,cord_v1
+Bakso Campur,0,makanan,cord_v1
+Es Teh Manis,1,minuman,cord_v1
+1.5 JAM,3,belanja,cord_v1
+CHOCO CORONET,7,lain_lain,cord_v1
+ORIGINAL COMBO,7,lain_lain,cord_v1
+Nu Greentea 330,1,minuman,cord_v1
+LAPIS SINGAPUR,7,lain_lain,cord_v1
+AREM AREM,7,lain_lain,cord_v1
+MIKA BESAR,1,minuman,cord_v1
+GoFood Beragam - ICE LAT TE,1,minuman,cord_v1
+B16COKSER,7,lain_lain,cord_v1
+DP. ORDER,7,lain_lain,cord_v1
+CHOCO CROSSIANT,7,lain_lain,cord_v1
+CHIKATSU BEN,7,lain_lain,cord_v1
+BOX T. O,7,lain_lain,cord_v1
+bluberry pastry,2,transportasi,cord_v1
+NIKU UDON,0,makanan,cord_v1
+ABURA UDON (SPICY),0,makanan,cord_v1
+INARI,7,lain_lain,cord_v1
+CORONET,7,lain_lain,cord_v1
+SPOOKY SOBORO,7,lain_lain,cord_v1
+SCREAMING RED BEAN,0,makanan,cord_v1
+Pork Belly Cheese Fries,1,minuman,cord_v1
+Reflection Sparkling,5,hiburan,cord_v1
+Hot Black Cofee,1,minuman,cord_v1
+Nasi Campur ala Bali,0,makanan,cord_v1
+"Oriental ""Ketjap"" Pork Rice",1,minuman,cord_v1
+Hulk Topper Package,7,lain_lain,cord_v1
+OCHA COLD,7,lain_lain,cord_v1
+ABURA SOBA CHK,7,lain_lain,cord_v1
+Thai Tea - ICE,1,minuman,cord_v1
+Green Tea ICE,1,minuman,cord_v1
+Thai Coffee ICE,1,minuman,cord_v1
+[MD] SOFT STEAMED CHEESEC,1,minuman,cord_v1
+Handmade Oyster Mee..,7,lain_lain,cord_v1
+NS FILET IKN ASM MNS,7,lain_lain,cord_v1
+NS+AYAM GR TPG,0,makanan,cord_v1
+NASI GORENG SPC,0,makanan,cord_v1
+BCA PROMO,7,lain_lain,cord_v1
+SKEWERED SHUMAI,7,lain_lain,cord_v1
+SKEWERED TOFU ROLL,7,lain_lain,cord_v1
+EBI TEMPURA,7,lain_lain,cord_v1
+KITSUNE UDON (KIDS),0,makanan,cord_v1
+Pangsit Delima,7,lain_lain,cord_v1
+Lumpia Udg K Th,7,lain_lain,cord_v1
+Ha Kaou Udng,7,lain_lain,cord_v1
+Cheong Fen Udg,7,lain_lain,cord_v1
+Hatosi Rambutan,7,lain_lain,cord_v1
+Sio May Kpting,7,lain_lain,cord_v1
+Kwo Tie Jala2,7,lain_lain,cord_v1
+Pancake Durian,0,makanan,cord_v1
+Mie Gr Udg Gala,0,makanan,cord_v1
+Lamien Udang T,0,makanan,cord_v1
+Lamien Aym Ktsu,0,makanan,cord_v1
+Ns Pgng Kj Sp,7,lain_lain,cord_v1
+Kwt Polos Mdn,7,lain_lain,cord_v1
+N Aym Hainam Jl,7,lain_lain,cord_v1
+Chinese Tea,1,minuman,cord_v1
+BLACKCURRANT,7,lain_lain,cord_v1
+FRIED CALAMARI,0,makanan,cord_v1
+SALTED EGG FISH & CHIPS,0,makanan,cord_v1
+DANISH FISH & CHIPS,0,makanan,cord_v1
+5003-Chokoreto Cookies,1,minuman,cord_v1
+SATE T1,0,makanan,cord_v1
+Popcorn Sweet (S),7,lain_lain,cord_v1
+TORI BAITAN UDON,0,makanan,cord_v1
+BEEF CURRY RICE,1,minuman,cord_v1
+Caramel Small,7,lain_lain,cord_v1
+CREAMCHEESE WALNUT BREAD,1,minuman,cord_v1
+ROLL-IT PIZZA BREAD,0,makanan,cord_v1
+JAPANEESE GR TEA HOT,1,minuman,cord_v1
+CHICKEN SKIN,0,makanan,cord_v1
+GYU MOZZA DON,7,lain_lain,cord_v1
+C.KATSU NOODLE HP,0,makanan,cord_v1
+TALKING ACTIVITY BK,7,lain_lain,cord_v1
+KERTAS KADO 1500,3,belanja,cord_v1
+H N Cheesy Chic,1,minuman,cord_v1
+K.Chees Chic RC,1,minuman,cord_v1
+MOCA FLT OVLTIN,7,lain_lain,cord_v1
+FFries Large,1,minuman,cord_v1
+PaulanerP1,7,lain_lain,cord_v1
+DarkBeer0.5L,1,minuman,cord_v1
+Weiss 0.3 L,7,lain_lain,cord_v1
+Grill Sea Bass,7,lain_lain,cord_v1
+LgrBeer0.3L,1,minuman,cord_v1
+FlyDark 0.3,7,lain_lain,cord_v1
+DarkBeer0.3L,1,minuman,cord_v1
+1004-Smoked Cheese & Mushroom,1,minuman,cord_v1
+DP. ORDER / 19cc0665,7,lain_lain,cord_v1
+SHISAMO MENTAIKO,7,lain_lain,cord_v1
+SALMON BACON,7,lain_lain,cord_v1
+DYNAMITE SCALLOP,0,makanan,cord_v1
+TOBIKO TOFU,7,lain_lain,cord_v1
+Salted Egg Yalk Chicken,0,makanan,cord_v1
+ALMOND SUGAR MILK BREAD,1,minuman,cord_v1
+KINGBBOBPG ML REG,7,lain_lain,cord_v1
+MED ICED LEMON TEA,1,minuman,cord_v1
+CUSTARD BRIOCHE,7,lain_lain,cord_v1
+Cheese Twist,1,minuman,cord_v1
+Classic Milktea,1,minuman,cord_v1
+Kupon 13,7,lain_lain,cord_v1
+MILK CREAM BREAD,1,minuman,cord_v1
+REAL MILK CHOCO BREAD,1,minuman,cord_v1
+RED BEAN BRAIDED BREAD,7,lain_lain,cord_v1
+TAHU SATUAN,0,makanan,cord_v1
+mush pasta,0,makanan,cord_v1
+chic ques,1,minuman,cord_v1
+DumDum Thai Iced Tea,1,minuman,cord_v1
+ZUPPA SOUP,0,makanan,cord_v1
+CHILLY N'CHEESE,1,minuman,cord_v1
+BEEF CHEDDAR PO,0,makanan,cord_v1
+Masker Bengkuang,6,kesehatan,cord_v1
+Soaghetti Deluxe,7,lain_lain,cord_v1
+CHCKN CHEESE,1,minuman,cord_v1
+NASI RAMES,1,minuman,cord_v1
+AYAM PANGGANG,0,makanan,cord_v1
+ES TEH/TAWAR,1,minuman,cord_v1
+Nasi CampurBali,0,makanan,cord_v1
+Sambal Besar,1,minuman,cord_v1
+Sambal Kecil,7,lain_lain,cord_v1
+KrpBangka/Bawang,7,lain_lain,cord_v1
+Hero,7,lain_lain,cord_v1
+Choco Bite,7,lain_lain,cord_v1
+Avocado with Rock Salt and Cocoa,7,lain_lain,cord_v1
+LE MINERALE 600ML,1,minuman,cord_v1
+PLASTIK SDG,3,belanja,cord_v1
+DORI SAMBAL MATAH 1+1,7,lain_lain,cord_v1
+IKAN GURAME MED,0,makanan,cord_v1
+CUMI GR TEPUNG,0,makanan,cord_v1
+AGSIO TH PC JMR,7,lain_lain,cord_v1
+POCAI BWG PUTIH,7,lain_lain,cord_v1
+LUMPIA UDG PREM,7,lain_lain,cord_v1
+Pink Panther (P),7,lain_lain,cord_v1
+Red dragon (P),7,lain_lain,cord_v1
+Pecel Pincuk,0,makanan,cord_v1
+Tahu Bacem,0,makanan,cord_v1
+Tempe Bacem,0,makanan,cord_v1
+Empal,7,lain_lain,cord_v1
+Peyek Parcel,7,lain_lain,cord_v1
+VALINO DONNA,7,lain_lain,cord_v1
+SB SIZE 45.5,7,lain_lain,cord_v1
+1517-ROTI KENTANG KEJU MANIS,0,makanan,cord_v1
+1009-ROTI KELAPA,0,makanan,cord_v1
+1439-TUNA CHEESE WHEAT SANDWICH,1,minuman,cord_v1
+1244-PLASTIK TENTENGAN SEDANG,3,belanja,cord_v1
+THAI ICETEA,1,minuman,cord_v1
+ICE GREENTEA,1,minuman,cord_v1
+Aqua MinWtr 330ml,1,minuman,cord_v1
+R.PISANG COKLAT,1,minuman,cord_v1
+D.RING COKLAT,1,minuman,cord_v1
+R.BANA CHIP,7,lain_lain,cord_v1
+R.TAWAR ISI 2,7,lain_lain,cord_v1
+NU GREENTEA ORGE,1,minuman,cord_v1
+YAKULT ISI 5 PCS,1,minuman,cord_v1
+T. CREAM M 21,7,lain_lain,cord_v1
+PAKET BER2,7,lain_lain,cord_v1
+Bio Solar,2,transportasi,cord_v1
+CUSTARD SOB RO,7,lain_lain,cord_v1
+AYAM GR BUMBU,0,makanan,cord_v1
+Small 1,7,lain_lain,cord_v1
+*PlastiK Kcl,3,belanja,cord_v1
+Cha Keaw,7,lain_lain,cord_v1
+Mineral Water 600 ml,1,minuman,cord_v1
+Teh Pucuk 350 ml,1,minuman,cord_v1
+SOUR CREAM N ONION,7,lain_lain,cord_v1
+MILK PASTRY ROLL,1,minuman,cord_v1
+YIFUMI,0,makanan,cord_v1
+LIMAU KASTURI,7,lain_lain,cord_v1
+LOYALTY PROGRAM,7,lain_lain,cord_v1
+CHICKEN PICATTA,0,makanan,cord_v1
+JAVA TEA,1,minuman,cord_v1
+VANBOOLEN,7,lain_lain,cord_v1
+JONGKONG,7,lain_lain,cord_v1
+MDSE ST,7,lain_lain,cord_v1
+Ayam Grg Kalasan,0,makanan,cord_v1
+Tempe,0,makanan,cord_v1
+LUMPIA,7,lain_lain,cord_v1
+SOSIS SOLO,7,lain_lain,cord_v1
+LUMPUR,7,lain_lain,cord_v1
+DADAR PISANG,7,lain_lain,cord_v1
+KLEPON,7,lain_lain,cord_v1
+BUGIS,7,lain_lain,cord_v1
+MACARONI,7,lain_lain,cord_v1
+PLASTIK TENTENG,3,belanja,cord_v1
+1013-ROTI NANAS,0,makanan,cord_v1
+3025-BOLU GULUNG MOCCA PTG,7,lain_lain,cord_v1
+5014-LEMPER IKAN,0,makanan,cord_v1
+1245-PLASTIK TENTENGAN KECIL,3,belanja,cord_v1
+HAI CMP SPC,7,lain_lain,cord_v1
+1026-Garlic Pesto,1,minuman,cord_v1
+1028-Dark Choco Creamcheese,1,minuman,cord_v1
+Gado Gado,0,makanan,cord_v1
+Nasi Putih GG,0,makanan,cord_v1
+WOOSAM RICE R,1,minuman,cord_v1
+ChicTeriyakiTeishoku,7,lain_lain,cord_v1
+JapaneseBeef Hamburg,1,minuman,cord_v1
+Ocha Cold,7,lain_lain,cord_v1
+Ocha Hot,1,minuman,cord_v1
+ORI SLMN,7,lain_lain,cord_v1
+Kopi Susu R,1,minuman,cord_v1
+Premier Mineral Water (L t1),1,minuman,cord_v1
+NEW BEEF LASAGNA,0,makanan,cord_v1
+Kuey Teow Goreng Singapore,0,makanan,cord_v1
+Tea (Ice),1,minuman,cord_v1
+TONGSENG SAPI,0,makanan,cord_v1
+Passionfruit Mojito,7,lain_lain,cord_v1
+OPEN KITCHEN,7,lain_lain,cord_v1
+TAHU LAMPION,0,makanan,cord_v1
+SUP JGG KPT,7,lain_lain,cord_v1
+LUMPIA UDANG,0,makanan,cord_v1
+CHOCOLATE ECLAIR,1,minuman,cord_v1
+DOUBLE CHEESE PAN BREAD(L,1,minuman,cord_v1
+WHOLE WHEAT PAN BREAD,7,lain_lain,cord_v1
+3190-Disney Taartjes Siram Coklat,1,minuman,cord_v1
+4032-Mini Glazed Croissant (isi 5 pcs),0,makanan,cord_v1
+Milo,0,makanan,cord_v1
+KOPI CAM,1,minuman,cord_v1
+Nasi Goreng Buntut,0,makanan,cord_v1
+Ayam Penyet Sambal Glede,0,makanan,cord_v1
+Teh Tubruk Jahe,1,minuman,cord_v1
+Combo 4,7,lain_lain,cord_v1
+Crispy Mushroom,7,lain_lain,cord_v1
+Equil Natural,7,lain_lain,cord_v1
+SB 1 HC,7,lain_lain,cord_v1
+Sabun Beras,0,makanan,cord_v1
+SI EKO,7,lain_lain,cord_v1
+HZ CHOCO M1 (L) TOPPING,7,lain_lain,cord_v1
+SUSHI SALMON,0,makanan,cord_v1
+SALAD DRESSING THOUSAND ISLAND,1,minuman,cord_v1
+SHRIMP SATSUMA,7,lain_lain,cord_v1
+SHITAKE SKEWER,7,lain_lain,cord_v1
+SPICY TEMPURA,7,lain_lain,cord_v1
+SAUCE SHOYU SUSHI YAMASA HALAL,0,makanan,cord_v1
+SUSHI SALMON FRESH PAKET,1,minuman,cord_v1
+SENDOK DAN GARPU PLASTIK,3,belanja,cord_v1
+TOBIKKO ORANGE,7,lain_lain,cord_v1
+TAMAGO,7,lain_lain,cord_v1
+SATSUMA AGE NIGIRI,7,lain_lain,cord_v1
+M02.LMK BEEF RNDANG,0,makanan,cord_v1
+I13.SIMANGOSONG,7,lain_lain,cord_v1
+101.NS BEBEK KAMPUNG,7,lain_lain,cord_v1
+A13.MIE ACP,0,makanan,cord_v1
+CT06.TEA 0 HOT R.,1,minuman,cord_v1
+CT06.TEA 0 ICE R.,1,minuman,cord_v1
+NO1.MR.MI TLR ASIN,0,makanan,cord_v1
+Tea Latte,1,minuman,cord_v1
+1057-French Bread Puding,7,lain_lain,cord_v1
+[MD] SOFT STEAMED CHOCOCA,1,minuman,cord_v1
+[MD] MINI CASTELLA ORIGIN,0,makanan,cord_v1
+Six,7,lain_lain,cord_v1
+GYOZA AYAM GORENG,0,makanan,cord_v1
+RAMEN AYAM SPECIAL,0,makanan,cord_v1
+White Toast,0,makanan,cord_v1
+DL+GA+FF+R+2RB,7,lain_lain,cord_v1
+UP Drink 16,1,minuman,cord_v1
+UP Orange 16,7,lain_lain,cord_v1
+KP BRANDING S,7,lain_lain,cord_v1
+HYDROCOCO 250ML,7,lain_lain,cord_v1
+STRAWBERRY FRESH CREAM CA,1,minuman,cord_v1
+YAKI ADULT,7,lain_lain,cord_v1
+SHABU ADULT,7,lain_lain,cord_v1
+Salted Egg Chicken,0,makanan,cord_v1
+Nasi,0,makanan,cord_v1
+Soup Patin,0,makanan,cord_v1
+Kerang/Kikil,7,lain_lain,cord_v1
+Tahu Woku,0,makanan,cord_v1
+Tahu Bakso,0,makanan,cord_v1
+Teh Kotak,1,minuman,cord_v1
+Mineral Cup,1,minuman,cord_v1
+Combo 1.,7,lain_lain,cord_v1
+Cappucino,7,lain_lain,cord_v1
+Lemon Juice,1,minuman,cord_v1
+Croque Mme.,7,lain_lain,cord_v1
+Canele (Mini),0,makanan,cord_v1
+JPR SUS U,7,lain_lain,cord_v1
+L C MESES,1,minuman,cord_v1
+PLASTIK 33,3,belanja,cord_v1
+NOIR PIZZA BREAD,0,makanan,cord_v1
+PILOW DUR PX,7,lain_lain,cord_v1
+SIOMAY,0,makanan,cord_v1
+MIKA SEDANG,0,makanan,cord_v1
+GARPU MAKAN,3,belanja,cord_v1
+MACARONI GR,7,lain_lain,cord_v1
+PASTELGORENG,0,makanan,cord_v1
+SEMAR MENDEM,7,lain_lain,cord_v1
+BAKWAN JAGUNG,7,lain_lain,cord_v1
+Polo 1,7,lain_lain,cord_v1
+Sate Babi Manis,0,makanan,cord_v1
+Sate Babi Bumbu Bali,0,makanan,cord_v1
+Lapolong,7,lain_lain,cord_v1
+Sate Babi Cabe Ijo,0,makanan,cord_v1
+Paru Babi,0,makanan,cord_v1
+Ngohiong,7,lain_lain,cord_v1
+SMOKY PAN CLASSIC,7,lain_lain,cord_v1
+Chicken Popcorn,0,makanan,cord_v1
+A.MINERAL GELAS,1,minuman,cord_v1
+Pastel,7,lain_lain,cord_v1
+Kroket,7,lain_lain,cord_v1
+MANGGO SMOOTHIE,1,minuman,cord_v1
+S-Chocolate Milk,1,minuman,cord_v1
+Popcorn Salt (S),7,lain_lain,cord_v1
+Tebu Lemon,1,minuman,cord_v1
+BLACKPINK,7,lain_lain,cord_v1
+MATCHABERRY,1,minuman,cord_v1
+KING DEAL CHEESE BG,1,minuman,cord_v1
+1 BIC ALA CARTE,7,lain_lain,cord_v1
+BENTO CHICKEN TERIYAKI,0,makanan,cord_v1
+SURIMI - SATSUMA AGE VEGETABLE,0,makanan,cord_v1
+CALAMARI KATSU,7,lain_lain,cord_v1
+DORI KATSU,7,lain_lain,cord_v1
+ROBA - SPICY KAWA SKEWER KULIT,7,lain_lain,cord_v1
+SALAD DRESSING SPICY TOMATOES KEWPIE 25ML,1,minuman,cord_v1
+Choco Lining Bread,7,lain_lain,cord_v1
+Tuna N Chicken Floos Bread,0,makanan,cord_v1
+CROQUE MONSIEUR,7,lain_lain,cord_v1
+1017-Roti Pisang Keju,0,makanan,cord_v1
+1025-Roti Sosis Sapi,0,makanan,cord_v1
+CHICKEN KATSU CURRY RICE,1,minuman,cord_v1
+SUL LUNG TANG,7,lain_lain,cord_v1
+BREAD BOX M,7,lain_lain,cord_v1
+Gangster BZR,7,lain_lain,cord_v1
+NB AYAM,0,makanan,cord_v1
+TEH/ES TEH MANIS,1,minuman,cord_v1
+CB PR SIRLOIN,7,lain_lain,cord_v1
+F.FRIES MEDIUM,1,minuman,cord_v1
+F.FRIES COMBO,1,minuman,cord_v1
+BROWN SAUCE,7,lain_lain,cord_v1
+COCA COLA,1,minuman,cord_v1
+WALL'S BABY SHARK 60,7,lain_lain,cord_v1
+WALL'S FEAST VNILA65,7,lain_lain,cord_v1
+Full Box,7,lain_lain,cord_v1
+KOROKE ORI,7,lain_lain,cord_v1
+KOROKE CURRY,7,lain_lain,cord_v1
+EBI KTSU 1 PCS,7,lain_lain,cord_v1
+TSUKUNE,7,lain_lain,cord_v1
+MOMO,7,lain_lain,cord_v1
+ONIGIRI,7,lain_lain,cord_v1
+GRAINS PAN BREAD,7,lain_lain,cord_v1
+NASI CAH JAMUR,0,makanan,cord_v1
+BIHUN GORENG AYAM,0,makanan,cord_v1
+Bihun Ayam Jamur,0,makanan,cord_v1
+ES KOPI SOKLAT,1,minuman,cord_v1
+WARISAN 2 FREE DRINK,1,minuman,cord_v1
+Pepper Steak,1,minuman,cord_v1
+DAGING SAPI,0,makanan,cord_v1
+REGULAR JASMINE TEA,1,minuman,cord_v1
+Kupon 4,7,lain_lain,cord_v1
+BOGO CHEESY RASHER,1,minuman,cord_v1
+MS SWISS ML MED,7,lain_lain,cord_v1
+1 PC CHOCHICKS,7,lain_lain,cord_v1
+Crispy Egg Corn,7,lain_lain,cord_v1
+Mun Tofu,7,lain_lain,cord_v1
+Go Hiong,7,lain_lain,cord_v1
+Steam Rice,1,minuman,cord_v1
+Lemon iced tea,1,minuman,cord_v1
+Banana Milkshake,1,minuman,cord_v1
+Heavy alvin potato,7,lain_lain,cord_v1
+fettucine Hubert chicken capers,0,makanan,cord_v1
+BASO KWETIAU,0,makanan,cord_v1
+SUKIYAKI BEEF RICE DEALJAVA,1,minuman,cord_v1
+Nasi Goreng Ayam,0,makanan,cord_v1
+Nasi (MLY),0,makanan,cord_v1
+TLJ SPANISH COFFEE,1,minuman,cord_v1
+CLASSIC CREAMCEESE CINNAM,1,minuman,cord_v1
+DN. LONG JOHN,7,lain_lain,cord_v1
+RB. SAPSAY CHICKEN,0,makanan,cord_v1
+IKAN GURAME REG,0,makanan,cord_v1
+POCAI 3 TELUR,7,lain_lain,cord_v1
+UDG GR MAYONAISE,7,lain_lain,cord_v1
+TAHU JPG S TRM,0,makanan,cord_v1
+ES TEH TAW GUILINGGAO,1,minuman,cord_v1
+OPEN DESSERT,1,minuman,cord_v1
+Chicken Soy Sauce H,0,makanan,cord_v1
+Butter Cheese Corn,1,minuman,cord_v1
+Bintang L,7,lain_lain,cord_v1
+Chum Churum,7,lain_lain,cord_v1
+CHEESE VOLCANO,1,minuman,cord_v1
+Happy Rice Box,1,minuman,cord_v1
+Grilled Salmon Head,7,lain_lain,cord_v1
+Tairyos Salmon Maki,1,minuman,cord_v1
+Tepanyaki Cawanmushi,7,lain_lain,cord_v1
+Teppan Seafood Fr Rc,7,lain_lain,cord_v1
+Tobiko Gunkan,7,lain_lain,cord_v1
+CHOC BANANA,7,lain_lain,cord_v1
+CHEESE BUN,1,minuman,cord_v1
+SUPER CHEESE,1,minuman,cord_v1
+CLS CHK CHIL,7,lain_lain,cord_v1
+PLASTIC BAG ME,3,belanja,cord_v1
+MACARON BLUE,7,lain_lain,cord_v1
+Pavarotti,7,lain_lain,cord_v1
+Lov Triangle,7,lain_lain,cord_v1
+Choco Bun,0,makanan,cord_v1
+Mgc Chees Wd,1,minuman,cord_v1
+Hot Cappuccino,1,minuman,cord_v1
+Ice Cappuccino,1,minuman,cord_v1
+MUF CHOC CHP,7,lain_lain,cord_v1
+CHO CAKE SMA,0,makanan,cord_v1
+HAZELNUT,7,lain_lain,cord_v1
+NS GR TELOR KEBULI,7,lain_lain,cord_v1
+Es Kopi Susu Sudirma n,1,minuman,cord_v1
+S-KOI Cafe Macchiat,7,lain_lain,cord_v1
+-Plastic Big Small,3,belanja,cord_v1
+-Chokoreto Cookies,1,minuman,cord_v1
+-Corn Flakes Cookies,1,minuman,cord_v1
+CARBONARA UDON,0,makanan,cord_v1
+EGG TEMPURA [P],7,lain_lain,cord_v1
+Elevenia Taro Smoothies,1,minuman,cord_v1
+WHDP JR 15K,7,lain_lain,cord_v1
+TakeQuay Charge,7,lain_lain,cord_v1
+Pandan Cream brulee,7,lain_lain,cord_v1
+Tanqueray NO 10 gls,7,lain_lain,cord_v1
+Lurisia Bolle 330ml,7,lain_lain,cord_v1
+Lurisia stille 330ml,7,lain_lain,cord_v1
+Tonic Water,1,minuman,cord_v1
+RAKUNI KM KEJU PCS/PCS,7,lain_lain,cord_v1
+OCHA HANGAT,7,lain_lain,cord_v1
+BL1 M LW,7,lain_lain,cord_v1
+WH3 M LW,7,lain_lain,cord_v1
+RE5 M LW,7,lain_lain,cord_v1
+[REG] BLACK SAKURA,7,lain_lain,cord_v1
+Combo 2,7,lain_lain,cord_v1
+KEJU SUSU,1,minuman,cord_v1
+PISANG KEJU,7,lain_lain,cord_v1
+PHILLY CHEESESTEAK SL,1,minuman,cord_v1
+SAUSAGE PASTRY ROLL,7,lain_lain,cord_v1
+AQUA BOTTLE,1,minuman,cord_v1
+LIPTON ICE TEA REGULA,1,minuman,cord_v1
+KAKE UDON,0,makanan,cord_v1
+BEEF CURRYRICE,1,minuman,cord_v1
+Solar,2,transportasi,cord_v1
+Salted Egg Yolk Chicken,0,makanan,cord_v1
+CHOCO CUSTAF D PASTRY,7,lain_lain,cord_v1
+CUSTARD BRIC CHE,7,lain_lain,cord_v1
+RM0025 -RM. Tawar Polo,7,lain_lain,cord_v1
+Fruit Compliment,7,lain_lain,cord_v1
+Udang Mentega Sdg (M,0,makanan,cord_v1
+Chinese Tea-Jasmine,1,minuman,cord_v1
+Buruno Gr IN,7,lain_lain,cord_v1
+SALMON PESTO,1,minuman,cord_v1
+GRILLED SALMON TERIYAK,7,lain_lain,cord_v1
+FRESH FRUIT COCKTAIL,1,minuman,cord_v1
+NASI 2SAYUR TELR,0,makanan,cord_v1
+Shampo Aloevera,7,lain_lain,cord_v1
+Sabun Propolis,0,makanan,cord_v1
+Sabun Transparant Madu,0,makanan,cord_v1
+Cream Soup,0,makanan,cord_v1
+CHEESE KC BOKUMBAP,1,minuman,cord_v1
+JAJANGMYEON,7,lain_lain,cord_v1
+BUBBLE GUM,7,lain_lain,cord_v1
+CAPPUCINO BLEND,7,lain_lain,cord_v1
+STRAWBERRY,7,lain_lain,cord_v1
+COOKIES AND CREAM,1,minuman,cord_v1
+DADA DADA,7,lain_lain,cord_v1
+ateh Tawar ateh Tawar,1,minuman,cord_v1
+Giant Squid,7,lain_lain,cord_v1
+Milo Dino,0,makanan,cord_v1
+Toripaitan shoyu telur,7,lain_lain,cord_v1
+Toripaitan Ekstrim telur,7,lain_lain,cord_v1
+Green Tea cold,1,minuman,cord_v1
+(Goreng)Ayam Gyoza,0,makanan,cord_v1
+Mineral water(normal),1,minuman,cord_v1
+Spaghetti Deluxe,5,hiburan,cord_v1
+Hot Dog W Cheese,1,minuman,cord_v1
+ROTI,0,makanan,cord_v1
+CHUM CHURUM,7,lain_lain,cord_v1
+CHAMISUL,0,makanan,cord_v1
+CHULPAN CHEESE DAK GALBI,1,minuman,cord_v1
+CREAM TEOK PO KI,7,lain_lain,cord_v1
+CHUM CHURUM PEACH,7,lain_lain,cord_v1
+CHAM KKOT SAL,7,lain_lain,cord_v1
+U SAM GYEOP,7,lain_lain,cord_v1
+CHEESE GAMJAJEON,1,minuman,cord_v1
+BIHUN CAMPUR,7,lain_lain,cord_v1
+JERUK MURNI,1,minuman,cord_v1
+ES NONA REGULAR,1,minuman,cord_v1
+ORIGINAL SALT,7,lain_lain,cord_v1
+SIRSAK,7,lain_lain,cord_v1
+SUNKIST,7,lain_lain,cord_v1
+CHEESE ROLLS 6PCS,1,minuman,cord_v1
+PAKET BER2 UP1,7,lain_lain,cord_v1
+PAKET BER4 UP2,7,lain_lain,cord_v1
+MOKDENGSIM,7,lain_lain,cord_v1
+JINSENG SAMGYETANG,7,lain_lain,cord_v1
+PAJON,7,lain_lain,cord_v1
+BIR BINTANG BOTOL ( ),2,transportasi,cord_v1
+BULGOGI BIBIMBAB,7,lain_lain,cord_v1
+STBERRY MT (L) TOPPING,7,lain_lain,cord_v1
+UDG GR TLUR ASIN =*MEDIUM*=,7,lain_lain,cord_v1
+SAPO TH SEAFOOD =*MEDIUM*=,7,lain_lain,cord_v1
+BIHUN GORENG JJ =*MEDIUM*=,0,makanan,cord_v1
+OYONG 3 TELOR =*MEDIUM*=,7,lain_lain,cord_v1
+Luxury Jolie Mi,0,makanan,cord_v1
+HOLDAK SET 1,7,lain_lain,cord_v1
+AMOUSH DBL CHS BURG,7,lain_lain,cord_v1
+SHARKIE FREEZE,7,lain_lain,cord_v1
+DINE FOR 2,7,lain_lain,cord_v1
+golden,7,lain_lain,cord_v1
+ON TAMA UDON (HOT),1,minuman,cord_v1
+ABURA UDON (ORIGINAL),0,makanan,cord_v1
+GREEN BEAN KAKIAGE,7,lain_lain,cord_v1
+EGG TEMPURA,7,lain_lain,cord_v1
+BEEF CROQUETTE,0,makanan,cord_v1
+TERITAMA 4 PCS,7,lain_lain,cord_v1
+CRUNCHY CHOC,7,lain_lain,cord_v1
+FREE LILIN SPIRAL,7,lain_lain,cord_v1
+SmokeBeef + NuTea,1,minuman,cord_v1
+Ayam Goreng Crispy Spicy,0,makanan,cord_v1
+Capcai Seafood,7,lain_lain,cord_v1
+Soup Baso Ikan,0,makanan,cord_v1
+Puppy Pao,7,lain_lain,cord_v1
+Roasted Milk Tea,1,minuman,cord_v1
+TEH PUCUK,1,minuman,cord_v1
+SPICY C CHEESE,1,minuman,cord_v1
+TAKEOUT(1): Viet Latte,1,minuman,cord_v1
+1023-Chocochip & Walnut,7,lain_lain,cord_v1
+Goban Puas C,7,lain_lain,cord_v1
+AIR MINERAL,1,minuman,cord_v1
+I TRIPL CHZ,7,lain_lain,cord_v1
+I SPECIAL SBL MATAH,7,lain_lain,cord_v1
+I ROA GORENG SPC,0,makanan,cord_v1
+E Money Justice Leag,1,minuman,cord_v1
+MEDIUM FRIES,1,minuman,cord_v1
+REGULAR COKE,7,lain_lain,cord_v1
+K11 CHOCO 1217,7,lain_lain,cord_v1
+Sprite (L).,1,minuman,cord_v1
+Extra Jelly Lychee.,7,lain_lain,cord_v1
+M-Ovaltine Macchiat,7,lain_lain,cord_v1
+M-Konjac Milk Tea,1,minuman,cord_v1
+1009-Honey Pistachio,7,lain_lain,cord_v1
+KWE BUN SAPI,0,makanan,cord_v1
+KWE GR CMP,7,lain_lain,cord_v1
+Ayam Asam Manis M,0,makanan,cord_v1
+Ikan Gurame Tahu M,0,makanan,cord_v1
+Pocai 3 Telor M,7,lain_lain,cord_v1
+Sapo Tohu Sea M,7,lain_lain,cord_v1
+Udang Gandum L,0,makanan,cord_v1
+FL Cake-French,0,makanan,cord_v1
+Red Velvet S,7,lain_lain,cord_v1
+GUARDIAN F/TISUE,7,lain_lain,cord_v1
+Lemon,1,minuman,cord_v1
+GIANT FCL TISSUE,3,belanja,cord_v1
+MITU S/C BLUE,0,makanan,cord_v1
+PPSODENT TP WHTNG,7,lain_lain,cord_v1
+FORMULA S/P P,7,lain_lain,cord_v1
+NICE TRAVEL PACK,1,minuman,cord_v1
+RICHEESE WFR KJ P,1,minuman,cord_v1
+RICHOCO WFR CH P1,7,lain_lain,cord_v1
+JERUK LEMON IMP,1,minuman,cord_v1
+GOLIA ACTIV PLS 4,7,lain_lain,cord_v1
+S/QUEEN MONTES 50,1,minuman,cord_v1
+DELFI C/CHA MINIS,0,makanan,cord_v1
+WAXING UNDER ARM,7,lain_lain,cord_v1
+Bakpao telur asin,7,lain_lain,cord_v1
+Cai Mieo,0,makanan,cord_v1
+caisim special,7,lain_lain,cord_v1
+Carsiupau Ayam,0,makanan,cord_v1
+Fish Glue,0,makanan,cord_v1
+Jamur Isi Ayam,0,makanan,cord_v1
+Kailan hongkong,7,lain_lain,cord_v1
+Kuah Kaldu Ayam,0,makanan,cord_v1
+Kue Macok,7,lain_lain,cord_v1
+Pangsit Special,7,lain_lain,cord_v1
+Sirloin Roll Enoki,7,lain_lain,cord_v1
+Sutake Kombinasi,0,makanan,cord_v1
+Tahu Jepang,0,makanan,cord_v1
+Tahu Sandwidh,0,makanan,cord_v1
+TOM YAM,7,lain_lain,cord_v1
+Chines Tea Green Tea,1,minuman,cord_v1
+Tahu Isi Ayam,0,makanan,cord_v1
+Green tea Dingin,1,minuman,cord_v1
+Bakso Ikan,0,makanan,cord_v1
+MIE + AYAM KATSU TERI...,0,makanan,cord_v1
+MIE SIRAM AYAM,0,makanan,cord_v1
+FRENCH FRIES,1,minuman,cord_v1
+PECEL MADIUN,0,makanan,cord_v1
+Crunchy Wings(5) Luisiana,7,lain_lain,cord_v1
+Bogo (5) Boneless,1,minuman,cord_v1
+FF SoftDrink (M),1,minuman,cord_v1
+Mush Fritters,7,lain_lain,cord_v1
+Se'i Sapi Sambal Lu'at (R),0,makanan,cord_v1
+Lidah Asap Sambal Lu'at ( R ),7,lain_lain,cord_v1
+Cuci,7,lain_lain,cord_v1
+B Pjg/Vr 3,7,lain_lain,cord_v1
+HAZELNUT CHOCO III (R),7,lain_lain,cord_v1
+[MD] SOFT STEAMED CHOCOCAKE,1,minuman,cord_v1
+Spicy Tuna,7,lain_lain,cord_v1
+"SKECHERS GIRLS NO COLOR, 4",7,lain_lain,cord_v1
+[MD] SOFT MORNING ROLL,7,lain_lain,cord_v1
+REAL HONEY PANCAKE BREAD,0,makanan,cord_v1
+JUICE JAMBU,1,minuman,cord_v1
+N AYM PENYET SAMBAL MATAH,7,lain_lain,cord_v1
+TAHU DOMBA MEMBARA,0,makanan,cord_v1
+TP KULIT,7,lain_lain,cord_v1
+PAIN AU CAFE MOCHA,1,minuman,cord_v1
+Avocado with Rock Salt and Cocoa Cream [L],7,lain_lain,cord_v1
+Night cream Soybean,7,lain_lain,cord_v1
+SANGU TIMBEL KOMPLIT,7,lain_lain,cord_v1
+SANGU TUTUG ONCOM,7,lain_lain,cord_v1
+TOGE LAUK ASIN,7,lain_lain,cord_v1
+TERONG BEJEUG,7,lain_lain,cord_v1
+TEH SEREH,1,minuman,cord_v1
+GREENTEA BLENDED CREAM,1,minuman,cord_v1
+Nasgor Jawa,7,lain_lain,cord_v1
+Jeruk Panas,1,minuman,cord_v1
+KRPU MCN TIM 700,7,lain_lain,cord_v1
+AYM RBS 1 EKOR,7,lain_lain,cord_v1
+IKAN MALAS 650GR,0,makanan,cord_v1
+Cheese Tart Original,1,minuman,cord_v1
+FL Mille Crepes -,1,minuman,cord_v1
+MINERALWATER,1,minuman,cord_v1
+PAKET NYLON HEADBAND,7,lain_lain,cord_v1
+Paket KP1,7,lain_lain,cord_v1
+Yi Fu Mies Small,1,minuman,cord_v1
+Bakmi Ayam,0,makanan,cord_v1
+1/2 Baso Sapi,0,makanan,cord_v1
+Chicken Mushroom Puf f,0,makanan,cord_v1
+LS TOILETBRUSH102,7,lain_lain,cord_v1
+TAMMIA 259,0,makanan,cord_v1
+WDH SUN GEL 40ML,7,lain_lain,cord_v1
+TAM 424 BUFFER 219,7,lain_lain,cord_v1
+SIKAT BOTOL/BSC,2,transportasi,cord_v1
+GOCUJANG H.200G,7,lain_lain,cord_v1
+PM CABE HIJAU CURA,7,lain_lain,cord_v1
+TIMUN JEPANG,7,lain_lain,cord_v1
+KONGKEE TOFU JEPUN,7,lain_lain,cord_v1
++PALM SHW GEL 450,7,lain_lain,cord_v1
+MIE MERAH PG,0,makanan,cord_v1
+MIE CINCANG,0,makanan,cord_v1
+Ice thai tea,1,minuman,cord_v1
+PAKET WEEKEND 1,7,lain_lain,cord_v1
+PAKET WEEKEND 2,7,lain_lain,cord_v1
+KOPI HITAM,1,minuman,cord_v1
+ES BATU,1,minuman,cord_v1
+DIHUN CAMPUR,7,lain_lain,cord_v1
+1066-Choconut Bun,0,makanan,cord_v1
+GRILLED BABY POTATO ( R,7,lain_lain,cord_v1
+HOT TUNA,1,minuman,cord_v1
+Es Kopi Rupa,1,minuman,cord_v1
+S-Ovaltine 50%,7,lain_lain,cord_v1
+M-Caramel Black Tea,1,minuman,cord_v1
+LE MINERAL,1,minuman,cord_v1
+Choco Devil,7,lain_lain,cord_v1
+TALAM UNGU,7,lain_lain,cord_v1
+Serbu 1,7,lain_lain,cord_v1
+Choco Peanut Bread,7,lain_lain,cord_v1
+Se'I Sapi Sambal Matah ( R ),0,makanan,cord_v1
+Se'I Sapi Lada Hitam (J),0,makanan,cord_v1
+Milk Shake Coklat,1,minuman,cord_v1
+MINERAL 600 ML,1,minuman,cord_v1
+BULGOGI RICE R,1,minuman,cord_v1
+LEMONADE 16OZ,1,minuman,cord_v1
+beef C roll 3pcs,0,makanan,cord_v1
+kaya bred,7,lain_lain,cord_v1
+FUTAMI 17 GREEN TEA (CLAS,1,minuman,cord_v1
+GRAIN CROQUE MONSIEUR,7,lain_lain,cord_v1
+JAMUR,3,belanja,cord_v1
+TAHU,0,makanan,cord_v1
+Mango Lemon Tea,1,minuman,cord_v1
+Sliders Set,7,lain_lain,cord_v1
+Chicken Vege Rice Bowl,1,minuman,cord_v1
+Discount BCA 15%,7,lain_lain,cord_v1
+RedVelvet Nutella,7,lain_lain,cord_v1
+REAL CHEESE INSIDE BREAD,1,minuman,cord_v1
+HAM CHEESE FLAT BREAD,1,minuman,cord_v1
+Sop Sui Jiao,0,makanan,cord_v1
+Siomay Kmbinasi,0,makanan,cord_v1
+Leng Hong Kien,7,lain_lain,cord_v1
+Mie Trsi Kgkung,0,makanan,cord_v1
+Es Teh Tawar,1,minuman,cord_v1
+NASI MERAH/PUTIH,0,makanan,cord_v1
+SAYUR,0,makanan,cord_v1
+KERUPUK/SAMBEL,7,lain_lain,cord_v1
+MINUMAN KEMASAN/REFILL,1,minuman,cord_v1
+REDBEAN BRE/D,7,lain_lain,cord_v1
+FRANKFRUT S/USAGE ROLL,7,lain_lain,cord_v1
+ICED HIBISCUS LYCHEE TEA,1,minuman,cord_v1
+GRILLED BABY POTATO (R,7,lain_lain,cord_v1
+TRUFFLE CREAM,7,lain_lain,cord_v1
+- Gyro Platter Regular,1,minuman,cord_v1
+TERONG,7,lain_lain,cord_v1
+PARU,7,lain_lain,cord_v1
+SBL GR ATI/AMPLA,7,lain_lain,cord_v1
+Gojek Chicken Chilli Sauce H,0,makanan,cord_v1
+Gojek Chicken Soy Sauce F,0,makanan,cord_v1
+Gojek French Fries,1,minuman,cord_v1
+SUNDUBU(TUKBEGI) CHAM KKOT SAL,7,lain_lain,cord_v1
+U SEOL,7,lain_lain,cord_v1
+ICE COFFE MIX,1,minuman,cord_v1
+ICE BLACK COFFE,1,minuman,cord_v1
+ROTI UNYIL,0,makanan,cord_v1
+PAPER BAG BESAR,1,minuman,cord_v1
+MARBLE CASTELA,7,lain_lain,cord_v1
+SB 1 OR,7,lain_lain,cord_v1
+Chokocha Flt,7,lain_lain,cord_v1
+Bbq Bento,7,lain_lain,cord_v1
+KENTHIR 2,7,lain_lain,cord_v1
+KOL GORENG,0,makanan,cord_v1
+Cha Keaw L...,7,lain_lain,cord_v1
+Thai Iced T. .x1,1,minuman,cord_v1
+SEAFOOD MARINARA,7,lain_lain,cord_v1
+CREAMY MARINARA SALMON,7,lain_lain,cord_v1
+LYCHEE ICE TEA,1,minuman,cord_v1
+XLB Org Pork 10x,7,lain_lain,cord_v1
+Sicito Babi,0,makanan,cord_v1
+Hotplate Tahu,1,minuman,cord_v1
+DF Fish Fillet Garlc,0,makanan,cord_v1
+LM Pork Belly,7,lain_lain,cord_v1
+Siew Mai,7,lain_lain,cord_v1
+Kwan Yin Cup,7,lain_lain,cord_v1
+Herbal Jelly,7,lain_lain,cord_v1
+Onde-Onde,7,lain_lain,cord_v1
+VANILLA CHOCO HEART CAKE,0,makanan,cord_v1
+Populaire Chocolate,1,minuman,cord_v1
+Paddle Pop Choco Magma,7,lain_lain,cord_v1
+French Fries,1,minuman,cord_v1
+Cheese Burger,1,minuman,cord_v1
+SOTO MEDAN+NASI,0,makanan,cord_v1
+GADO-GADO,0,makanan,cord_v1
+SOTO BETAWI + NASI,0,makanan,cord_v1
+KaraageCurryTeishoku,7,lain_lain,cord_v1
+Lemon Plate,1,minuman,cord_v1
+Dum Dum Thai Coffee,1,minuman,cord_v1
+Ori Bento,7,lain_lain,cord_v1
+Mango Float,7,lain_lain,cord_v1
+F.Wngr GES-HC,1,minuman,cord_v1
+Enting2 Dua Bandeng Ori,7,lain_lain,cord_v1
+TAHU BAKSO Grg Ayam VC [biji,0,makanan,cord_v1
+Soto Betawi,0,makanan,cord_v1
+Crab Stick,7,lain_lain,cord_v1
+Bakso Lobster,0,makanan,cord_v1
+Sawi Putih,7,lain_lain,cord_v1
+Jamur Enoki,3,belanja,cord_v1
+Maling,7,lain_lain,cord_v1
+Sate Padang,0,makanan,cord_v1
+SURIMI,0,makanan,cord_v1
+CREAMY CHK CLS FTC,7,lain_lain,cord_v1
+MIX 4FUN CHOCOLATE,1,minuman,cord_v1
+GREEN ITSODA PITCHER,1,minuman,cord_v1
+SC/R GRILLED STEAK,1,minuman,cord_v1
+PEARL CHOCO TEA,1,minuman,cord_v1
+GREEN TEA LYCHEE,1,minuman,cord_v1
+TUTUP SEAL,7,lain_lain,cord_v1
+CUP 14 OZ,7,lain_lain,cord_v1
+S-Milk tea,1,minuman,cord_v1
+HAZELNUT CHOCO MT (R),7,lain_lain,cord_v1
+M-Passion Fruit Mac,7,lain_lain,cord_v1
+PAKET BER4 UP3,7,lain_lain,cord_v1
+Chocochip & Walnut,7,lain_lain,cord_v1
+Plastic Bag Small,3,belanja,cord_v1
+REGULAR,7,lain_lain,cord_v1
+K7 1217,7,lain_lain,cord_v1
+<FC Winger HC,7,lain_lain,cord_v1
+PAKET BER4,7,lain_lain,cord_v1
+50% CHICKEN ROYAL,0,makanan,cord_v1
+SAYAP,7,lain_lain,cord_v1
+PAHA BAWAH,7,lain_lain,cord_v1
+-TICKET CP,2,transportasi,cord_v1
+J.STB PROMO,7,lain_lain,cord_v1
+Y.B.BAT,7,lain_lain,cord_v1
+Y.BASO PROM,0,makanan,cord_v1
+JASMINE MT ( L ),0,makanan,cord_v1
+DONAT GULA,7,lain_lain,cord_v1
+ICE BLACKCOFFE,1,minuman,cord_v1
+AVOCADO COFFEE,1,minuman,cord_v1
+CHIKEN KATSU FF,7,lain_lain,cord_v1
+CHOCO CUS ARD PASTRY,7,lain_lain,cord_v1
+Kupon 15,7,lain_lain,cord_v1
+Bumbu Kaldu Ayam 1,0,makanan,cord_v1
+BANABERRY FRESH CREAM CAK,1,minuman,cord_v1
+BLUS WANITA,7,lain_lain,cord_v1
+SHOPPING BAG,3,belanja,cord_v1
+RedVelvet Cheese Slc,1,minuman,cord_v1
+Chicken Baked Rice,1,minuman,cord_v1
+Fish n Chips,0,makanan,cord_v1
+Iced Tea,1,minuman,cord_v1
+[LG] BLACK SAKURA,7,lain_lain,cord_v1
+IVINERAL WATER (bundling) 5k,1,minuman,cord_v1
+Goblin's Mace,7,lain_lain,cord_v1
+Mozarella Hot Dog,1,minuman,cord_v1
+Chili Pepper Croquette,7,lain_lain,cord_v1
+Cheese Croquette,1,minuman,cord_v1
+Plastik Amook,3,belanja,cord_v1
+Plastik Putih Take Away,3,belanja,cord_v1
+Propolis Cair,1,minuman,cord_v1
+AMBUSH DBL CHS,2,transportasi,cord_v1
+AMBUSH CHS BUR,2,transportasi,cord_v1
+cashew nuts chkn,7,lain_lain,cord_v1
+garlic pepper beef,0,makanan,cord_v1
+red curry beef,0,makanan,cord_v1
+phad thai,1,minuman,cord_v1
+steamed rice,1,minuman,cord_v1
+NASI GOR SFD TLR,0,makanan,cord_v1
+Nasi Cap Cay Porsi B esar,1,minuman,cord_v1
+Teh Tawar,1,minuman,cord_v1
+Fu Yung Hai,7,lain_lain,cord_v1
+Kupon 3,7,lain_lain,cord_v1
+Ash Chick Sambal Matah,7,lain_lain,cord_v1
+Jamur Goreng,0,makanan,cord_v1
+CREAMCHEESE BREAD,1,minuman,cord_v1
+LUNCH BOX 3P SET W/RED BAG & SP00 N.,3,belanja,cord_v1
+RICE CASE 7L W/CUP,1,minuman,cord_v1
+LUNCH BOX 3P SET W/BLACK BAG & SP OON,3,belanja,cord_v1
+Snack Lestari All,1,minuman,cord_v1
+"Bakery Aneka Sisir Banana,Pizza,yoko,Mar mer,Daging,abon,keju,cokelat,dll",0,makanan,cord_v1
+Chicken Maryland,0,makanan,cord_v1
+Cappucino (Hot/Iced),1,minuman,cord_v1
+Naga Lychee Juice,1,minuman,cord_v1
+Cafe Latte,1,minuman,cord_v1
+Hot Chocolate Marshmallo,1,minuman,cord_v1
+Chicken Cesar Salad,1,minuman,cord_v1
+Lychee/Peach/Lemon/Mango,1,minuman,cord_v1
+Chicken HCC. 1Pcs,0,makanan,cord_v1
+Mike & Ike Original,0,makanan,cord_v1
+Mike & Berry,0,makanan,cord_v1
+Roti Keju Manis.,0,makanan,cord_v1
+S-Bubble Milk Tea,1,minuman,cord_v1
+S-Caramel Milk Tea,1,minuman,cord_v1
+COPIA 1 /GB,7,lain_lain,cord_v1
+PLASTIC BAG RED CENTRAL SI,3,belanja,cord_v1
+S-Hazelnut KOI Cafe,7,lain_lain,cord_v1
+Ptgs Eggtart,7,lain_lain,cord_v1
+Choco Melt,7,lain_lain,cord_v1
+Superice Cauburry,1,minuman,cord_v1
+(TA) NASI GRG TERI MEDAN,0,makanan,cord_v1
+(TA) BIHUN GORENG SEAFOOD,0,makanan,cord_v1
+(TA) KWETIAW SEAFOOD SIRAM,7,lain_lain,cord_v1
+(TA) NASI GORENG,0,makanan,cord_v1
+Pecel Komplit + Nasi,0,makanan,cord_v1
+SOTO KUDUS,0,makanan,cord_v1
+KACANG MERAH,7,lain_lain,cord_v1
+APPLE CINNAMON PASTRY,7,lain_lain,cord_v1
+ICED GT,1,minuman,cord_v1
+PHO BO TAI,0,makanan,cord_v1
+Tahu Isi,0,makanan,cord_v1
+Kepiting 7-8.4ons - Chilly 0.7 1,7,lain_lain,cord_v1
+Udang Telur Asin - Regular,0,makanan,cord_v1
+Kailan 2 Rasa,7,lain_lain,cord_v1
+Mantau - 2 pcs,7,lain_lain,cord_v1
+Sweet Tea,1,minuman,cord_v1
+Mantau - 3 pcs,7,lain_lain,cord_v1
+Topping Milo Sparkle (untuk 1 Po rsi),0,makanan,cord_v1
+Bola Ubi Mini Original (14 Pcs ),0,makanan,cord_v1
+TEH KOTAK,1,minuman,cord_v1
+XXI Java Tea (M),1,minuman,cord_v1
+Kopi Susu Kampung.,1,minuman,cord_v1
+SINGLE SCOOP,7,lain_lain,cord_v1
+Bubur Polos + Telur,0,makanan,cord_v1
+PILLOW DURIA,7,lain_lain,cord_v1
+=*LARGE*==,7,lain_lain,cord_v1
+=*MEDIUM*=,7,lain_lain,cord_v1
+Cuka Apel Tetes,1,minuman,cord_v1
+SPRITE,1,minuman,cord_v1
+GRILLED CALAMARI,7,lain_lain,cord_v1
+Chocolate Log Cake,1,minuman,cord_v1
+Snowman Cake Chocolate,1,minuman,cord_v1
+Strawberry Log Cake,0,makanan,cord_v1
+Nasi Tambah,0,makanan,cord_v1
+Ayam Pop,0,makanan,cord_v1
+Samabal SP,7,lain_lain,cord_v1
+Sambal Gabus Asin Cb,2,transportasi,cord_v1
+Kerupuk Kuah,7,lain_lain,cord_v1
+Ikan Bawal Besa,1,minuman,cord_v1
+Teh Es,1,minuman,cord_v1
+Es Batu,1,minuman,cord_v1
+PHOTAI CHIN,1,minuman,cord_v1
+BAKSO BNGKS,0,makanan,cord_v1
+GORENGAN,0,makanan,cord_v1
+TAHU GORENG,0,makanan,cord_v1
+CAKWE,7,lain_lain,cord_v1
+PHO TAI CHIN(R),0,makanan,cord_v1
+TEA,1,minuman,cord_v1
+BUBUR GO,0,makanan,cord_v1
+PUYUH GO,7,lain_lain,cord_v1
+SATE ATI GO,0,makanan,cord_v1
+BLACK PAPPER MEATBALL PAS,0,makanan,cord_v1
